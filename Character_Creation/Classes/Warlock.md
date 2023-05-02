@@ -408,3 +408,4 @@ prepared.
 - Gills
 - Vass' Psychic Blast
 - Stoneskin
+- Brimstone

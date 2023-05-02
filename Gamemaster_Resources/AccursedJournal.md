@@ -101,7 +101,7 @@ Skin swimmers are tadpole sized fish which magically imprint to the surface of
 an afflicted creature's skin. When attached to a host they appear as 
 multicolored koi tattoos that swim across the skin. Skin swimmers move along the
 skin of a host consuming scabs and various other dead cells, causing them to
-regain 1 less hitpoint per stamina die when rolling health gained during a rest. 
+regain 1 less hitpoint per hit die when rolling health gained during a rest. 
 When not attached to a host skin swimmers can be found in clear water ponds, 
 lakes and various streams, appearing as colorful glowing koi fish.
 
@@ -125,7 +125,7 @@ for affects on the character.
 +---------------+----------------------------------------------------------------------------------+
 | 3 (Stage 3)   | Onset of weakness, -1 to STR and CON modifier                                    |
 +---------------+----------------------------------------------------------------------------------+
-| 4 (Stage 4)   | Shortness of breath exacerbated, -1 max stamina die (min 1)                      |
+| 4 (Stage 4)   | Shortness of breath exacerbated, -1 max hit die (min 1)                          |
 +---------------+----------------------------------------------------------------------------------+
 | 7 (Stage 5)   | Full body weakness, additional -1 to STR, DEX, and CON mod                       |
 +---------------+----------------------------------------------------------------------------------+

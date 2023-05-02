@@ -115,7 +115,7 @@ surprised by it and has proficiency in stealth.
 
 # Attacks:
 
-- Claws +3 1d4 Slashing Damage, 1 target within 5 feet
+- Claws +2 1d4 Slashing Damage, 1 target within 5 feet
 
 # Actions:
 
@@ -181,7 +181,7 @@ Proficiency Bonus: +1
 
 # Attacks:
 
-- Grinding Bite +6 3d4 piercing damage, 1 target within 20 feet. 
+- Grinding Bite +5 3d4 piercing damage, 1 target within 20 feet. 
 
 # Actions:
 - Swallow: The Dredger attempts to swallow one large or smaller creature. it 
@@ -254,7 +254,7 @@ other than brute strength
 Dreadbeast (Juggernaut)
 Gargantuan Aberration
 XP: ???
-HP: 116(8d20+32)
+HP: 130(9d20+36)
 AC: 14(natural, fur)
 Speed: 45ft, Climb 50ft
 Proficiency Bonus: +3
@@ -265,15 +265,16 @@ Proficiency Bonus: +3
 
 # Features
 
-- Undexterous: The Dreadbeast is incapable of reaching the point directly between
-its legs
-- Movement based sight: The dreadbeast cannot see anything more than 30 feet away 
-that is not moving.
-- Multiattack: The Dreadbeast makes two attacks.
+- Undexterous: The Dreadbeast is incapable of reaching the point directly 
+between its legs
+- Movement based sight: The dreadbeast cannot see anything more than 30 feet 
+away that is not moving.
+- Multiattack: The Dreadbeast makes three attacks.
+- Nonmagically immunity: The Dreadbeast has resistance to nonmagical damage
 
 # Attacks
-Stomp +9 2d10 bludgeoning damage, targets a 10 foot cube within 20 feet of the
+Stomp +9 3d10 bludgeoning damage, targets a 10 foot cube within 20 feet of the
 dreadbeast
-Bite +9 3d10 piercing damage, 1 target within 20 feet.
+Bite +9 4d10 piercing damage, 1 target within 20 feet.
 
 ```

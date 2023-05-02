@@ -96,6 +96,13 @@ account balance of 1000 GP.
 You are automatically proficient in your tools of trade.
 
 ## Farmer
+Your tools of trade are a scythe and a shovel
+
+### Farm Knowledge
+You gain proficiency in nature and survival and have advantage on checks to 
+identify plants and animals.
+
+## Rancher
 Your tools of trade are a trident, 10 rations of animal feed, and a net.
 
 #### Herder

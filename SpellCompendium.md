@@ -3180,6 +3180,22 @@ take no damage.
 
 ```
 
+```
+
+Brimstone (3rd) (48)
+
+Range: Self/60 foot line
+Components: V/S
+Duration: Instantaneous
+Casting Time: 1 action
+Description:
+You call forth a beam of boiling blood from Phlegethon in the 7th circle of 
+hell, firing it in a 60 by 5 foot line originating from yourself. Any creatures 
+in the area must make a constitution saving throw or take 4d6 Fire damage and 
+4d6 acid damage or half as much on a successful save.
+
+```
+
 # 4th Level Spells
 
 ```

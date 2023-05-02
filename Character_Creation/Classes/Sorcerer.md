@@ -50,15 +50,15 @@ ST = Amount of Sorcerer Techniques
 | LVL | XP    | HD |Prof | MMP |  ST | Features                                 |
 +-----+-------+----+-----+-----+-----+------------------------------------------+
 |   1 |     0 | 2  | +1  |  2  |  0  | Supernatural Origin, Mana Casting        |
-|   2 |   300 | 4  | +1  |  3  |  0  | Hitpoint Increase                        |
-|   3 |   900 | 6  | +2  |  6  |  2  | Sorcery Techniques, Hitpoint Increase    |
-|   4 |  1800 | 8  | +2  |  11 |  3  | Hit point re-roll                        |
+|   2 |   300 | 4  | +1  |  4  |  0  | Hitpoint Increase                        |
+|   3 |   900 | 6  | +2  |  8  |  2  | Sorcery Techniques, Hitpoint Increase    |
+|   4 |  1800 | 8  | +2  |  12 |  3  | Hit point re-roll                        |
 |   5 |  3600 |10  | +2  |  16 |  3  | Ability Score Increase                   |
 |   6 |  6100 |12  | +2  |  20 |  3  | Supernatural Origin Feature              |
-|   7 |  9100 |14  | +3  |  27 |  4  |                                          |
-|   8 | 13100 |16  | +3  |  36 |  4  | Ability Score Increase                   |
-|   9 | 22600 |18  | +4  |  48 |  4  |                                          |
-|  10 | 44600 |20  | +4  |  64 |  5  | Epic Spells                              |
+|   7 |  9100 |14  | +3  |  24 |  4  |                                          |
+|   8 | 13100 |16  | +3  |  32 |  4  | Ability Score Increase                   |
+|   9 | 22600 |18  | +4  |  40 |  4  |                                          |
+|  10 | 44600 |20  | +4  |  48 |  5  | Epic Spells                              |
 +-----+-------+----+-----+-----+-----+------------------------------------------+
 
 ```
@@ -76,36 +76,37 @@ the specific features of each supernatural origin may be found at the end of
 this document.
 
 ### Mana Casting
-You have the ability to alter the magic at its source, energy that flows through 
-all of creation creating magical effects, Mana. You have a pool of mana which
-refills every time you rest. You may expend amounts of mana in order to cast
-spells. Refer to the max mana points column of the sorcerer level chart to 
-determine how much mana is at your disposal at a given level. You may cast a 
-spell without using mana, but you must roll a mana check. If you roll equal to 
-or less than the mana cost of the spell roll a 1d4-1, rerolling on a 1. On a sum 
-of 1 roll on the "Bad Corruptions" table. On a sum of 2 roll on the  
-"Minor Detrimental Corruptions" table. On a sum of 3 roll on the 
-"Good Corruptions" chart. Refer to the following chart for the mana cost of
-different spell levels:
+You have the ability to alter reality using magic at its most basic level, 
+energy that flows through all of creation creating magical effects, Mana. You 
+have a pool of mana which refills every time you rest. You may expend amounts of 
+mana in order to cast spells. Refer to the max mana points column of the 
+sorcerer level chart to determine how much mana is at your disposal at a given 
+level. You may cast a spell without using mana, but you must roll a mana check 
+against the save DC of the level of spell you are casting to attempt to avoid 
+corruption. If you roll a mana check lower than the DC of the spell level you 
+must roll a on the corruptions chart listed for that spell level. Refer to the 
+following chart for the mana cost and manaless casting DC of different spell 
+levels:
 
 ```
 
-|  Spell Level  |  Mana Cost  |
-| ------------- | ----------- |
-|  Cantrip      |  1          |
-|  1            |  2          |
-|  2            |  4          |
-|  3            |  8          |
-|  4            |  16         |
-|  5            |  32         |
-|  6            |  64         |
-| ------------- | ----------- |
+|  Spell Level  |  Mana Cost  |  Save DC  |  Chart Type     |
+| ------------- | ----------- | --------- | --------------- |
+|  Cantrip      |  1          |  6        |  negligible     |
+|  1            |  2          |  8        |  negligible     |
+|  2            |  4          |  10       |  minor det      |
+|  3            |  8          |  14       |  minor det      |
+|  4            |  16         |  17       |  Bad            |
+|  5            |  32         |  18       |  Bad            |
+|  6            |  48         |  26       |  Instant Death  |
+| ------------- | ----------- | --------- | --------------- |
 
 ``` 
 You learn 2 cantrips and 3 first level spells from the sorcerer spell list. You 
-learn 1 spell of a level you are capable of casting, no more than 5th level, 
-from the sorcerer spell list each time you level up. A sorcerer who knows a 
-spell that you do not may teach you that spell over the course of one week.
+learn 1 spell of a level you are capable of casting using mana, no more than 
+5th level, from the sorcerer spell list each time you level up. A sorcerer who 
+knows a spell that you do not may teach you that spell over the course of one 
+week.
 
 ### Hitpoint Increase
 Your hitpoints increase by 1d4 + your constitution modifier.
