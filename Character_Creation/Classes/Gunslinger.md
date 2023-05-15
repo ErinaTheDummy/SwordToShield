@@ -26,7 +26,7 @@ You gain proficiency in 3 skills of your choice.
 | --------------- | -------------------------------------------------- |
 |  Proficiency    |  Applicable Items                                  |
 | --------------- | -------------------------------------------------- |
-|  Armor          |  None.                                             |
+|  Armor          |  Light Armor                                       |
 | --------------- | -------------------------------------------------- |
 |  Weapons        |  Firearms, Shortswords, Daggers, Clubs, Crossbows  |
 | --------------- | -------------------------------------------------- |
@@ -67,8 +67,8 @@ scrap and smith's tools. Refer to the list of firearms at the end of this
 document for their statistics as well as their scrap cost. 
 
 ### Scrap
-You are capable of scrapping 10 lbs of metal material and turning it into a 
-usable unit of scrap.
+You are capable of scrapping 10 lbs of metal material, turning it into a usable 
+unit of scrap.
 
 ### Modify
 You are capable of applying modifications to your firearms, increasing their 
@@ -104,7 +104,7 @@ is increased by an additional 3d6.
 # Crafting
 Range refers to the effective and disadvantage range of an item, magazine refers
 to the amount of ammunition an item may hold, and cost refers to the amount of
-scrap needed to craft the item.
+scrap needed to craft the item. Range refers to range in feet.
 
 ### Reloading
 When the magazine is fully expended you must expend an action to reload it,
@@ -119,14 +119,14 @@ take damage as if they were hit by an attack.
 
 ### Misfire
 When you roll a natural roll of your misfire score or lower you must expend an
-action to make a DC 16 check with your smith's tools in order to unjam the 
-weapon. If you fail you must unjam the weapon during a rest to return it to an
-operational state.
+action to make check with your smith's tools or tinker's tools where the DC is
+10 + the misfire score of your firearm in order to unjam the weapon. If you fail
+you must unjam the weapon during a rest to return it to an operational state.
 
 ### Dynamite
 Dynamite may be lit and thrown as an action, dealing 5d6 force damage over a 20
-foot radis sphere centered on it. It may also be lit as an action and set to 
-explode within up to 1 minute of lighting.
+foot radis sphere centered on a point within 40 feet of the thrower. It may also
+be lit as an action and set to explode within up to 1 minute of lighting.
 
 ### Speedloader
 You may pre-load a speedloader with ammunition for a firearm, allowing you to
@@ -146,12 +146,18 @@ When you fire a weapon with the kick property, make a DC 16 strength saving
 throw, on a failure you are pushed 5 feet back from the direction you fired and
 fall prone. 
 
+### Dynamite Launcher
+The dynamite launcher fires a stick of dynamite, lighting it as it is fired, at
+a target within 240 feet. Regardless of if the attack hits the target or not 
+the stick of dynamite fired at them lands at their feet, exploding on the 
+beginning of the next creature in initiative count's turn.
+
 ```
 Simple Pistol
 Range: 20/40
 Magazine: 1
 Scrap Cost: 5
-Damage: 1d8 + dex
+Damage: 1d8 + Dex piercing
 Properties: Reloading, Light.
 Ammo Type: Pistol
 Misfire Score: 1
@@ -162,7 +168,7 @@ Pistol
 Range: 30/60
 Magazine: 1
 Scrap Cost: 20
-Damage: 1d10 + Dex
+Damage: 1d10 + Dex piercing
 Properties: Reloading
 Ammo Type: Pistol
 Misfire Score: 2
@@ -173,7 +179,7 @@ Rifle
 Range: 60/120
 Magazine: 1
 Scrap Cost: 50
-Damage: 1d12 + Dex
+Damage: 1d12 + Dex piercing
 Properties: Reloading, Two-Handed
 Ammo Type: Rifle
 Misfire Score: 2
@@ -184,7 +190,7 @@ Shotgun
 Range: 20/40
 Magazine: 1
 Scrap Cost: 50
-Damage: 2d8 + Dex
+Damage: 2d8 + Dex piercing
 Properties: Reloading, Two-Handed
 Ammo Type: Rifle
 Misfire Score: 2
@@ -222,7 +228,7 @@ High Power Rifle
 Range: 80/160
 Magazine: 1
 Scrap Cost: 100
-Damage: 2d10 + Dex
+Damage: 2d10 + Dex piercing
 Properties: Reloading, Heavy, Two-Handed
 Ammo Type: Rifle
 Misfire Score: 3
@@ -233,7 +239,7 @@ Heavy Weapon
 Range 80/160
 Magazine: 10
 Scrap Cost: 100
-Damage: 1d10 + Dex
+Damage: 1d10 + Dex piercing
 Properties: Reloading, Two-Handed, Heavy, Automatic
 Ammo Type: Rifle
 Misfire Score: 3
@@ -244,10 +250,21 @@ Four Bore Rifle
 Range 60/100
 Magazine: 1
 Scrap Cost: 150
-Damage: 4d10 + Dex
+Damage: 5d10 + Dex  piercing
 Properties: Reloading, Two-Handed, Heavy, Cumbersome, kick
 Ammo Type: 4 Bore
 Misfire Score: 5
+```
+
+```
+Dynamite Launcher
+Range 240
+Magazine: 1
+Scrap Cost: 100
+Damage: 1d8 + Dex bludgeoning
+Properties: Reloading, Two-Handed, Heavy, Special
+Ammo Type: Dynamite
+Misfire Score: 3
 ```
 
 ```
@@ -304,6 +321,8 @@ You apply the automatic property to a weapon.
 ### Ergonomic Grip (30 Scrap) (6th Level)
 You alter the grip of a weapon in order for it to perfeclty fit to your hand.
 You cannot have disadvantage within the effective range of the modified weapon.
+
+### Silencer (30 Scrap) (6th level)
 
 # Maneuvers
 Certain maneuvers may refer to saving throws, the DC for these saving throws are

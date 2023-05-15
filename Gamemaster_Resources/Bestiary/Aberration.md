@@ -244,10 +244,11 @@ than hunt and devour. Dreadbeasts are often told in stories as boogeyman-like
 figures, so their existance is often a topic of debate.
 
 ### Dreadbeast Juggernauts
-A creature standing at 35 feet tall with horns 10 feet across, with 3 catlike 
+A creature standing at 45 feet tall with horns 10 feet across, with 3 catlike 
 eyes, the tail of a lion, and the body shape of a lycanthrope. Dreadbeast
 juggernauts are the typical big monster, and dont have much going for them 
-other than brute strength
+other than brute strength. Dreadbeast juggernauts strengthen each time they are
+defeated, dying only after being killed three times. 
 
 ```
 
@@ -255,7 +256,7 @@ Dreadbeast (Juggernaut)
 Gargantuan Aberration
 XP: ???
 HP: 130(9d20+36)
-AC: 14(natural, fur)
+AC: 18(natural, fur)
 Speed: 45ft, Climb 50ft
 Proficiency Bonus: +3
 |STR|DEX|CON|INT|WIS|CHA|
@@ -270,7 +271,11 @@ between its legs
 - Movement based sight: The dreadbeast cannot see anything more than 30 feet 
 away that is not moving.
 - Multiattack: The Dreadbeast makes three attacks.
-- Nonmagically immunity: The Dreadbeast has resistance to nonmagical damage
+- Nonmagically resistance: The Dreadbeast has resistance to nonmagical damage
+- Three lives: 10 minutes after death, the dreadbeast returns to life; but only
+the first two times it dies. Each time it raises, its stats increase to account
+for its previous downfalls; perhaps an increase in AC for a party that never 
+missed or a new feature to neutralize a strategy of the party. 
 
 # Attacks
 Stomp +9 3d10 bludgeoning damage, targets a 10 foot cube within 20 feet of the

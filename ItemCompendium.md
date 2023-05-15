@@ -137,7 +137,7 @@ Adventuring necessitates equipment.
 | Robes                       | 1   gp   | 4 lb.  |
 | Rope, hempen (50 feet)      | 1   gp   | 10 lb. |
 | Rope, silk (50 feet)        | 10  gp   | 5 lb.  |
-| Scrap Metal                 | 1   sp   | 1 lb.  |
+| Scrap Metal                 | 1   gp   | 1 lb.  |
 | Sack                        | 1   cp   | 1/2 lb.|
 | Scale, merchant’s           | 5   gp   | 3 lb.  |
 | Sealing wax                 | 5   sp   | —      |

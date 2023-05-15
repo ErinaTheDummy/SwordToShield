@@ -53,12 +53,12 @@ Your magical ability limit (Maximum Grace, Maximum Glyphs, Maximum Mana, Etc.)
 doubles.
 
 ### Boon of Resolve
-Your hitpoint maximum increases by 15 points.
+Your hitpoint maximum increases by 15 points and you gain immunity to fear.
 
 ### Boon of The Blessed
 You are blessed by a divine being, usually a god or an angel. You automatically
 regain maximum hitpoints from healing spells and effects such as rolling hit
 dice while resting. Effects such as the beacon of hope spell double the healing
 you recieve. Each time you complete a rest you may expend and roll a hit die, 
-increasing your maximum hit die by amount rolled until the end of your next 
-rest.
+increasing your maximum hit points by the amount rolled until the end of your 
+next rest.

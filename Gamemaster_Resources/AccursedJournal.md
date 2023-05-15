@@ -176,15 +176,18 @@ in tiers, refer to the following chart in order to determine the effects.
 
 ```
 ## Corruptions
-Corruptions are, sometimes irreversible, mutations to your character, brought on
-by corrupted mana radiation. When you are forced to roll a corruption roll a
-1d4.
+Corruptions are, sometimes irreversible, mutations to your character brought on
+by corrupted mana radiation. Each chart uses a d20 to determine the random 
+corruption a character gains.
 
-### Bad Corruptions (1)
+### Bad Corruptions
 
-#### Instant Death (1)
-Either by turning into a pillar of salt or having your head explode, you 
-instatly die.
+#### My Shadow (1)
+Your shadow detaches from your body, gaining a mind of its own and stats 
+and features identical to yours. It has values antithetical to yours and may
+either attack you the moment it is detached or it may go out into the world
+seeking a way to thwart you over time. This corruption may not be cured until 
+your shadow has been vanquished and until then you have no shadow.
 
 #### Curse (2)
 You are inflicted with a random curse.
@@ -213,7 +216,8 @@ instead aged to the point you have 1 week to live.
 
 #### Mana Sickness (6)
 You gain disadvantage on spell attacks and enemies have advantage on saving 
-throws against your spells.
+throws against your spells. If you do not cast spells you instead gain 
+disadvantage on saving throws against magical effects.
 
 #### Unlucky (7)
 Bad things seem to follow you everywhere, even when everything is going right.
@@ -227,15 +231,17 @@ You are inflicted with a random disease.
 
 #### involuntary Teleportation (9)
 When you take damage you teleport to a random point within 30 feet of you. Roll
-1d6 and multiply it, this is how many feet away you teleport. Roll 1d8, this is
-the direction you teleport.
+1d6 and multiply it by 5, this is how many feet away you teleport. Roll 1d8, 
+this is the direction you teleport; in clockwise order from north (1) to 
+northwest (8).
 
 #### Feature loss (10)
 You lose a random feature
 
-#### Magical Dystrophy (11)
+#### Dystrophy (11)
 Your first time casting a spell after a rest you must make a DC 14 constitution
-saving throw or take damage equal to the damage of your first spell.
+saving throw or take damage equal to the damage of your first spell. If you do 
+not cast spells then this instead applies to your first attack after a rest.
 
 #### Weakness (12)
 Your stength score is reduced by 6
@@ -288,12 +294,12 @@ destruction. roll a 1d4.
 #### Hitpoint Reduction (20)
 Your maximum hitpoints are reduced by 1d10, to a minimum of 1.
 
-### Minor Detrimental Corruptions (2)
+### Minor Detrimental Corruptions
 
 #### Shortened Legs (1)
 Your legs shorten. Your movement speed decreases by 5.
 
-#### brainrot (2)
+#### Brainrot (2)
 Your intelligence and wisdom scores decrease by 2.
 
 #### Naysayer (3)
@@ -301,9 +307,8 @@ A creature grows from the side of your head. This creature is constantly saying
 the opposite of what you mean when you speak. The appearance of the creature is
 determined by your GM.
 
-#### Sniffling (4)
-You are constantly sneezing, on average every 10 seconds. Your speech is often 
-interrupted by a sneeze.
+#### Thin Blood (4)
+Your blood is thinned, reducing your maximum hitpoints by 1 to a minimum of 1.
 
 #### Lost digits (5)
 Two pairs of your fingers on each hand meld together, meaning you only have 2 
@@ -321,8 +326,9 @@ disadvantage on ranged attacks and sight based perception checks.
 #### Softshell (8)
 Your body grows soft and squishy. Your AC is reduced by 2
 
-#### Shedding (9)
-Every night as you sleep you shed a hollow skin from your body.
+#### Honesty (9)
+Any time you attempt to lie you must make a DC 12 wisdom saving throw or blurt
+out the truth.
 
 #### Hunger (10)
 You require twice the regular amount of food to sustain yourself every day.
@@ -341,17 +347,15 @@ on this sense. Roll a 1d4.
 | ---------- | ------ |
 ```
 
-#### Fuzz (12)
-You grow fur all across your body. If you already have fur your fur grows 
-thicker.
+#### Brutally Dishonest (12)
+When you attempt to commend someone you instead harshly insult them.
 
-#### Poorly Mannered Hyperocula (13)
-You grow one or more eyes on your forhead, the eyes stare unblinking at the
-nearest creature you area aware of and never shut, even when you sleep.
+#### Snake Hands (13)
+Your arms become venomous snakes. You retain control of your arms.
 
-#### Hair Tentacles (14)
-Your hair turns into tentacles. If you do not have hair you grow the tentacles
-where you would have hair.
+#### Mouth Tentacles (14)
+Your mouth migrates to the bottom of your head and tentacles grow around it. 
+Your speech is slurred by the tentacles and you are barely comprehensible.
 
 #### Big Eyes (15)
 Your eyes grow freakishly large. You have advantage on sight based perception
@@ -362,23 +366,105 @@ sunlight.
 #### Hefty Tongue (16)
 Your tongue grows so large that it is almost too large for your mouth. When you
 speak make a performance check, on a roll of 10 or higher your words are easily
-comprehendable.
+comprehendable, otherwise they require a DC 14 investigation check to 
+understand.
 
 #### Wooden Nose (17)
 Your nose turns wooden and grows 4 inches each time you lie, returning to its 
 original length after a rest.
 
-#### Branding (18)
-A symbol in Voidspeak is burned into your forhead. The symbol is a single word
-like "idiot" "greedy" "gullibile" or some other deplorable trait decided by
-your GM.
+#### Sweaty Palms (18)
+Your hands are perpetually sweaty, when you are forced to make a check to hold
+onto something you have disadvantage.
 
 #### Shared Heart (19)
 Your heart disappears and a portal opens in the chest cavity of an ally. You 
 both share the same heart. If your ally that you share with dies, you die too.
 
-#### Cranial Blossum (20)
+#### Hallucinogeniac (20)
+Your vison is filled with powerful hallucinations, you may make a DC 8 wisdom
+check to block them out for 1 minute.
+
+### Neutral Corruptions
+
+#### Sniffling (1)
+You are constantly sneezing, on average every 10 seconds. Your speech is often 
+interrupted by a sneeze.
+
+#### Shedding (2)
+Every night as you sleep you shed a hollow skin from your body.
+
+#### Fuzz (3)
+You grow fur all across your body. If you already have fur your fur grows 
+thicker.
+
+#### Poorly Mannered Hyperocula (4)
+You grow one or more eyes on your forhead, the eyes stare unblinking at the
+nearest creature you area aware of and never shut, even when you sleep.
+
+#### Hair Tentacles (5)
+Your hair turns into tentacles. If you do not have hair you grow the tentacles
+where you would have hair.
+
+#### Cranial Blossum (6)
 A flower grows from the top of your head. It indicates your emotional state.
+
+#### Shining Blood (7)
+Your blood contains glitter
+
+#### Riddling (8)
+Everything you say must be formatted as a question.
+
+### Theriopromorphic (9)
+Your hands or feet become that of an animal.
+
+### Pitch Shift (10)
+The pitch of your voice becomes higher or lower.
+
+### Horizontal Blinking (11)
+Your eyes blink horizontally instead of vertically.
+
+### Whiskers (12)
+You grow whiskers.
+
+### Digitigrade Legs (13)
+Your legs become that of a goat or similar animal, if you already have legs like
+this they instead become that of a homo sapien.
+
+#### Branding (14)
+A symbol in Voidspeak is burned into your forhead. The symbol is a single word
+like "idiot" "greedy" "gullibile" or some other deplorable trait decided by
+your GM.
+
+#### Conehead (15)
+Your head grows tall and cone shaped
+
+#### Tail (16)
+You grow a tail, if you already have a tail you grow an additional one belonging
+to a different species.
+
+#### Glowing Eyes (17)
+Roll a 1d4 to determine the color your eyes perpetually glow
+
+```
+|  Roll (1d4)  |  Color  |
+| ------------ | ------- |
+|  1           |  Gold   |
+|  2           |  Green  |
+|  3           |  Blue   |
+|  4           |  Red    |
+```
+
+#### Sterpentongue (18)
+Your tonge flicks like that of a snake when you speak, causing you to accentuate
+your "S" sounds
+
+#### Long ears (19)
+Your ears grow subtly longer and pointy
+
+#### Foggy (20)
+You are perpetually surrounded by a hazy mist, but this mist is thin enough to
+see you through
 
 ### Minor Beneficial Corruptions (2)
 
@@ -461,45 +547,3 @@ bolt spell may still target you.
 You grow spiderlike mandables on your face. You may attack a creature within 5 
 feet of you with them for 1d4 piercing damage and you may manipulate small 
 objects with them.
-
-### Good Corruptions (4)
-
-#### 
-
-####
-
-####
-
-####
-
-####
-
-####
-
-####
-
-####
-
-####
-
-####
-
-####
-
-####
-
-####
-
-####
-
-####
-
-####
-
-####
-
-####
-
-####
-
-####

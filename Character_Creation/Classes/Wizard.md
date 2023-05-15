@@ -132,7 +132,7 @@ You may inscribe special glyphs into a weapon or set of armor in order to grant
 yourself proficiency with them, These glyphs occupy 4 of your maximum glyphs per
 set of armor or weapon.
 
-### Wizard Speciality: Adept Scribe
+#### Wizard Speciality: Adept Scribe
 When writing glyphs in your spellbook you may use a d10 in place of your d4 hit 
 die for the purpose of rolling how many glyphs you write. You also learn 5 
 wizard spells.
