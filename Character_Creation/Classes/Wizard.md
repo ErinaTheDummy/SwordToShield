@@ -325,6 +325,8 @@ than once in a year.
 - Perish
 - Invincibility
 - Shapeshift
+- Mindwash
+- Clone
 
 ## 6th Level Spells
 - Black Hole

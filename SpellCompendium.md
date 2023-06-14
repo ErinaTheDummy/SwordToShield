@@ -4068,6 +4068,45 @@ your miracle.
 
 ```
 
+```
+
+Mindwash (5th) (15)
+
+Range: self
+Components: V/S
+Duration: until dispelled
+Casting Time: 1 minute 
+Description:
+You wipe your slate clean, locking away all of your memories and beliefs at the
+back of your mind and replacing them with a persona and memories of your choice.
+During the casting of this spell you designate a word or phrase that when spoken
+returns all of your locked away memories, this word or phrase may be as long or
+short as you wish. While your memories are locked away you truly believe any
+innacurate information you may give due to your new fabricated memories, meaning
+that no magical or mundane method of detecting lies may discern that you are 
+lying. 
+
+```
+
+```
+
+Clone (5th) (16)
+
+Range: self
+Components: V/S/M (A lock of hair, patch of skin, or drop of blood from a creature, and a platinum cloning vat made from 5000 GP worth of materials)
+Duration: instantaneous
+Casting Time: 1 hour
+Description:
+You make an identical duplicate of a creature using a lock of their hair, a 
+patch of their skin, or a drop of their blood. This duplicate has no memories 
+but is sentient and capable of acting on its own, it knows the same languages
+as the cloned creature but nothing else. You may make alterations to the 
+creature during the casting of the spell using the same components from the 
+casting but sourced from different creatures. Alterations of clones may cause
+unintended effects, as decided by your DM.
+
+```
+
 # 6th Level Spells
 
 ## 6th level spells Disclaimer

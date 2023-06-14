@@ -77,11 +77,15 @@ this document.
 
 ### Mana Casting
 You have the ability to alter reality using magic at its most basic level, 
-energy that flows through all of creation creating magical effects, Mana. You 
-have a pool of mana which refills every time you rest. You may expend amounts of 
-mana in order to cast spells. Refer to the max mana points column of the 
-sorcerer level chart to determine how much mana is at your disposal at a given 
-level. You may cast a spell without using mana, but you must roll a mana check 
+energy that flows through all of creation creating magical effects: Mana. You 
+have a pool of mana which refills every time you rest, and you may expend 
+amounts of mana in order to cast spells. Your casting modifier for these spells 
+is constitution. when a spell refers to a saving throw the DC is 8 + Your 
+Proficiency Bonus + Your Constitution Modifier. Refer to the max mana points 
+column of the sorcerer level chart to determine how much mana is at your 
+disposal at a given level. 
+
+You may cast a spell without using mana, but you must roll a mana check 
 against the save DC of the level of spell you are casting to attempt to avoid 
 corruption. If you roll a mana check lower than the DC of the spell level you 
 must roll a on the corruptions chart listed for that spell level. Refer to the 
@@ -102,11 +106,12 @@ levels:
 | ------------- | ----------- | --------- | --------------- |
 
 ``` 
-You learn 2 cantrips and 3 first level spells from the sorcerer spell list. You 
-learn 1 spell of a level you are capable of casting using mana, no more than 
-5th level, from the sorcerer spell list each time you level up. A sorcerer who 
-knows a spell that you do not may teach you that spell over the course of one 
-week.
+
+At level 1 You learn 2 cantrips and 3 first level spells from the sorcerer spell
+list. Each time you level up you learn a spell of a level you are capable of 
+casting using mana, no more than 5th level, from the sorcerer spell list. A 
+sorcerer who knows a spell that you do not may teach you that spell over the 
+course of one week.
 
 ### Hitpoint Increase
 Your hitpoints increase by 1d4 + your constitution modifier.
@@ -452,6 +457,7 @@ reroll.
 - Invincibility
 - Shapeshift
 - Raise Dead
+- Mindwash
 
 ## 6th Level Spells
 - Black Hole

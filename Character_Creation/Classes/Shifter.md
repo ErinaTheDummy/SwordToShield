@@ -71,7 +71,7 @@ expended or until you drop to 0 hitpoints. When your shift ends you return to
 your original hitpoints or stay at your current hitpoints, whichever number is 
 lower; your maximum hitpoints return to normal irregardless of your current 
 hitpoints. Your hitpoints at the beginning of a shift are equal to the maximum 
-hitpoint amount you rolled. 
+hitpoint amount you rolled.
 
 ### Monstrous Form
 Your monstrous form is the form you change into when shifting. Your monstrous 
@@ -133,12 +133,14 @@ When you take the attack action, you may make two attacks instead of one.
 ## Desmoduthrope
 
 ### Monstrous Form: Desmoduthrope
+(If any features refer to a save DC the DC is 8 + Your Constitution modifier + Your proficiency bonus)
 Your monstrous form takes after Desmodus or vampire bats and your monstrous
 form die is a d8. You gain the following benefits while shifted:
 
 - +2 to dexterity score
 - flying speed equal to two times your walking speed
-- Bite attack, d6 melee damage die piercing damage, finesse
+- Bite attack, d6 melee damage die piercing damage, finesse, additional bonus 
+action bite attack on hit.
 - Darkvision out to 120 feet 
 - Advantage on hearing based checks
 - Blindsight out to 60 feet
@@ -160,26 +162,27 @@ Refer to the following chart for your unwilling shift triggers and their DC.
 ```
 
 ### Draining Bite (level 2)
-When you make a bite attack against a creature and hit you may regain a number
-hitpoints eqal to half the damage dealt unless the target is a construct or 
-undead.
+Once per turn when you make a bite attack against a creature and hit you may 
+choose to regain a number hitpoints eqal to half the damage dealt unless the 
+target is a construct or undead.
 
 ### Empowering Bite (level 4)
 When you make a bite attack against a creature and hit you may expend a hit die
-and add a modifier equal to half the damage dealt to your next saving throw or 
-ability check before the end of your shift.
+and add a modifier to your next saving throw or ability check before the end of 
+your shift equal to half the damage dealt.
 
 ### Sonic Screech (level 8)
 You gain the ability to release a concentrated blast of sonic energy. As an 
 action while turned you may expell a 30 foot cone of sound out of your mouth, 
-forcing all creatures in the area to make a constitution saving throw or take 
-6d6 thunder damage, or half as much on a successful save. After you use this 
-feature roll a 1d6 on the start of each of your turns until the shift ends, on a 
-roll of 6 you may use this feature again.
+forcing all creatures in the area to make a constitution saving throw against 
+your save DC or take 6d6 thunder damage, or half as much on a successful save. 
+After you use this feature roll a 1d6 on the start of each of your turns until 
+the shift ends, on a roll of 6 you may use this feature again.
 
 ## Lycanthrope
 
 ### Monstrous Form: Lycanthrope
+(If any features refer to a save DC the DC is 8 + Your Constitution modifier + Your proficiency bonus)
 Your monstrous form takes after lycans or wolves and your monstrous form die is 
 a d10. You gain the following benefits while shifted:
 
@@ -210,11 +213,10 @@ Refer to the following chart for your unwilling shift triggers and their DC.
 
 ### Wolve's Howl (level 2)
 As a bonus action while turned you may expend a hit die and howl, forcing all 
-creatures within 15 feet of you to make a wisdom saving throw against 8 + your 
-constitution modifier + your strength modifier or be frightened of you for 1 
-minute. Frightened creatures may repeat this saving throw at the end of each of 
-their turns as long as you are not within their line of sight. This howl also 
-acts as a trigger for other lycanthropes.
+creatures within 15 feet of you to make a wisdom saving throw against your save 
+DC or be frightened of you for 1 minute. Frightened creatures may repeat this 
+saving throw at the end of each of their turns as long as you are not within 
+their line of sight. This howl also acts as a trigger for other lycanthropes.
 
 ### Pack Tactics (level 4)
 While turned you have advantage to hit enemies within 5 feet of an ally with
@@ -222,16 +224,17 @@ melee attacks.
 
 ### Alpha Wolf (level 8)
 When you activate your Wolve's Howl feature as a bonus action you may force all
-wolves within 120 feet of you that can hear you to make a DC 16 wisdom saving 
-throw or fall under your control. A wolf turned in this way may be commanded by
-you as a bonus action on your turn. If this would turn multiple wolves you may 
-only command one at a time as a bonus action, with the others acting in a way 
-they believe would benefit you. This effect ends after 1 minute or until you 
-directly attack one of the wolves. 
+wolves within 120 feet of you that can hear you to make a wisdom saving throw 
+against your save DC or fall under your control. A wolf turned in this way may 
+be commanded by you as a bonus action on your turn. If this would turn multiple 
+wolves you may only command one at a time as a bonus action, with the others 
+acting in a way they believe would benefit you. This effect ends after 1 minute 
+or until you directly attack one of the wolves. 
 
 ## Ursusthrope
 
 ### Monstrous Form: Ursusthrope
+(If any features refer to a save DC the DC is 8 + Your Constitution modifier + Your proficiency bonus)
 Your monstrous form takes after ursus or bears and your monstrous form die is 
 a d12. You gain the following benefits while shifted:
 
@@ -261,15 +264,18 @@ Refer to the following chart for your unwilling shift triggers and their DC.
 ```
 
 ### Ferocious Mauling (level 2)
-As a bonus action while turned you may expend a hit die to make an additional
-attack against a creature, dealing half the damage rolled and grappling them.
+As a bonus action while turned you may expend a hit die to make an additional 
+bite attack against a creature. On a hit, the target is clamped under your jaws
+and must make a strength saving throw against your save DC, becoming restrained 
+on a failure. A creature restrained in this way may repeat the save at the end 
+of their turn; You may only have one creature restrained in this way at a time.
 
 ### Surprise Attack (level 4)
-When you make an attack against a creature while you are hidden you may expend
-and roll a hit die, adding the result to the damage of the attack.
+When you make an attack against a creature who was unaware of your presence and 
+hit, you deal additional damage equal to your shifter level.
 
 ### Rip and Tear (level 8)
-When you make two attacks against a creature and both hit you may expend 2 hit 
-die and make a contested althetics check against them, dealing an additional 10 
-damage to them on a success. If this damage reduces a creature to or below 0 
-hitpoints you tear them apart and they die instantly.
+When you make two attacks against a creature on your turn and both hit you may 
+force the target to make a strength saving throw against your save DC, on a 
+failure the target takes 10 additional true damage. If this damage reduces the 
+target to 0 hitpoints lower you tear them apart and they die instantly.

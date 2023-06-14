@@ -268,8 +268,12 @@ become. You retain control of yourself, but are incapable of speaking.
 You shrink to one size smaller, to a minimum of size tiny. If you are already
 size tiny you instead become 2 inches tall.
 
-#### Magical Weakness (16)
-You have disadvantage on saving throws against magical effects
+#### My Shadow (16)
+Your shadow detaches from your body, gaining a mind of its own and stats 
+and features identical to yours. It has values antithetical to yours and may
+either attack you the moment it is detached or it may go out into the world
+seeking a way to thwart you over time. This corruption may not be cured until 
+your shadow has been vanquished and until then you have no shadow.
 
 #### Enfeeblement (17)
 Your melee attacks deal half damage

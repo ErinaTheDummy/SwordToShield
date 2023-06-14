@@ -95,7 +95,7 @@ Certain maneuvers may refer to saving throws, the DC for these saving throws are
 
 ### Surging Action
 You surge with energy, taking two actions on your turn instead of one. After
-taking your additional action expend a hit die. You may only use this maneuver
+taking your additional action expend a hit die. You may only use this maneuver 
 once per turn.
 
 ### Sweep

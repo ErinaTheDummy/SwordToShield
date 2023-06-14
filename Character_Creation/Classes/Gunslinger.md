@@ -204,8 +204,8 @@ Amount: 5
 
 ```
 Pistol Ammo
-Scrap Cost: 2
-Amount: 20
+Scrap Cost: 1
+Amount: 10
 ```
 
 ```
@@ -250,7 +250,7 @@ Four Bore Rifle
 Range 60/100
 Magazine: 1
 Scrap Cost: 150
-Damage: 5d10 + Dex  piercing
+Damage: 4d10 + Dex  piercing
 Properties: Reloading, Two-Handed, Heavy, Cumbersome, kick
 Ammo Type: 4 Bore
 Misfire Score: 5
@@ -322,7 +322,10 @@ You apply the automatic property to a weapon.
 You alter the grip of a weapon in order for it to perfeclty fit to your hand.
 You cannot have disadvantage within the effective range of the modified weapon.
 
-### Silencer (30 Scrap) (6th level)
+### Suppressor (30 Scrap) (6th level)
+You add a suppressor to the barrel of your firearm. Whenever you fire from a 
+position where you are hidden, your target does not automatically know your 
+postion, instead having to pass perception checks looking for you. 
 
 # Maneuvers
 Certain maneuvers may refer to saving throws, the DC for these saving throws are
@@ -333,7 +336,7 @@ When you attack with a gun and hit you may attack a second time.
 
 ### Surging Action
 You surge with energy, taking two actions on your turn instead of one. After
-taking your additional action expend a hit die. You may only use this maneuver
+taking your additional action expend a hit die. You may only use this maneuver 
 once per turn.
 
 ### Steady Aim
