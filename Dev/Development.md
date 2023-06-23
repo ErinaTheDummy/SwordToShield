@@ -1,7 +1,65 @@
+This document details a roadmap of sort, including the names of planned updates
+and actions taken to reach their completion, as well as already completed 
+updates.
+
 # Active Development
 
-## Alpha Release
-```[████████████□□□□□□□□] 60% complete```
+## The Gears of Fate Update
+```[██□□□□□□□□□□□□□□□□□□] 10% complete```
+
+
+### ~~Restructure, Rename, and Expand "MagicItemsCompendium.md"~~
+~~Restructure in order to usher in changes rename, and write rules and items for 
+7 magical materials, Adamantite, Mythril, Azanite, Tulunium, Dreadite, 
+Dragonsteel, Radotonium/Moonrock~~
+
+### Write 20+ new spells
+Write 20+ new spells, including snowball spell, chain lightning, & other spells
+that would be interesting but do not currently exist
+
+### Write Class: Inventor
+(d4) Complete Inventor, Intelligence based class that thins the line between
+magic and science, inventions ranging from firearms which they are not 
+proficient with to suits of power armor.
+
+### Write Class: Prophet
+(d6) Complete Prophet, Class that gains visions that allow empowerment of 
+skillchecks and attacks as well as limited spells prepared daily. Casting mod
+of wisdom.
+
+### Write Bestiary Entry: Celestials
+Complete 10+ stat blocks for creatures in the celestials category of the 
+bestiary
+
+### Write Bestiary Entry: Fiends
+Complete 10+ stat blocks for creatures in the fiends category of the 
+bestiary
+
+### Write Bestiary Entry: Dragons
+Complete 10+ stat blocks for creatures in the dragons category of the 
+bestiary
+
+### Write Bestiary Entry: Beasts
+Complete 15+ stat blocks for creatures in the Beasts category of the 
+bestiary
+
+### Write Bestiary Entry: Monstrosities
+Complete 10+ stat blocks for creatures in the monstrosity category of the 
+bestiary
+
+
+
+---
+
+# Backlog
+
+---
+
+# Completed Builds
+
+## Alpha Release (COMPLETED)
+```[████████████████████] 100% complete```
+```Note: Did not complete all goals, presumed complete in order to wipe clean```
 
 ### ~~Complete Character Creation Document: Body Types~~
 ~~Create a body type creation guide with a choice of body size, bodily features,
@@ -57,52 +115,22 @@ rest.~~
 ~~Create 10+ feats each for every category (40+ total). Categories include 
 Supernatural, Biological, Social, and Mundane.~~ 
 
-### Complete Gamemaster Document: Accursed Journal
-create 10+ diseases, 10+ parasites, 10+ curses, and 20 of each type of 
-corruption. 
+### ~~Complete Gamemaster Document: Accursed Journal~~
+~~create 10+ diseases, 10+ parasites, 10+ curses, and 20 of each type of 
+corruption.~~
 
 ### ~~Complete Gamemaster Document: Boons~~
 ~~Include 10+ grantable boons~~
 
-### Write Bestiary Entry: Monstrosities
-Complete 10+ stat blocks for creatures in the monstrosity category of the 
-bestiary
+### ~~Write Bestiary Entry: Humans~~
+~~Complete 15+ stat blocks for creatures in the Humans category of the 
+bestiary~~
 
-### Write Bestiary Entry: Beasts
-Complete 15+ stat blocks for creatures in the Beasts category of the 
-bestiary
+### ~~Write Bestiary Entry: Undead~~
+~~Complete 10+ stat blocks for creatures in the undead category of the 
+bestiary~~
 
-### Write Bestiary Entry: Humans
-Complete 15+ stat blocks for creatures in the Humans category of the 
-bestiary
-
-### Write Bestiary Entry: Undead
-Complete 10+ stat blocks for creatures in the undead category of the 
-bestiary
-
-### Write Bestiary Entry: Celestials
-Complete 10+ stat blocks for creatures in the celestials category of the 
-bestiary
-
-### Write Bestiary Entry: Fiends
-Complete 10+ stat blocks for creatures in the fiends category of the 
-bestiary
-
-### Write Bestiary Entry: Dragons
-Complete 10+ stat blocks for creatures in the dragons category of the 
-bestiary
-
-
-# Development Backlog
-### Write Class: Prophet
-(d6) Complete Prophet, Class that gains visions that allow empowerment of 
-skillchecks and attacks as well as limited spells prepared daily. Casting mod
-of wisdom.
-
-# Floaters
-
-
-# Completed Builds
+---
 
 ## Pre-Release (COMPLETED) 
 ```[████████████████████] 100% complete!!!!!``` 

@@ -1,5 +1,89 @@
 ```
 ################################################################################
+|  ___  ___            _           _  ___  ___      _            _       _     |
+|  |  \/  |           (_)         | | |  \/  |     | |          (_)     | |    |
+|  | .  . | __ _  __ _ _  ___ __ _| | | .  . | __ _| |_ ___ _ __ _  __ _| |___ |
+|  | |\/| |/ _` |/ _` | |/ __/ _` | | | |\/| |/ _` | __/ _ \ '__| |/ _` | / __||
+|  | |  | | (_| | (_| | | (_| (_| | | | |  | | (_| | ||  __/ |  | | (_| | \__ \|
+|  \_|  |_/\__,_|\__, |_|\___\__,_|_| \_|  |_/\__,_|\__\___|_|  |_|\__,_|_|___/|
+|                 __/ |                                                        |
+|                |___/                                                         |
+################################################################################                                                         
+```
+
+## Introduction
+Across creation there are many materials imbued with magical properties. These
+materials may be used in the creation of magical items, in the casting of 
+spells, or for a variety of other applications. Magical materials range from
+very rare and expensive to common and dirt cheap, according to your GM's vision 
+for the setting.
+
+### Adamantite
+Adamantite is an indestructable black metal, found deep underground in perfectly
+spherical deposits. Adamantite is harvested using Fire Dragonsteel tools which
+are capable of making it plyable enough to section off and form into usable 
+shapes. Adamantite is theorized to have no liquid form as nobody has thus far
+been able to heat it to a tempurature hot enough to melt it.
+
+### Mythril
+Mythril is a platinum-gold colored metal, named for its rarity, as it is seen
+by most as a metal only existing in myth. Mythril is a self healing material,
+when broken it will swiftly return to the shape it was last cast into. Melting
+mythril in acid is the only way to counteract its self healing properties. There
+are myths in some lands that an elven king once commissioned an army of mythril
+automaton, deathless and unrelenting in their fury.
+
+### Azanite
+Azanite is a dark red, matte metal almost crystaline in appearance. Azanite is
+capable of amplifying magical fields and is thus a friend of many a wizard, 
+warlock, and sorcerer alike. 
+
+### Tulunium
+Tulunium is a white iridescent metal, and almost transparent when thin. It is
+incredibly lightweight and said to be created in the heart of stars. When 
+extremely thin it is flexible like leather and is sometimes used in place of 
+leather by the ultra wealthy.
+
+### Dreadite
+Dreadite is a glass-like, foggy, black metal. Dreadite is an alloy of Tulunium, 
+Azanite and the coagulated blood of a dreadbeast. It is an extremely heavy metal
+but it is capable of holding an edge better than even Adamantite, Allowing it to
+be sharpened to ludicrous levels. Dreadite's unique ability to hold an edge is 
+due to the fact that forces applied to it under a certain threshold temporarily 
+harden the metal's structure.  
+
+### Dragonsteel
+Dragonsteel comes in many different varieties, as listed below:
+
+- Fire Dragonsteel
+- Ice Dragonsteel
+- Acid Dragonsteel
+- Poison Dragonsteel
+- Lightning Dragonsteel
+- Radiant Dragonsteel
+- Rotten Dragonsteel
+
+Dragonsteel functions the same as mundane steel in regards to hardness, color,
+and general appearance. Dragonsteel diverts in that it was forged using the 
+breath of a dragon capable of producing the associated element and that it has
+special properties relating to that element. These properties include impervity 
+or resistance to the associated element as well as production of the element 
+naturally.  
+
+### Radotonium
+Known as Radotonium and Moonrock to inventors and commoners respectively. 
+Radotonium is a soft, white, brittle metal that is easily ground into dust. It 
+holds extremely magically corruptive properties, emmiting constant rays of 
+corrupted mana, it is capable of corrupting those who stand around it in large 
+quantities for too long or consume it. When crushed into a powder and consumed 
+it causes a great euphoric feeling for the consumer. Radotonium may be compacted
+and enriched with other magical metals in order to create an advanced energy 
+source for inventors. 
+
+---
+
+```
+################################################################################
 |  ___  ___            _        _____ _                                        |                    
 |  |  \/  |           (_)      |_   _| |                                       |
 |  | .  . | __ _  __ _ _  ___    | | | |_ ___ _ __ ___  ___                    |
@@ -55,6 +139,7 @@ familiarize yourself with them in order to utilize them, this is called
 attunement. You may only be attuned to three magic items at one time. The
 time it takes to attune to a magic item is variable, based on rarity. Refer
 to the following chart for attunement times:
+
 
 ```
 |  Rarity   | Attunement Time |
@@ -258,6 +343,16 @@ the space must make a DC 12 strength save or have their movement speed become 0.
 
 ```
 
+```
+Powdered Radotonium
+Rarity: Uncommmon
+Attunement: N
+Description:
+As an action you may consume this powder, granting you the euphoric effect for
+1d4 minutes. When the effect ends make a DC 18 constitution saving throw, on a 
+failure you are inflicted with a random corruption. 
+```
+
 # Rare Magic Items
 ```
 
@@ -310,6 +405,65 @@ of seeing the mirror.
 
 ```
 
+```
+
+Adamantite Weapon
+Rarity: Rare
+Attunement: Y
+Description:
+This weapon is indestructable. While attuned to this weapon a natural roll of 20 
+on an attack with it means you deal critical damage, allowing you to roll the 
+damage dice a second time and add that to the total damage dealt. 
+
+```
+
+```
+
+Adamantite Armor
+Rarity: Rare
+Attunement: Y
+Description:
+While attuned to and wearing this armor your AC gains a modifier of +2 and 
+critical damage dealt to you is nullified, instead dealing the regular amount
+of damage.
+
+```
+
+```
+
+Azanite Robes
+Rarity: Rare
+Attunement: Y
+Description:
+While attuned to these robes roll a 1d20 each time you cast or use the result 
+of the natural roll of the attack roll if the spell calls for an attack roll. On
+a roll of 19 or 20 the duration or damage of the spell (your choice) is doubled. 
+```
+
+```
+
+Dragonsteel Weapon
+Rarity: Rare
+Attunement: Y
+Description:
+This weapon has a +2 to its attack and damage rolls. While attuned to this 
+weapon, attacks made with it deal an additional 1d8 damage of the type 
+associated with the element of dragonsteel it is forged from. 
+
+```
+
+```
+
+Dragonsteel Alloy Armor
+Rarity: Rare
+Attunement: Y
+Description:
+While attuned to this armor you have resistance to the damage type associated 
+with the element of dragonsteel it is forged from. This armor is made from an 
+alloy of dragonsteel and mundane steel.
+
+```
+
 
 # Legendary Magic Items
 
@@ -332,10 +486,24 @@ Dreadite Weapon
 Rarity: Legendary
 Attunement: Y
 Description:
-This weapon is formed from Dreadite, an alloy of Tulunium, Azinite and the 
-coagulated blood of a dreadbeast. This weapon has a +2 to attack rolls and
+This weapon is formed from Dreadite. This weapon has a +2 to attack rolls and
 always deals maximum damage on a hit. On a natural 20 this weapon deals an 
-additional 10 damage. 
+additional 10 damage. While holding this weapon your movement speed is halved.
+The weight of this weapon is 10 times that of an equivalent non-dreadite weapon.
+
+```
+
+```
+
+Dreadite Armor
+Rarity: Legendary
+Attunement: Y
+Description:
+While wearing this armor the AC of the armor increases by +1 to a maximum 
+modifier of +5 each time an attack hits you. This modifier returns to 0 after
+10 minutes of not being hit. While wearing this armor your movement speed is 
+halved. The weight of this armor is 10 times that of an equivalent non-dreadite 
+armor.
 
 ```
 
@@ -366,6 +534,54 @@ opened, of a heart attack. When a creature uses this item they must roll 2d100,
 if the result of the rolls is 2 the user's face is shown in the portrait and 
 they die after 1 minute of a heart attack. This item is cursed and a creature 
 may not unattune to it unless aided by a god.
+```
+
+```
+
+Tulunium Heavy Armor
+Rarity: Legendary
+Attunement: N
+Description:
+This heavy armor is light enough and thin enough to be worn under clothes, 
+concealing the armor completely. This heavy armor also has no strength 
+requirements in order to be donned and does not impose disadvantage on stealth
+checks.
+
+```
+
+```
+
+Tulunium Light Armor
+Rarity: Legendary
+Attunement: N
+Description:
+This light armor gains a +3 to its AC modifier, and grants you advantage on
+dexterity saving throws.
+
+```
+
+```
+
+Tulunium Weapon
+Rarity: Legendary
+Attunement: N
+Description:
+This weapon has a +2 to its attack and damage rolls and ignores the heavy or two
+handed property if it has either. If it does not have either the heavy or the 
+two handed property it is capable of being folded small enough to fit into your
+pocket as an action.
+
+```
+
+```
+
+Dragonsteel Armor
+Rarity: Rare
+Attunement: Y
+Description:
+While attuned to this armor you have immunity to the damage type associated with
+the element of dragonsteel it is forged from.
+
 ```
 
 # Artifacts
