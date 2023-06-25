@@ -1593,6 +1593,21 @@ ends early if you do anything other than moving or speaking on your turn.
 
 ```
 
+```
+
+Summon Green Slime (1st) (51)
+
+Range: 30 feet
+Components: S/V/M (A glob of snot)
+Duration: 1 hour
+Casting Time: 1 action
+Description:
+You summon a green slime, you may command this green slime as a bonus action and
+it takes its turn immediately after yours. After the spell ends the slime melts
+away, becoming a green puddle.
+
+```
+
 # 2nd Level Spells
 
 ```
@@ -2305,6 +2320,21 @@ This spell has no effect on a creature that is not infected with a parasite or
 disease and is not cursed in any way. When a creature afflicted by a parasite,
 disease, or curse is diagnosed by this spell you know the names of and cures for
 all the curable ailments they may have.
+
+```
+
+```
+
+Acid Armor (2nd) (45)
+
+Range: Touch
+Components: V/S
+Duration: concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+You conjure armor made from dripping acid melded into the shape of plate armor.
+Your AC becomes 18 and when a melee attack hits you the attacker takes 1d6 acid
+damage as the corrosive liquid splashes on them.
 
 ```
 
@@ -3196,6 +3226,23 @@ in the area must make a constitution saving throw or take 4d6 Fire damage and
 
 ```
 
+```
+
+Snowball (3rd) (49)
+
+Range: 120 feet
+Components: V/S
+Duration: Concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+You conjure a ball of snow and hurl it at one point within range. From that
+point a 30 foot radius sphere is chilled to subzero temperatures, all creatures 
+in the area must make a dexterity saving throw or take 3d6 cold damage, taking 
+half as much on a success. On a failure a target is frozen, rendering them 
+petrified, they remain frozen as long as you concentrate.
+
+```
+
 # 4th Level Spells
 
 ```
@@ -3809,6 +3856,26 @@ invisible objects. The wisdom save's DC may be modified by the following:
 
 ```
 
+```
+
+Chain Lightning (4th) (33)
+
+Range: 120 feet
+Components: V/S
+Duration: Instantaneous
+Casting Time: 1 action
+Description:
+A bolt of lightning lashes from your fingertips and onto one target within 
+range. The target and any creatures within 10 feet of the target must make a
+dexterity saving throw or take 6d6 lightning damage, or half as much on a 
+successful save. Regardless of if a creature passes or fails the saving throw 
+the lightning will then jump from them and onto another creature within 10 feet 
+of them who has not yet been targeted, this process ends only if no creatures
+are close enough to be targeted or all creatures within 10 feet have already 
+been targeted. 
+
+```
+
 # 5th level spells
 
 ```
@@ -4103,7 +4170,7 @@ but is sentient and capable of acting on its own, it knows the same languages
 as the cloned creature but nothing else. You may make alterations to the 
 creature during the casting of the spell using the same components from the 
 casting but sourced from different creatures. Alterations of clones may cause
-unintended effects, as decided by your DM.
+unintended effects, as decided by your GM.
 
 ```
 

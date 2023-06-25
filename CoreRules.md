@@ -29,6 +29,7 @@ every time. If this is not what you envision for your game then I would
 reccomend a system currently (as of 2023) in it's fifth iteration, made by a 
 certain group of wizards on the western seaboard of the united states.
 
+---
 
 ## Necessary Disclaimers
 
@@ -63,6 +64,7 @@ As you read through these core rules you will find many rules which start with
 assumed to be in use in every game. As a GM you may also find that there are
 missing rules or options not available, use your best judgement to fill in the-.
 
+---
 
 # Characters
 
@@ -167,7 +169,7 @@ feats, or class features.
 In order to utilize your skill proficiencies you'll need to roll. Roll a 1d20
 and add the modifier of one applicable attribute to the skill you're making a
 check with along with your proficiency bonus if you have proficiency in the 
-skill. Your success or failure in this kind of check is decided by the DM, and
+skill. Your success or failure in this kind of check is decided by the GM, and
 you may have varying degrees of success depending on how high you roll. 
 
 ## Advantages and disadvantages
@@ -199,7 +201,6 @@ Rather than designating your scores to your abilities as you see fit and wish,
 you may instead designate them to each stat in the order they were rolled. This
 rule is intended to help you "find" a character rather than make a planned one 
 outright.
-
 
 ### Choosing a Culture
 Next, choose one culture from the Cultures.md document in Character_Creation.
@@ -240,6 +241,8 @@ variant rule "Choosing Class at Start" then you will be starting without a class
 Non-player characters (NPCs) are characters created and played by the GM that
 the player characters (PCs) are capable of interacting with. An evil monster is 
 an NPC just the same as a friendly villager is an NPC.
+
+---
 
 # Combat
 In most tales of adventure there will eventually be more... hostile encounters,
@@ -657,6 +660,8 @@ Refer to the following chart for the stages of exhaustion:
 |  5      |  Collapse into sleep for 12 hours                           |
 | ------- | ----------------------------------------------------------- |
 ```
+
+---
 
 # Adventuring
 Adventuring is the core of the game! seeing places, meeting interestig people 

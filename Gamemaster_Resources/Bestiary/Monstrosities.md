@@ -154,9 +154,8 @@ Proficiency Bonus: +2
 
 - Leviathan Shard Form: While taking the form of a leviathan shard the mimic may 
 be attuned to and acts as a +2 spell focus
-
-- Crystal Resistances: The mimic has resistance to force, psychic, and nonmagical 
-damage.
+- Crystal Resistances: The mimic has resistance to force, psychic, and 
+nonmagical damage.
 
 # Attacks: (true form only)
 
@@ -166,5 +165,47 @@ damage.
 
 - Mimic: The mimic may change shapes as an action, taking the form of a mundane 
 gemstone or crystal, its true form, or a leviathan shard
+
+```
+
+## Slimes
+Slimes are globs of corrosive gel, they consume prey by englufing them entirely
+and slowly dissolving them
+
+### Green slime
+Green slimes are the weakest and softest of the slimes, capable of being 
+disbatched by most, they usually survive on a diet of small animals.
+
+```
+Green Slime
+Small Monstrosity
+XP: 25 
+HP: 14(3d4+7)
+AC: 12(Crystal Shell)
+Speed: 20ft, 5ft climb
+Proficiency Bonus: +1
+|STR|DEX|CON|INT|WIS|CHA|
+| 15| 08| 15| 03| 10| 04|
+| +2| -1| +2| -4| +0| -3|
+|   |   | X |   |   |   |
+
+# Features:
+
+- Slimy: The slime has resistance to non-magical slashing, bludgeoning, and 
+piercing.
+- Flamable: The green slime has vulnerability to fire damage.
+
+# Attacks:
+
+- Pseudopod strike: +3 1d4 bludgeoning damage, 1d4 acid damage, 1 target within 
+5 feet.
+
+# Actions
+
+- Englulf: The green slime enters the space of a creature size small or smaller,
+and attempts to engulf it. The target must make a DC 11 strength saving throw or
+become restrained and take 3d6 acid damage. The engulfed creature takes acid 
+damage at the beginning of its turn until it is no longer retrained and may 
+repeat the saving throw at the end of its turn. 
 
 ```

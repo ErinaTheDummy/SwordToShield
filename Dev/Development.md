@@ -17,15 +17,17 @@ Dragonsteel, Radotonium/Moonrock~~
 Write 20+ new spells, including snowball spell, chain lightning, & other spells
 that would be interesting but do not currently exist
 
-### Write Class: Inventor
-(d4) Complete Inventor, Intelligence based class that thins the line between
-magic and science, inventions ranging from firearms which they are not 
-proficient with to suits of power armor.
+Added: Chain Lightning, Snowball, Summon Green Slime, 
 
 ### Write Class: Prophet
 (d6) Complete Prophet, Class that gains visions that allow empowerment of 
 skillchecks and attacks as well as limited spells prepared daily. Casting mod
 of wisdom.
+
+### Write Class: Inventor
+(d4) Complete Inventor, Intelligence based class that thins the line between
+magic and science, inventions ranging from firearms which they are not 
+proficient with to suits of power armor.
 
 ### Write Bestiary Entry: Celestials
 Complete 10+ stat blocks for creatures in the celestials category of the 
