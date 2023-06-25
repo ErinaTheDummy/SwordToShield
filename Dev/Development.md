@@ -17,7 +17,10 @@ Dragonsteel, Radotonium/Moonrock~~
 Write 20+ new spells, including snowball spell, chain lightning, & other spells
 that would be interesting but do not currently exist
 
-Added: Chain Lightning, Snowball, Summon Green Slime, 
+Added: Chain Lightning(4th), Snowball(3rd), Summon Green Slime(1st), 
+Rewind(2nd), 
+
+Ideas to add: Muddy Pit (2nd), 
 
 ### Write Class: Prophet
 (d6) Complete Prophet, Class that gains visions that allow empowerment of 

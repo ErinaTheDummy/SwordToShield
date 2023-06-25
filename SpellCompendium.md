@@ -1607,6 +1607,9 @@ it takes its turn immediately after yours. After the spell ends the slime melts
 away, becoming a green puddle.
 
 ```
+[Green Slime Statblock](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/Bestiary/Monstrosities.md#green-slime)
+
+
 
 # 2nd Level Spells
 
@@ -2335,6 +2338,22 @@ Description:
 You conjure armor made from dripping acid melded into the shape of plate armor.
 Your AC becomes 18 and when a melee attack hits you the attacker takes 1d6 acid
 damage as the corrosive liquid splashes on them.
+
+```
+
+```
+
+Rewind (2nd) (46)
+
+Range: 120 feet
+Components: V/S
+Duration: Instantaneous
+Casting Time: 1 reaction
+Description:
+As a reaction to a creaturew within range making an ability check, attack roll, 
+or saving throw you may rewind time, forcing them to roll a second time and use 
+that roll. You may also grant one creature within range advantage on their next
+attack or ability check.
 
 ```
 
@@ -3237,9 +3256,10 @@ Casting Time: 1 action
 Description:
 You conjure a ball of snow and hurl it at one point within range. From that
 point a 30 foot radius sphere is chilled to subzero temperatures, all creatures 
-in the area must make a dexterity saving throw or take 3d6 cold damage, taking 
+in the area must make a dexterity saving throw or take 4d6 cold damage, taking 
 half as much on a success. On a failure a target is frozen, rendering them 
-petrified, they remain frozen as long as you concentrate.
+petrified. The target(s) remain frozen as long as you concentrate but may repeat 
+the saving throw at the end of their turn, ending the effect on a success.
 
 ```
 

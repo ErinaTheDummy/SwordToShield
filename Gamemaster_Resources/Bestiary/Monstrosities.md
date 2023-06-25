@@ -180,8 +180,8 @@ disbatched by most, they usually survive on a diet of small animals.
 Green Slime
 Small Monstrosity
 XP: 25 
-HP: 14(3d4+7)
-AC: 12(Crystal Shell)
+HP: 9(2d4+4)
+AC: 8(Squishy layers)
 Speed: 20ft, 5ft climb
 Proficiency Bonus: +1
 |STR|DEX|CON|INT|WIS|CHA|
