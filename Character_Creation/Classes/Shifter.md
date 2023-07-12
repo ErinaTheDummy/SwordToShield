@@ -64,20 +64,21 @@ Prof = proficiency bonus
 ### Shifting
 As a bonus action you may transform into your monstrous form, granting you an 
 increase to your stats and access to natural weapons. When you transform you may
-expend up to 5 hit dice and roll that same number of monstrous form dice, adding
-your maximum health when not shifted, to determine your maximum HP while turned.
-Your shift lasts for a number of minutes equal to the amount of hit dice 
-expended or until you drop to 0 hitpoints. When your shift ends you return to 
-your original hitpoints or stay at your current hitpoints, whichever number is 
-lower; your maximum hitpoints return to normal irregardless of your current 
-hitpoints. Your hitpoints at the beginning of a shift are equal to the maximum 
-hitpoint amount you rolled.
+expend up to 5 hit dice. Your shift lasts for a number of minutes equal to the 
+amount of hit dice  expended or until you drop to or below 0 hitpoints. When 
+your shift ends you return to your original hitpoints or stay at your current 
+hitpoints, whichever number is lower; your maximum hitpoints return to normal 
+irregardless of your current hitpoints. Your hitpoint maximum at the beginning 
+of a shift is equal to the maximum roll of your monstrous form dice, times how 
+many hit dice you expended, plus your unshifted HP, you start your shift at full 
+hp.
 
 ### Monstrous Form
 Your monstrous form is the form you change into when shifting. Your monstrous 
 form grants you special features. Choose one monstrous form from the following:
 
 - Desmoduthrope
+- Norvegthrope (norvegicus)
 - Lycanthrope
 - Ursusthrope
 
@@ -135,7 +136,7 @@ When you take the attack action, you may make two attacks instead of one.
 ### Monstrous Form: Desmoduthrope
 (If any features refer to a save DC the DC is 8 + Your Constitution modifier + Your proficiency bonus)
 Your monstrous form takes after Desmodus or vampire bats and your monstrous
-form die is a d8. You gain the following benefits while shifted:
+form die is a d6. You gain the following benefits while shifted:
 
 - +2 to dexterity score
 - flying speed equal to two times your walking speed
@@ -143,7 +144,7 @@ form die is a d8. You gain the following benefits while shifted:
 action bite attack on hit.
 - Darkvision out to 120 feet 
 - Advantage on hearing based checks
-- Blindsight out to 60 feet
+- Blindsight out to 60 feet (reliant on hearing)
 - Advantage on Dexterity checks and saving throws
 
 ### Unwilling Shift Triggers
@@ -179,6 +180,7 @@ your save DC or take 6d6 thunder damage, or half as much on a successful save.
 After you use this feature roll a 1d6 on the start of each of your turns until 
 the shift ends, on a roll of 6 you may use this feature again.
 
+
 ## Lycanthrope
 
 ### Monstrous Form: Lycanthrope
@@ -188,7 +190,7 @@ a d10. You gain the following benefits while shifted:
 
 - +2 to strength score
 - walking speed doubled
-- Bite attack, d8 melee damage die piercing damage
+- Bite attack, d10 melee damage die piercing damage
 - Claw Attack, d6 melee damage die slashing damage, additional bonus action claw 
 attack on hit.
 - Darkvision out to 60 feet 
@@ -275,7 +277,7 @@ When you make an attack against a creature who was unaware of your presence and
 hit, you deal additional damage equal to your shifter level.
 
 ### Rip and Tear (level 8)
-When you make two attacks against a creature on your turn and both hit you may 
-force the target to make a strength saving throw against your save DC, on a 
-failure the target takes 10 additional true damage. If this damage reduces the 
-target to 0 hitpoints lower you tear them apart and they die instantly.
+When you make two attacks against a single creature on your turn and both hit 
+you may force the target to make a strength saving throw against your save DC, 
+on a failure the target takes 10 additional true damage. If this damage reduces 
+the target to 0 hitpoints or lower you tear them apart and they die instantly.

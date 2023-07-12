@@ -1323,7 +1323,7 @@ Description:
 The next time you hit a creature with a ranged weapon weapon attack a hail of 
 thorns will rain out from your projectile. All creatures within 5 feet of the
 target and including the target must make a dexterity saving throw or take 1d10
-peircing damage or half as much on a success. 
+piercing damage or half as much on a success. 
 
 ```
 

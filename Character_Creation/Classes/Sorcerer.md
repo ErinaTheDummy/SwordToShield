@@ -152,7 +152,7 @@ amount of quirks you'd like from the following chart.
 | Roll (1d8)   |                        Quirk                        |
 |--------------|-----------------------------------------------------|
 | 1            | When a creature stands near you they taste a        |
-| 			   | metallic flavor on their tongue                     |
+|              | metallic flavor on their tongue                     |
 |--------------|-----------------------------------------------------|
 | 2            | You have an additional appendage or sensory organ   |
 |--------------|-----------------------------------------------------|

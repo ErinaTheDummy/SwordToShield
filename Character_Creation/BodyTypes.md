@@ -140,7 +140,7 @@ Your AC may not fall below 16.
 Name: Damage Type Resistance  
 Description: 
 You gain damage type resistance to one type of damage other than bludgeoning,
-peircing, or slashing damage.
+piercing, or slashing damage.
 
 ```
 
