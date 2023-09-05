@@ -169,6 +169,12 @@ which can only be described as the end of days, the fall of man, and the
 twilight of the gods. It is the solumn duty of an Annihilation prophet to break
 the threads of fate which lead to this outcome.
 
-### 
+### Forced Negation (Level 1)
+Your knowledge of the threads of fate allow you to know when you're on the 
+decline granting you the knowledge to turn failure into success. Whenever a 
+creature making an attack against you has advantage to hit you may expend your 
+reaction and 1 hit die to give them disadvantage instead. Additionally after 
+each long rest you gain a number of temporary hitpoints equal to 5 + your 
+prophet level which are removed next time you start a rest.  
 
 ###
