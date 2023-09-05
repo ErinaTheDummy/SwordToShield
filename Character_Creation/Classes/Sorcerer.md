@@ -46,20 +46,20 @@ HD = Hit Dice
 Prof = Proficiency Bonus
 MMP = Max Mana Points
 ST = Amount of Sorcerer Techniques
-+-----+-------+----+-----+-----+-----+------------------------------------------+
-| LVL | XP    | HD |Prof | MMP |  ST | Features                                 |
-+-----+-------+----+-----+-----+-----+------------------------------------------+
-|   1 |     0 | 2  | +1  |  2  |  0  | Supernatural Origin, Mana Casting        |
-|   2 |   300 | 4  | +1  |  4  |  0  | Hitpoint Increase                        |
-|   3 |   900 | 6  | +2  |  8  |  2  | Sorcery Techniques, Hitpoint Increase    |
-|   4 |  1800 | 8  | +2  |  12 |  3  | Hit point re-roll                        |
-|   5 |  3600 |10  | +2  |  16 |  3  | Ability Score Increase                   |
-|   6 |  6100 |12  | +2  |  20 |  3  | Supernatural Origin Feature              |
-|   7 |  9100 |14  | +3  |  24 |  4  |                                          |
-|   8 | 13100 |16  | +3  |  32 |  4  | Ability Score Increase                   |
-|   9 | 22600 |18  | +4  |  40 |  4  |                                          |
-|  10 | 44600 |20  | +4  |  48 |  5  | Epic Spells                              |
-+-----+-------+----+-----+-----+-----+------------------------------------------+
++-----+-------+----+-----+-----+-----+-------------------------------------------------+
+| LVL | XP    | HD |Prof | MMP |  ST | Features                                        |
++-----+-------+----+-----+-----+-----+-------------------------------------------------+
+|   1 |     0 | 2  | +1  |  2  |  0  | Supernatural Origin, Mana Casting               |
+|   2 |   300 | 4  | +1  |  4  |  0  | Hitpoint Increase                               |
+|   3 |   900 | 6  | +2  |  8  |  2  | Sorcery Techniques, Hitpoint Increase           |
+|   4 |  1800 | 8  | +2  |  12 |  3  | Supernatural Origin Feature, Hit point re-roll  |
+|   5 |  3600 |10  | +2  |  16 |  3  | Ability Score Increase                          |
+|   6 |  6100 |12  | +2  |  20 |  3  | Supernatural Origin Feature                     |
+|   7 |  9100 |14  | +3  |  24 |  4  |                                                 |
+|   8 | 13100 |16  | +3  |  32 |  4  | Ability Score Increase                          |
+|   9 | 22600 |18  | +4  |  40 |  4  |                                                 |
+|  10 | 44600 |20  | +4  |  48 |  5  | Epic Spells                                     |
++-----+-------+----+-----+-----+-----+-------------------------------------------------+
 
 ```
 
@@ -68,8 +68,8 @@ Your sorcerous powers originate from somewhere, be it through being touched by
 a god or through a connection to another realm, pick one sorcerous origin from
 the following:
 
-- Corrupted
-- Unfathomable
+- Corrupt Soul
+- Eldritch Heart
 - Fireborne
 
 the specific features of each supernatural origin may be found at the end of
@@ -141,7 +141,7 @@ than once in a year.
 
 # Supernatural Origin
 
-## Corrupted
+## Corrupt Soul
 You gained your magical abilities through your soul being exposed to the perfect
 amount of corrupted mana at some point throughout its existance. Your magic
 is unreliable at best, and massively powerful at worst. Roll or choose any 
@@ -187,17 +187,38 @@ do not count against your spells known.
 
 ```
 
-### Unreliable Spells (level 6)
-The mana you manipulate is corrupted by your very touching it. Each time you 
-cast a spell roll a d20. On a 20 the damage of the spell is doubled, or the 
-duration if the spell does not deal damage. On a 1 the damage of the spell is
-halved and redirected to you, or the duration of the spell is halved if it does
-not deal damage. When you roll a spell attack, simply use the natural roll 
-rather than rolling another d20.
+### Arcane Adaptation (level 1)
+You have an innate ability to control the corruption your magic has upon your 
+body. When you wake up after a rest you may grant yourself two beneficial 
+corruptions of your choice which are dispelled next time you rest.
 
-## Unfathomable
-You gained your powers through a brush with an unfathomable being from the 
-depths of the abyss. This unfathomable creature may even still be within you!
+### Battle Corruption (level 4)
+Whenever you target a creature with a spell, you may expend 2 mana and 2 hit 
+dice to force them to make a constitution saving throw against your spellcasting
+DC. on a failure they are inflicted with one of the following corruptions of 
+your choice for the next minute, after which time their body returns to normal.
+
+- Eye Flaps
+Flaps of skin grow over the targets eyes, blinding them for the duration
+- Twisted Limbs
+The targets legs and arms grow gnarled and twisted, spiraling outwards from 
+their torso. The target has disadvantage on weapon attacks and their movement 
+speed is halved for the duration.
+- Redundant head
+An extra head grows on the target and begins fighting for control of their body. 
+For the duration, if the target makes an attack or casts a spell they must make 
+a DC 12 wisdom saving throw or target themself.     
+
+### Corrupive correction (level 6)
+The mana you manipulate is corrupted by your very touching it. Each time you 
+cast a spell roll a d20. On a 19 or 20 the damage of the damage or duration of 
+the spell is doubled, depending on if it deals damage or not. You gain immunity
+to the effects of contact and radiative corruption, but consumable corruptants
+still have an effect on you.
+
+## Eldritch Heart
+You gained your powers through a brush with an ancient and esotreic being from 
+the depths of reality.
 
 ### Origin Spells
 You gain the following spells thanks to your supernatural origin. These spells 
@@ -214,23 +235,36 @@ do not count against your spells known.
 | -------------- | -------------------------------------------------- |
 
 ```
+### Mindlink (level 1)
+As an action you may choose to create a psychic link between you and up to 3 
+creatures, this mindlink lasts for 1 hour. For the duration you and the other
+mind linked creatures may communicate psychically with each other over any 
+distance as long as you are on the same plane.
 
-### Abyssal Transformation (6th Level)
-Your body takes on aspects of an unfathomable creature. You may expend a bonus
-action and 5 hit dice on your turn to gain the following benefits for 1 minute:
+### Esoteric Static (level 4)
+As a reaction to being targeted by an attack you may expend 2 mana and 2 hit 
+dice to create a field of esoteric energy to fog the minds of those around you.
+All hostile creatures within 30 feet of you and the creature that targeted you
+must make a charisma saving throw against your spell save DC or be paralyzed 
+until your next turn.  
 
-- You gain a flying speed of 60 feet, this speed is hovering, meaning you do not 
-fall if knocked prone in this state.
+### Eldritch Form (6th Level)
+You power grows and festers beneath the surface, allowing you to unleash it 
+fully in short bursts through massive energy expenditure. You may expend a bonus
+action and 5 hit dice on your turn to gain the following benefits for 10 minutes:
+
+- You gain a hovering flying speed of 60 feet
 - You gain a swimming speed equal to twice your walking speed.
-- You gain truesight, meaning you are capable of seeing through any illusions,
-invisible creatures, and into the ethereal plane.
+- You gain truesight
 - You become slimy and squishy, being able to fit through a hole as small as 1
-inch wide.
+square inch.
 - You gain 5d4 temporary hitpoints
+- Your appearance may alter drastically or stay exactly the same
 
 ## Fireborne
-Either through draconic lineage or devilish influence, your magic tends twords
-fires and flames. 
+# As of this current build, Fireborne is Incomplete
+Either through draconic lineage or hellish influence, your magic tends twords
+fire and flame. 
 
 ### Origin Spells
 You gain the following spells thanks to your supernatural origin. These spells 
@@ -248,12 +282,16 @@ do not count against your spells known.
 
 ```
 
+### (level 1)
+
+### (level 4)
+
 ### Supernova Accustomed (6th Level)
-Due to the massive amount of fire spells you cast, your body has inadvertedly
-created a barried of mana defending you from fire. You are immune to fire
-damage and excessively hot weather has no effect on you. Additionally, When you 
-cast a spell that deals fire damage it burns exceptionally hot, making it ignore
-fire resistance and treating immunity as resistance.
+Due to the massive amount of fire spells you cast, your body has become 
+acusstomed to the heat. You become immune to fire damage and excessively hot 
+weather has no effect on you. Additionally, When you cast a spell that deals 
+fire damage it burns exceptionally hot, making it ignore fire resistance and 
+treating immunity as resistance.
 
 # Sorcerer Techniques
 
@@ -265,7 +303,7 @@ takes 1 action to cast to 1 bonus action
 You attempt to double the casting of a spell that targets a single creature. 
 Expend a hit die and a number of mana points equal to the level of the spell 
 cast  (1 for cantrips). You cast the spell twice instead of once. You may only 
-use twinned spell once in a turn.
+use Dual spell once in a turn.
 
 ### Subtle Casting
 You expend a hit die and 2 mana points and cast a spell without any vocal or 

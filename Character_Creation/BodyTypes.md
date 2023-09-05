@@ -439,21 +439,21 @@ starts their turn grappling you they take 1 piercing damage.
 ```
 
 ```
-Soulbound
+Name: Soulbound
 Description:
 You are bound to one creature. When this creature takes damage you may choose
 to take the damage instead. You die instantly if your soul bound creature dies.
 ```
 
 ```
-Jumping
+Name: Jumping
 Description:
 You are capable of expending a bonus action to jump 20 feet into the air, in one
 direction, or a mixture of the two.
 ```
 
 ```
-Thermal Coating
+Name: Thermal Coating
 Description:
 You have a natural coating of fur or some other thermal layer, this allows you
 to ignore the effects of an exceedingly cold or hot environment, such as a
