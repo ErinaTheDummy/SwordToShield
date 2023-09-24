@@ -11,9 +11,9 @@
 ################################################################################
 ```
 Of every generation of man, very few feel the touch of the gods and their pull 
-within the lives of mortals. Very rarely a special few, blessed with the gift of 
-prophecy, seers of the threads of fate, are entrusted to bring the prosperity
-of the gods to the earth.
+within the lives of mortals. Very rarely a special few are blessed with the gift 
+of prophecy. These seers of the threads of fate, are entrusted to bring the 
+prosperity of the gods to the earth.
 
 ## Hit Die
 Your hit die is a d10
@@ -30,7 +30,7 @@ You gain proficiency in 2 skills of your choice and Will.
 | --------------- | -------------------------------------------------- |
 |  Armor          |  Medium Armor, Light armor                         |
 | --------------- | -------------------------------------------------- |
-|  Weapons        |  Simple Weapons                                    |
+|  Weapons        |  Simple Weapons, Martial Weapons                   |
 | --------------- | -------------------------------------------------- |
 |  Tools          |                                                    |
 | --------------- | -------------------------------------------------- |
@@ -51,15 +51,15 @@ MSL = Maximum Spell Level
 | LVL | XP    | HD |Prof |  RG   |        Features                       |
 +-----+-------+----+-----+-------+---------------------------------------+
 |   1 |     0 | 2  | +1  |  0    | Prophecy                              |
-|   2 |   300 | 4  | +1  |  3    | Revelations                           |
-|   3 |   900 | 6  | +2  |  4    | Hit point Increase                    |
-|   4 |  1800 | 8  | +2  |  5    | Hit point re-roll                     |
-|   5 |  3600 |10  | +2  |  6    | Ability Score Increase                |
-|   6 |  6100 |12  | +2  |  7    |                                       |
-|   7 |  9100 |14  | +3  |  7    | Prophecy Feature                      |
-|   8 | 13100 |16  | +3  |  8    |                                       |
-|   9 | 22600 |18  | +4  |  8    |                                       |
-|  10 | 44600 |20  | +4  |  9    | Ability Score Increase                |
+|   2 |   300 | 4  | +1  |  2    | Revelations                           |
+|   3 |   900 | 6  | +2  |  3    | Hit point Increase                    |
+|   4 |  1800 | 8  | +2  |  4    | Hit point re-roll                     |
+|   5 |  3600 |10  | +2  |  5    | Ability Score Increase                |
+|   6 |  6100 |12  | +2  |  6    |                                       |
+|   7 |  9100 |14  | +3  |  6    | Prophecy Feature                      |
+|   8 | 13100 |16  | +3  |  7    |                                       |
+|   9 | 22600 |18  | +4  |  7    |                                       |
+|  10 | 44600 |20  | +4  |  8    | Ability Score Increase                |
 +-----+-------+----+-----+-------+---------------------------------------+
 
 ```
@@ -70,7 +70,6 @@ prophecy are described to you by your GM. The nature of the prophecy grants you
 different features and abilities, choose one prophecy from the following:
 
 - Prosperity
-- Pestilence
 - Annihilation
 
 ### Revelations
@@ -90,6 +89,8 @@ repeat this every time you level up.
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may 
 forgo your ability score increase and take a feat instead.
+
+---
 
 # Revelations
 
@@ -142,6 +143,9 @@ As a bonus action you may expend two hit dice and use your foresight to locate
 any critical points on a creature within your sight. The damage of the next 
 attack you make against that creature is doubled.
 
+---
+
+# Prophecies
 
 ## Prophecy of Prosperity
 A prophecy of prosperity comes to a prophet in a time of hardship, showing a
@@ -153,15 +157,6 @@ prosperity to bring paradise to the earth.
 
 ###
 
-
-## Prophecy of Pestilence
-A prophecy of pestilence appears before a prophet as the calm before the storm,
-showing them the way to navagate a world through great hardship which will 
-surely approach. 
-
-###
-
-###
 
 ## Prophecy of Annihilation
 A prophecy of Annihilation appears to a prophet once an eon, showing an outcome 

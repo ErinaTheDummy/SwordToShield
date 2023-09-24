@@ -119,6 +119,8 @@ abilities that you would not have otherwise. Refer to the warlock invocations
 column of the warlock level chart to determine how many invocations you should
 have at a given level.
 
+---
+
 # Warlock Invocations
 
 ### Devil's Sight
@@ -230,6 +232,7 @@ A magical field which repels magic corruption creates a sheen across you. When
 you roll a d20 while casting a spell and get corrupted, you may choose to not
 be corrupted instead. You may use this invocation once per rest. 
 
+---
 
 # Warlock Pact
 
@@ -268,6 +271,8 @@ prepared.
 
 ```
 
+---
+
 ## Demon
 The void grants you strength. Thanks to your pact with a demon the prospects of
 destruction are verily in your favor.
@@ -285,6 +290,8 @@ As an action on your turn you may expend 5 hit dice and expell a 40 foot cone of
 maddening energy from your eyes. Any creature within the area must make a wisdom 
 saving throw or become distraught with maddness, dropping their wisdom, 
 intelligence, and charisma scores to 4 and incapacitating them for 1 minute.
+
+---
 
 ### Pact Spells
 You are granted additional spells by your patron at different levels, these
@@ -322,6 +329,8 @@ You learn a ritual to return one good hearted creature to life. Over the course
 of 8 hours you may perform a ritual to cast the Raise Dead spell. The total cost 
 for the material components of this spell is 750 GP.  
 
+---
+
 ### Pact Spells
 You are granted additional spells by your patron at different levels, these
 spells do not count against your total spells known and are considered always
@@ -338,6 +347,8 @@ prepared.
 | --------------- | --------------------- |
 
 ```
+
+---
 
 # Warlock Spells List
 

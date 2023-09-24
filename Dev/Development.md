@@ -4,7 +4,7 @@ updates.
 
 # Active Development
 
-## The Gears of Fate Update
+## The Gears of Fate (Alpha 1.1)
 ```[██□□□□□□□□□□□□□□□□□□] 10% complete```
 
 
@@ -31,6 +31,9 @@ of wisdom.
 (d4) Complete Inventor, Intelligence based class that thins the line between
 magic and science, inventions ranging from firearms which they are not 
 proficient with to suits of power armor.
+
+### Complete Fireborne Supernatural Origin
+Complete the fireborne sorcerer
 
 ### Write Bestiary Entry: Celestials
 Complete 10+ stat blocks for creatures in the celestials category of the 

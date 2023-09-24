@@ -101,6 +101,8 @@ You gain the ability to craft heavy weaponry.
 Whenever you roll a natural 20 on a ranged attack your damage for that attack 
 is increased by an additional 3d6.
 
+---
+
 # Crafting
 Range refers to the effective and disadvantage range of an item, magazine refers
 to the amount of ammunition an item may hold, and cost refers to the amount of
@@ -273,6 +275,7 @@ Scrap Cost: 5
 Amount: 1
 ```
 
+---
 
 # Modifications
 You may only apply a modification to a weapon once, unless the modification
@@ -326,6 +329,8 @@ You cannot have disadvantage within the effective range of the modified weapon.
 You add a suppressor to the barrel of your firearm. Whenever you fire from a 
 position where you are hidden, your target does not automatically know your 
 postion, instead having to pass perception checks looking for you. 
+
+---
 
 # Maneuvers
 Certain maneuvers may refer to saving throws, the DC for these saving throws are

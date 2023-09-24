@@ -162,6 +162,8 @@ after an hour.
 You may increase one of your ability scores by 2 or two of them by 1. You may 
 forgo your ability score increase and take a feat instead.
 
+---
+
 # Holy Orders
 
 ## Nature
@@ -254,7 +256,7 @@ costs for your spells.
 ``` 
 
 
-
+---
 
 ## Justice
 The justice order encompasses the enforcement of law and order across the 
@@ -323,7 +325,7 @@ spell Seraphic Transformation, it is always prepared and does not  count against
 your maximum spells prepared. You also gain immunity to radiant damage.
 
 
-
+---
 
 ## Light
 The light order encompasses light and radiance. This order seeks to light the
@@ -386,7 +388,7 @@ strength. While in direct sunlight you have altered grace costs for your spells.
 
 ``` 
 
-
+---
 
 ## Death
 The death order encompasses the peaceful passing of the living and the smooth
@@ -443,7 +445,7 @@ against your maximum spells prepared. You also gain resistance to necrotic
 damage.
 
 
-
+---
 
 ## Creation
 The creation order encompasses the protection of creation and the counteraction
@@ -540,6 +542,8 @@ writing from its head.
 other, all within 20 feet.
 - Smash +10 3d12 + 6 bludgeoning Damage, 1 target within 20 feet.
 ```
+
+---
 
 # Priest Spell List
 

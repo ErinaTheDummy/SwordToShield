@@ -129,6 +129,8 @@ slashing damage while in your monstrous form.
 ### Extra Attack
 When you take the attack action, you may make two attacks instead of one. 
 
+---
+
 # Monstrous Forms
 
 ## Desmoduthrope
@@ -180,6 +182,7 @@ your save DC or take 6d6 thunder damage, or half as much on a successful save.
 After you use this feature roll a 1d6 on the start of each of your turns until 
 the shift ends, on a roll of 6 you may use this feature again.
 
+---
 
 ## Lycanthrope
 
@@ -196,7 +199,7 @@ attack on hit.
 - Darkvision out to 60 feet 
 - Advantage on scent based checks
 - Advantage on Strength checks and saving throws
-- Grow 4 feet taller, but do not change size.
+- Grow 2 feet taller, but do not change size.
 
 ### Unwilling Shift Triggers
 Refer to the following chart for your unwilling shift triggers and their DC.
@@ -232,6 +235,61 @@ be commanded by you as a bonus action on your turn. If this would turn multiple
 wolves you may only command one at a time as a bonus action, with the others 
 acting in a way they believe would benefit you. This effect ends after 1 minute 
 or until you directly attack one of the wolves. 
+
+---
+
+## Chondrichthrope
+
+### Monstrous Form: Lycanthrope
+(If any features refer to a save DC the DC is 8 + Your Constitution modifier + Your proficiency bonus)
+Your monstrous form takes after Chondrichthyes or sharks and your monstrous form
+die is a d12. You gain the following benefits while shifted:
+
+- +4 to strength score
+- Swimming speed increased by 60 ft
+- Bite attack, d10 melee damage die piercing damage
+- Darkvision out to 60 feet while wet or underwater
+- Advantage on all perception checks while wet or underwater
+- Advantage on Strength checks and saving throws
+- Ability to breath in both air and water
+- Grow 4 feet taller, but do not change size.
+
+
+### Unwilling Shift Triggers
+Refer to the following chart for your unwilling shift triggers and their DC.
+
+```
+|  Trigger                                       |  DC  |
+| ---------------------------------------------- | ---- |
+|  Seeing or smelling raw fish                   |  08  |
+|  Tasting Raw fish                              |  12  |
+|  Smelling blood                                |  14  |
+|  Seeing or smelling raw meat (excluding fish)  |  16  |
+|  Tasting blood                                 |  18  |
+|  Dropping to 0 hitpoints                       |  18  |
+|  A Full Moon                                   |  20  |
+```
+
+### Blood Frenzy (level 2)
+As part of your bonus action to shift you may choose to expend an additional 
+hit die and enter a blood frenzy. For the duration of your blood frenzy you may 
+make an additional attack on your turn as a bonus action. You also gain 
+advantage on bite attacks against enemies below their maximum hitpoints that are 
+not constructs or undead. Your blood frenzy ends when your shift ends, and you 
+gain on level of exhaustion. You are immune to the effects of exhaustion during
+a blood frenzy.  
+
+### Bloodlust (level 4)
+Once per turn, when you kill an enemy that is not a construct or undead with a 
+bite attack you regain 1 hit die and may make take an additional action before
+the end of your turn.
+
+### Vicious Thrashing (level 8)
+As an action on your turn you may expend 5 hit dice and roll 1d8, making a 
+number of bite attacks equal to the roll of the d8. You make twice as many 
+attacks if you take this action underwater.
+
+---
 
 ## Ursusthrope
 

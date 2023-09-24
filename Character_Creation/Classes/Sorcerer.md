@@ -139,6 +139,8 @@ they incur great physical toll. When you cast a 6th level spell, you lose the
 ability to cast spells for 1d4 * 7 days. You may not cast a 6th level spell more
 than once in a year.
 
+---
+
 # Supernatural Origin
 
 ## Corrupt Soul
@@ -216,6 +218,8 @@ the spell is doubled, depending on if it deals damage or not. You gain immunity
 to the effects of contact and radiative corruption, but consumable corruptants
 still have an effect on you.
 
+---
+
 ## Eldritch Heart
 You gained your powers through a brush with an ancient and esotreic being from 
 the depths of reality.
@@ -261,6 +265,8 @@ square inch.
 - You gain 5d4 temporary hitpoints
 - Your appearance may alter drastically or stay exactly the same
 
+---
+
 ## Fireborne
 # As of this current build, Fireborne is Incomplete
 Either through draconic lineage or hellish influence, your magic tends twords
@@ -292,6 +298,8 @@ acusstomed to the heat. You become immune to fire damage and excessively hot
 weather has no effect on you. Additionally, When you cast a spell that deals 
 fire damage it burns exceptionally hot, making it ignore fire resistance and 
 treating immunity as resistance.
+
+---
 
 # Sorcerer Techniques
 
@@ -347,6 +355,8 @@ damage type to force.
 You are capable of using latent magic to guide your ability checks. When you 
 fail an ability or skill check you may expend 1 hit die and 1 mana point and 
 reroll.
+
+---
 
 # Sorcerer Spell List
 

@@ -94,6 +94,8 @@ bonus is doubled when making checks with that skill.
 ### Sneak Attack Increase
 Your Sneak Attack damage increases to 5d6
 
+---
+
 # Rogue Techniques
 Certain techniques may refer to saving throws, the DC for these saving throws 
 is 8 + Your Intelligence or Charisma Modifier + Your proficiency bonus.

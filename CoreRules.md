@@ -749,3 +749,89 @@ Language of fae and fairies
 
 #### Anirandrus
 Language spoken amongst worshippers of An'ire
+
+## Corruption
+While adventuring you may encounter many harmful environmental effects, the most
+notable and visceral of these effects is corruption. Corruptions arise from 
+interactions with corruptants, and they cause potent and often detrimental 
+effects on your body. A list of all corruption tables may be found in the 
+[Accursed Journal.md](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md) document
+
+### Radiative Corruptants
+A radiative corruptant corrupts over an area of effect, with the corruption 
+chance and corruptive effects getting more and more dire as you get closer. The
+following chart outlines distance from different strength radiative corruptants
+and how that might affect an adventurer as well as constitution save DCs for
+resisting the corruptive effect.
+
+#### Extreme Corruptant
+
+```
++-----------+----+-------------------------------------------+
+| Distance  | DC |                  Effect                   |
++-----------+----+-------------------------------------------+
+| 5 feet    | 26 | Roll on BAD corruptions                   |
+| 25 feet   | 22 | Roll on BAD or Minor Det. corruptions     |
+| 625 feet  | 18 | Roll on Minor Det. Corruptions            |
+| 3000 feet | 14 | Roll on Minor Det. or neutral corruptions |
++-----------+----+-------------------------------------------+
+```
+
+#### Strong Corruptant
+
+```
++-----------+----+-------------------------------------------------+
+| Distance  | DC |                     Effect                      |
++-----------+----+-------------------------------------------------+
+| 5 feet    | 20 | Roll on BAD or Minor Det. corruptions           |
+| 25 feet   | 18 | Roll on BAD, Minor Det., or Neutral corruptions |
+| 625 feet  | 14 | Roll on Minor Det. or Neutral corruptions       |
+| 3000 feet |  8 | Roll on Neutral Corruptions                     |
++-----------+----+-------------------------------------------------+
+```
+
+#### Weak Corruptant
+
+```
++-----------+----+--------------------------------------------+
+| Distance  | DC |                   Effect                   |
++-----------+----+--------------------------------------------+
+| 5 feet    | 16 | Roll on Minor Det. corruptions             |
+| 25 feet   | 14 | Roll Minor Det. or Neutral corruptions     |
+| 625 feet  | 12 | Roll on neutral corruptions                |
+| 3000 feet |  8 | Roll on neutral or Minor Bene. corruptions |
++-----------+----+--------------------------------------------+
+```
+
+### Contact Corruptants
+Contact corruptants corrupts whatever they touche. The type of corruption
+decided by contact corruption is innate to the object but an example includes:
+
+```
+The Dark Scepter of Detrorphius the Mad
+Rarity: Artifact
+Attunement: Y
+Description: 
+This black metal staff adorned with a massive purple gem at the top once 
+belonged to Detrorphius the Mad, an evil wizard long destroyed by the forces of 
+good. As an action a creature attuned to this weapon may instantly kill one 
+creature within 120 feet with a blast of dark energy. This object is cursed 
+attuning to it grants you 2 bad corruptions and you must make a DC 18 wisdom 
+saving throw or fall under one of the following effects:
+
++------------+--------------------------------------------------------------------------------+
+| Roll (1d4) |                                     Effect                                     |
++------------+--------------------------------------------------------------------------------+
+| 1          | You begin to harbor an intense greed and hatred for generosity                 |
+| 2-4        | Detrorphius possesses you at random, granting the GM control of your character |
++------------+--------------------------------------------------------------------------------+
+
+```
+
+
+### Consumable Corruptants 
+Consumable corruptants are the most unreliable of all corruptants. When consumed
+the consuming creature must make a flat DC check decided by the corruptant or
+roll randomly for both the corruption chart and the corruption inflicted. This 
+causes consumable corruptants to either strengthen or signifanctly weaken 
+characters who consume them.

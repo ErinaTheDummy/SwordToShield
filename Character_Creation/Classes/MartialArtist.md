@@ -102,7 +102,9 @@ When you take the attack action, you may make two attacks instead of one.
 ### Improved Extra Attack
 When you take the attack action, you may make three attacks instead of two.
 
-# Martial Arts List
+---
+
+# Martial Arts
 When refering to a DC the DC is equal to 8 + Your proficiency bonus + Your 
 wisdom modifier.
 

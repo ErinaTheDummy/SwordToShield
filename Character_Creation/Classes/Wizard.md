@@ -158,6 +158,8 @@ they incur great physical toll. When you cast a 6th level spell, you lose the
 ability to cast spells for 1d4 * 7 days. You may not cast a 6th level spell more
 than once in a year.
 
+---
+
 # Wizard Spell List
 
 ## Cantrips
