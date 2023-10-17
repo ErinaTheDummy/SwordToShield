@@ -202,17 +202,17 @@ you may instead designate them to each stat in the order they were rolled. This
 rule is intended to help you "find" a character rather than make a planned one 
 outright.
 
-### Choosing a Culture
-Next, choose one culture from the Cultures.md document in Character_Creation.
-Apply the languages and free feature you gain from this culture and two features
-of your choice from your respective culture's features list. Culture describes
-the atmosphere and values of the place your character originated from, often
-times culture has large roleplay implications.
-
 ### Choosing a Background
 Next, choose a background from the Backgrounds.md document in Character_Creation
 backgrounds are the most basic unit of lore for your character, simply
-describing their occupation before they experienced the call to adventuring.
+describing their occupation before they experienced the call to adventuring and
+giving them a bonus feature that matches.
+
+### OPTIONAL: Choosing a Culture
+You may also, choose one culture from the Backgrounds.md document in 
+Character_Creation. Apply the languages you gain from this culture. Culture 
+describes the atmosphere and values of the place your character originated from,
+often times culture has large roleplay implications.
 
 ### Choosing a Bodytype
 Next, choose a bodytype from the BodyTypes.md document in Character_Creation.

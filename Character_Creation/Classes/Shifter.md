@@ -77,9 +77,9 @@ hp.
 Your monstrous form is the form you change into when shifting. Your monstrous 
 form grants you special features. Choose one monstrous form from the following:
 
-- Desmoduthrope
-- Norvegthrope (norvegicus)
-- Lycanthrope
+- Werebat 
+- Lycanthrope 
+- Wereshark 
 - Ursusthrope
 
 Refer to the list at the end of this document to find the exact features granted 
@@ -133,9 +133,9 @@ When you take the attack action, you may make two attacks instead of one.
 
 # Monstrous Forms
 
-## Desmoduthrope
+## Werebat
 
-### Monstrous Form: Desmoduthrope
+### Monstrous Form: Werebat
 (If any features refer to a save DC the DC is 8 + Your Constitution modifier + Your proficiency bonus)
 Your monstrous form takes after Desmodus or vampire bats and your monstrous
 form die is a d6. You gain the following benefits while shifted:
@@ -238,12 +238,12 @@ or until you directly attack one of the wolves.
 
 ---
 
-## Chondrichthrope
+## Wereshark
 
-### Monstrous Form: Lycanthrope
+### Monstrous Form: Wereshark
 (If any features refer to a save DC the DC is 8 + Your Constitution modifier + Your proficiency bonus)
-Your monstrous form takes after Chondrichthyes or sharks and your monstrous form
-die is a d12. You gain the following benefits while shifted:
+Your monstrous form takes after sharks and your monstrous form die is a d12. 
+You gain the following benefits while shifted:
 
 - +4 to strength score
 - Swimming speed increased by 60 ft
@@ -304,6 +304,7 @@ a d12. You gain the following benefits while shifted:
 - Darkvision out to 60 feet 
 - Advantage on scent based checks
 - Advantage on Strength checks and saving throws
+- Advantage on Constitution checks and saving throws
 - Grow one size larger, increases your damage die amount by 1. Unfortunately 
 this means your AC is reduced by 2 as you become a larger target.
 
@@ -337,5 +338,5 @@ hit, you deal additional damage equal to your shifter level.
 ### Rip and Tear (level 8)
 When you make two attacks against a single creature on your turn and both hit 
 you may force the target to make a strength saving throw against your save DC, 
-on a failure the target takes 10 additional true damage. If this damage reduces 
+on a failure the target takes 20 additional true damage. If this damage reduces 
 the target to 0 hitpoints or lower you tear them apart and they die instantly.

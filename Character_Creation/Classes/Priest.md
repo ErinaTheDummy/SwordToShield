@@ -47,7 +47,7 @@ SL = Maximum spell level
 +-----+-------+----+-----+----------+------------------------------------------+
 | LVL | XP    | HD |Prof |  SL      |        Features                          |
 +-----+-------+----+-----+----------+------------------------------------------+
-|   1 |     0 | 2  | +1  |  Cantrip | Holy Order, Grace Casting, Grace,        |
+|   1 |     0 | 2  | +1  |  Cantrip | Holy Order, Grace Casting, Grace         |
 |   2 |   300 | 4  | +1  |  1       | Hitpoint Increase                        |
 |   3 |   900 | 6  | +2  |  2       | Order Feature, Hit point Increase        |
 |   4 |  1800 | 8  | +2  |  2       | Hit point re-roll                        |
@@ -101,9 +101,9 @@ list by praying each rest. You also learn 2 cantrips from the priest spell list.
 When you cast a spell it consumes an amount of grace equal to its grace cost.
 
 ### Grace
-Grace is your casting ability, you may lose it or gain it through many means.
-The following charts show actions that will increase or decrease your grace,
-as well as the hit dice you must expend to perform them.
+You start with 100 grace. Grace is your casting ability, you may lose it or gain
+it through many means. The following charts show actions that will increase or 
+decrease your grace, as well as the hit dice you must expend to perform them.
 
 ```
 
@@ -115,24 +115,26 @@ as well as the hit dice you must expend to perform them.
 |  Provide Counsel to a character   |  2d8           |  2 HD     |
 |  Order Specific Act               |  1d2  * 8      |  N/A      |
 |  Giving to the in need            |  4d10          |  N/A      |
+|  Banish a demon                   |  4d10          |  N/A      |
 |  Convert a human                  |  1d10 * 8      |  N/A      |
 |  Prevent Crime/Catch Criminal     |  1d10 * 8      |  N/A      |
 |  Sacrifice Heart of Large Monster |  1d4  * 80     |  5 HD     |
 |  Saving a life                    |  1d12 * 8      |  N/A      |
+|  Banish a Devil                   |  1d20 * 10     |  N/A      | 
 |  Cure Sick Person or Creature     |  1d4  * 80     |  N/A      |
 |  Sacrifice Heart of Huge Monster  |  1d6  * 80     |  10 HD    |
 |  Sacrificing yourself             |  2d10 * 1000   |  10 HD    |
 | --------------------------------- | -------------- | --------- |
 
 
-|  Bad Action                       |  Grace Lost  |
-| --------------------------------- | ------------ |
-|  Harming Innocents Purposefully   |  1d10 * 80   |
-|  Blaspheming Against Your God     |  1d10 * 80   |
-|  Murdering an Innocent            |  2d20 * 80   |
-|  Order Specific Act               |  1d6  * 80   |
-|  Lie, Cheat, or Steal             |  1d20 * 8    |
-| --------------------------------- | ------------ |
+|  Bad Action                                 |  Grace Lost  |
+| ------------------------------------------- | ------------ |
+|  Harming Innocents Purposefully             |  1d10 * 80   |
+|  Blaspheming Against Your God               |  1d10 * 80   |
+|  Murdering an Innocent                      |  2d20 * 80   |
+|  Order Specific Act                         |  1d6  * 80   |
+|  Lie to, Cheat, or Steal From the Righteous |  1d20 * 8    |
+| ------------------------------------------- | ------------ |
             
 
 
@@ -154,7 +156,7 @@ divinity and one from your holy order.
 
 #### Channel Divinity: Harness Grace
 As a bonus action you speak a prayer to the gods while holding your holy symbol,
-asking for a wellspring of grace. you gain temporary grace equal to 50 times
+asking for a wellspring of grace. you gain temporary grace equal to 150 times
 your priest level. This grace is temporary and any remaining portion of it fades 
 after an hour.
 
