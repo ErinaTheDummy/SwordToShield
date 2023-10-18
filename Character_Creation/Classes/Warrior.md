@@ -155,7 +155,7 @@ When a creature enters within your range you may expend a reaction to make an
 attack against them.
 
 ### Charge
-When you move 20 feet in a straight line twords a creature and make an attack 
+When you move 20 feet in a straight line towards a creature and make an attack 
 against them you deal an additional 1d8 damage. 
 
 ### Frenzy

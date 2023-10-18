@@ -269,7 +269,7 @@ square inch.
 
 ## Fireborne
 # As of this current build, Fireborne is Incomplete
-Either through draconic lineage or hellish influence, your magic tends twords
+Either through draconic lineage or hellish influence, your magic tends towards
 fire and flame. 
 
 ### Origin Spells

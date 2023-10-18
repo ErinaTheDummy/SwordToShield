@@ -868,7 +868,7 @@ Duration:
 Casting Time: 
 Description:
 This spell creates a special pet called a 'familiar'. You may cast this spell on
-an already existing creature which is friendly twords you or you may create one
+an already existing creature which is friendly towards you or you may create one
 from the following list of creatures:
 
 - Tarantula                         - Dog
