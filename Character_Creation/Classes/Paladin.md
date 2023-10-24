@@ -206,16 +206,17 @@ your prepared spells and are considered always prepared.
 ```
 
 ### Tenants Of Vanquishment
-####***Be indignant to all things*** 
+
+#### ***Be indignant to all things*** 
 Untamed anger is the tool of the wrath-filled and spiteful, understand the anger
 that dwells within you and turn it towards just cause
-####***Show no mercy*** 
+#### ***Show no mercy*** 
 those who choose to commit evil against the common man have already forfeit 
 their lives, take what they have so thoughtlessly thrown away
-####***Revel in glorious combat*** 
+#### ***Revel in glorious combat*** 
 show the enemy that you understand the disgusting reality of war and that you do
 not shy from it, become their monster
-####***Keep yourself*** 
+#### ***Keep yourself*** 
 understand that beyond combat and after war, you are capable of all the grace
 and mercy of any other living thing
 
@@ -262,15 +263,16 @@ your prepared spells and are considered always prepared.
 ```
 
 ### Tenants Of Secrecy
-####***Move Silently***
+
+#### ***Move Silently***
 Do not boast or brag about your accomplishments, the greatest deeds are done in
 private. When you pray for another in secret, so too do the angels pray for you. 
-####***What is Secret Stays Secret***
+#### ***What is Secret Stays Secret***
 When someone shares information with you in confidence, keep that secret with 
 you. Secrets are between the You, the holder, and The Moon alone.
-####***Spread The Dew of Fertility***
+#### ***Spread The Dew of Fertility***
 Leave all things you find better than the state you found them in.
-####***Peace, Be still***
+#### ***Peace, Be still***
 When times are tough, trust in the forces that be; Know that if you are on a 
 righteous path you shall always succeed.
 
@@ -318,16 +320,17 @@ your prepared spells and are considered always prepared.
 ```
 
 ### Tenants Of Preservation
-####***Know Thy Enemy***
+
+#### ***Know Thy Enemy***
 Research and do your due dilligence against possible threats. Know that the 
 heavens guide your hands towords intelligent solutions.
-####***Secure***
+#### ***Secure***
 When you encounter a threat, immedietly steer innocent lives clear. Do whatever
 it takes to minimize the risk a threat poses to the lives of others.
-####***Contain***
+#### ***Contain***
 Whenever possible, immediately neutralize the source of a given threat. Know 
 that not every problem can be solved simply with a sword. 
-####***Protect***
+#### ***Protect***
 Whenever neutralization of a threat is impossible, seal it away as best you can.
 Some forces can be left dormant. 
 
