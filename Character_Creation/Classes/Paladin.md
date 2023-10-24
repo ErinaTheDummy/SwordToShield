@@ -88,9 +88,9 @@ paladin spell list. When you cast a spell it consumes an amount of grace equal
 to its grace cost.
 
 ### Grace
-You start with 100 grace. Grace is your casting ability, you may lose it or gain
-it through many means. The following charts show actions that will increase or 
-decrease your grace, as well as the hit dice you must expend to perform them.
+You start with 100 grace. Grace is your casting resource, you may lose it or 
+gain it through many means. The following charts show actions that will increase
+or decrease your grace, as well as the hit dice you must expend to perform them.
 
 ```
 

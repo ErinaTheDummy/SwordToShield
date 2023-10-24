@@ -47,7 +47,7 @@ WM = Warrior Maneuvers Known
 | LVL | XP    | HD |Prof |  WM   |        Features                       |
 +-----+-------+----+-----+-------+---------------------------------------+
 |   1 |     0 | 2  | +1  |  0    | Unyielding                            |
-|   2 |   300 | 4  | +1  |  1    | Warrior Maneuvers, Hit point Increase |
+|   2 |   300 | 4  | +1  |  1    | Warrior Maneuvers, Hitpoint Increase  |
 |   3 |   900 | 6  | +2  |  2    | Hit point Increase                    |
 |   4 |  1800 | 8  | +2  |  3    | Hit point re-roll                     |
 |   5 |  3600 |10  | +2  |  4    | Ability Score Increase                |
