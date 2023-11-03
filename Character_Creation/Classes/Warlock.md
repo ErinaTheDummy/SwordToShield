@@ -132,6 +132,7 @@ against your spells known and carries no risk of sanity drain.
 
 ### Truesight (level 9)
 - **Requires: Devil's Sight**
+
 Your eyes see the truth of the world, illusions have no effect on you and you
 and invisible creatures are visible to you. You may use an action to see into 
 the ethereal plane and you may attack invisible creatures without suffering 
@@ -144,6 +145,7 @@ is on your person. You may recall the tome to you as an action.
 
 ### Tome Of Death (level 9)
 - **Requires: Tome Of Darkness**
+
 You gain the ability to write the full and true name of up to 3 creatures in 
 your tome at a time. These creatures are marked for death and have vulnerability
 to any damage you inflict upon them.  
@@ -197,11 +199,13 @@ and again to +3 at 10th level. You are proficient with your pact weapon.
 
 ### Malicious Blade (Level 6)
 - **Requires: Pact Weapon**
+
 Your pact weapon yearns for bloodshed. When you take the attack action with your
 pact weapon, you may make two attacks instead of one.
 
 ### Eldritch Smite
 - **Requires: Pact Weapon**
+
 When you hit a creature with your pact weapon you may add 1d8 force damage and
 roll will, on a roll of 14 or lower you lose 1 sanity.
 

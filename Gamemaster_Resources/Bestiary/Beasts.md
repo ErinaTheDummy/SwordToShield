@@ -184,7 +184,7 @@ feet of an ally
 
 # Attacks:
 
-- Bite +2 to hit, 1d8 piercing damage, 1 target within 5 feet.
+- Bite +3 to hit, 1d8 piercing damage, 1 target within 5 feet.
 
 ```
 
@@ -216,12 +216,19 @@ hear.
 Greatbear
 Huge Beast
 XP: 1800
-HP: 51(6d10+18) Current:
+HP: 51(6d10+18)
 AC: 12(natural)
 Speed: 40ft, Climb 40ft
+Proficiency bonus: +3
 |STR|DEX|CON|INT|WIS|CHA|
-| 18| 12| 17|  3| 14|  3|
-Multiattack: the Greatbear may make 2 claw attacks.
-Bite +3 3d6+4 piercing
-Claws +3 2d4+4 slashing
+| 18| 12| 17| 03| 14| 03|
+| +4| +1| +3| -4| +2| -4|
+
+# Features:
+- Multiattack: the Greatbear may make 2 claw attacks.
+
+# Attacks:
+
+- Bite +6 3d6+4 piercing, 1 target within 15 feet
+- Claws +6 2d4+4 slashing, 1 target within 15 feet
 ```
