@@ -211,3 +211,17 @@ hear.
 - Bite +0 to hit, 1 piercing damage, 1 target within 5 feet.
 
 ```
+
+```
+Greatbear
+Huge Beast
+XP: 1800
+HP: 51(6d10+18) Current:
+AC: 12(natural)
+Speed: 40ft, Climb 40ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 12| 17|  3| 14|  3|
+Multiattack: the Greatbear may make 2 claw attacks.
+Bite +3 3d6+4 piercing
+Claws +3 2d4+4 slashing
+```

@@ -35,3 +35,5 @@ If you're a player having trouble navigating, use these helpful links.
 ### [Core Rules](https://github.com/ErinaTheDummy/SwordToShield/blob/main/CoreRules.md)
 
 ### [Items](https://github.com/ErinaTheDummy/SwordToShield/blob/main/ItemCompendium.md)
+
+### [Spells](https://github.com/ErinaTheDummy/SwordToShield/blob/main/SpellCompendium.md)

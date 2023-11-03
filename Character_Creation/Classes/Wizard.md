@@ -228,6 +228,7 @@ than once in a year.
 - Beast Tongue
 - Thunderwave
 - Witch Bolt
+- Summon Green Slime
 
 ## 2nd Level Spells
 - Alter Self
@@ -261,6 +262,7 @@ than once in a year.
 - Silence
 - Spider Climb
 - Suggestion
+- Rewind
 
 ## 3rd Level Spells
 - Blink
@@ -294,6 +296,7 @@ than once in a year.
 - Water Walk
 - Vass' Psychic Blast
 - Stoneskin
+- Snowball
 
 ## 4th Level Spells
 - Banish

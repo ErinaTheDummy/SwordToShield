@@ -1609,7 +1609,21 @@ away, becoming a green puddle.
 ```
 [Green Slime Statblock](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/Bestiary/Monstrosities.md#green-slime)
 
+```
 
+Lunar Ray (1st) (52)
+
+Range: 90 feet
+Components: S/V
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You call upon the moon's light to hurl a burst of radiant energy. Make a spell 
+attack against a creature within range, on a hit the creature takes 3d6 radiant 
+damage. If the target is a shapeshifter they must also make a constitution 
+saving throw against your spell DC, reverting to their true form on a failure. 
+
+```
 
 # 2nd Level Spells
 
@@ -1714,7 +1728,7 @@ Obscure (2nd) (7)
 
 Range: touch
 Components: S
-Duration: concentration up to 1 minute
+Duration: 1 minute
 Casting Time: 1 action
 Description:
 You touch one creature and slightly obscure them from view using illusory magic.
@@ -2298,7 +2312,9 @@ incapable of altering the truth.
 ```
 
 ```
+
 Wither (2nd) (43)
+
 Distance: self
 Duration: Instantaneous
 Casting Time: 1 Action
@@ -2308,6 +2324,7 @@ in your immediate vicinity, returning it to you as temporary vitality. All
 creatures within the effected area are forced to make a CON save to halve 2d6 
 necrotic damage. you regain half the total damage dealt to all creatures as 
 temporary hitpoints.
+
 ```
 
 ```
@@ -2350,7 +2367,7 @@ Components: V/S
 Duration: Instantaneous
 Casting Time: 1 reaction
 Description:
-As a reaction to a creaturew within range making an ability check, attack roll, 
+As a reaction to a creature within range making an ability check, attack roll, 
 or saving throw you may rewind time, forcing them to roll a second time and use 
 that roll. You may also grant one creature within range advantage on their next
 attack or ability check.

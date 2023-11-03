@@ -27,7 +27,7 @@ refer to the following chart:
 ```
 
 ## Banknotes
-Banknotes are a more complex for, of currency, which may differ from town to 
+Banknotes are a more complex form of currency, which may differ from town to 
 town and country to country within a given world. Banknotes have value ensured 
 by an establishment, if that establishment is destroyed in game the banknotes 
 become about as meaningful as fire tinder.
@@ -35,21 +35,26 @@ become about as meaningful as fire tinder.
 # Adventuring Gear
 Adventuring necessitates equipment.
 
-## Miscellaneous Gear
+## Apothecary and Alchemy
 
 ```
 |  Item                       |  Cost    | Weight |
 | --------------------------- | -------- | ------ |
-| Abacus                      | 2   gp   | 2 lb.  |
 | Acid (vial)                 | 25  gp   | 1 lb.  |
-| --------------------------- | -------- | ------ |
-| Ammunition                  |          |        |
-| Arrows (20)                 | 1   gp   | 1 lb.  |
-| Blowgun needles (50)        | 1   gp   | 1 lb.  |
-| Crossbow bolts (20)         | 1   gp   | 1½ lb. |
-| Sling bullets (20)          | 4   cp   | 1½ lb. |
-| --------------------------- | -------- | ------ |
 | Antitoxin (vial)            | 50  gp   | —      |
+| Perfume (vial)              | 5   gp   | —      |
+| Poison, basic (vial)        | 100 gp   | 1 lb.  |
+| Potion of Healing           | 50  gp   | 1/2 lb.|
+| Tincture of Laudanum        | 5   gp   | 1/4 lb.|
+| Tincture of goldroot        | 20  gp   | 1/4 lb.|
+| Tincture of elderflower     | 15  gp   | 1/4 lb.|
+| --------------------------- | -------- | ------ |
+```
+
+## Magic Components
+
+```
+|  Item                       |  Cost    | Weight |
 | --------------------------- | -------- | ------ |
 | Arcane focus                |          |        |
 | Crystal                     | 10  gp   | 1 lb.  |
@@ -57,7 +62,24 @@ Adventuring necessitates equipment.
 | Rod                         | 10  gp   | 2 lb.  |
 | Staff                       | 5   gp   | 4 lb.  |
 | Wand                        | 10  gp   | 1 lb.  |
+| Spellbook                   | 50  gp   | 3 lb.  |
 | --------------------------- | -------- | ------ |
+| Component pouch             | 25  gp   | 2 lb.  |
+| Sprig of mistletoe          | 1   gp   | —      |
+| Bundle of rosemary sage     | 10  gp   | 1/4 lb.|
+| Totem                       | 1   gp   | —      |
+| Holy Water (flask)          | 25  gp   | 1 lb.  |
+| --------------------------- | -------- | ------ |
+
+```
+
+## General Goods
+
+```
+
+|  Item                       |  Cost    | Weight |
+| --------------------------- | -------- | ------ |
+| Abacus                      | 2   gp   | 2 lb.  |
 | Backpack                    | 2   gp   | 5 lb.  |
 | Ball bearings (bag of 1,000)| 1   gp   | 2 lb.  |
 | Basket                      | 4   sp   | 2 lb.  |
@@ -79,23 +101,17 @@ Adventuring necessitates equipment.
 | Clothes, fine               | 15  gp   | 6 lb.  |
 | Clothes, traveler’s         | 2   gp   | 4 lb.  |
 | Vestments                   | 5   sp   | 3 lb.  |
-| Component pouch             | 25  gp   | 2 lb.  |
 | Crowbar                     | 2   gp   | 5 lb.  |
-| Druidic focus               |          |        |
-| Sprig of mistletoe          | 1   gp   | —      |
-| Totem                       | 1   gp   | —      |
-| Wooden staff                | 5   gp   | 4 lb.  |
-| Yew wand                    | 10  gp   | 1 lb.  |
 | Fishing tackle              | 1   gp   | 4 lb.  |
 | Grappling hook              | 2   gp   | 4 lb.  |
 | Hammer                      | 1   gp   | 3 lb.  |
 | Hammer, sledge              | 2   gp   | 10 lb. |
 | Holy Symbol                 | 1   gp   | 1 Lb.  |
-| Precious Meatal Holy Symbol | 15  gp   | 2 lb.  |
+| Silver Holy Symbol          | 15  gp   | 2 lb.  |
+| Golden Holy Symbol          | 30  gp   | 2 lb.  |
 | Amulet                      | 5   gp   | 1 lb.  |
 | Emblem                      | 5   gp   | —      |
 | Reliquary                   | 5   gp   | 2 lb.  |
-| Holy Water (flask)          | 25  gp   | 1 lb.  |
 | Hourglass                   | 25  gp   | 1 lb.  |
 | Hunting trap                | 5   gp   | 25 lb. |
 | Ink (1 ounce bottle)        | 10  gp   | —      |
@@ -120,14 +136,10 @@ Adventuring necessitates equipment.
 | Oil (1 pint flask)          | 1   sp   | 1 lb.  |
 | Paper (one sheet)           | 2   sp   | —      |
 | Parchment (one sheet)       | 1   sp   | —      |
-| Perfume (vial)              | 5   gp   | —      |
 | Pick, miner’s               | 2   gp   | 10 lb. |
 | Piton                       | 5   cp   | 1/4 lb.|
-| Poison, basic (vial)        | 100 gp   | —      |
-| Antidote, (vial) (poison)   | 50  gp   | —      |
 | Pole (10-foot)              | 5   cp   | 7 lb.  |
 | Pot, iron                   | 2   gp   | 10 lb. |
-| Potion of Healing           | 50  gp   | 1/2 lb.|
 | Pouch                       | 5   sp   | 1 lb.  |
 | Quiver                      | 1   gp   | 1 lb.  |
 | Ram, portable               | 4   gp   | 35 lb. |
@@ -145,9 +157,8 @@ Adventuring necessitates equipment.
 | Signal whistle              | 5   cp   | —      |
 | Signet ring                 | 5   gp   | —      |
 | Soap                        | 2   cp   | —      |
-| Spellbook                   | 50  gp   | 3 lb.  |
 | Spikes, iron (10)           | 1   gp   | 5 lb.  |
-| Spyglass                    | 100 gp| 1 lb.  |
+| Spyglass                    | 100 gp   | 1 lb.  |
 | Tent, two-person            | 2   gp   | 20 lb. |
 | Tinderbox                   | 5   sp   | 1 lb.  |
 | Tools, Tinker's             | 10  gp   | 10 lb. |
@@ -216,15 +227,33 @@ subsequent turn until extinguished. A creature that starts it's turn in or
 enters a fire makes a DC 14 DEX save to avoid 1d6 fire damage.
 
 ### Potion of Healing
-A flask of red liquid which heals 2d4+2 hit points when consumed.
+A flask of red liquid which heals 2d4+2 hit points when consumed. May be 
+consumed as a bonus action.
 
 ### Basic Poison Vial
-A vial of murky brownish green liqid which smells of sulphur, when injested a
-creature takes 3d8 poison damage, more than enough to kill most people.
+A vial of murky brownish green liqid which smells of sulphur, when consumed a
+creature takes 3d8 poison damage, more than enough to kill most people. May be 
+consumed as a bonus action.
 
 ### Antidote
-A vial of a milky white liquid which shimmers when shaken. When injested a 
-creature is cured of the effects of any mundane toxin.
+A vial of a milky white liquid which shimmers when shaken. When consumed a 
+creature is cured of the effects of any mundane toxin. May be consumed as a 
+bonus action.
+
+### Tincture of Laudanum
+A vial of slightly yellow transparent liquid. When consumed a creature is 
+temporarily immune to the effects of madness and insanity. After consuming roll 
+will, on a 15 or lower you become addicted to Laudanum. May be consumed as a 
+bonus action.
+
+### Tincture of Goldroot
+A vial of brown translucent liquid. Grants resistance to poison and disease for
+1 hour after consumption. May be consumed as a bonus action.
+
+### Tincture of Elderflower
+A vial of purple transparent liquid. When consumed roll a 1d2 and a 1d10. On a 1
+take 1d10 poison damage, on a 2 heal 1d10 hitpoints. May be consumed as a bonus 
+action.
 
 ### Caltrops
 You may drop caltrops over a space of four 5ft squares that are connected. 
@@ -352,6 +381,17 @@ good for that!
 | Longbow                | 50 gp | 1d8 piercing    | 2  lb.  | Ammunition (range 150/600), heavy, two-handed                   |
 | Net                    | 1  gp | —               | 3  lb.  | Special, thrown (range 5/15)                                    |
 | ---------------------- | ----- | --------------- | ------- | --------------------------------------------------------------- |
+```
+
+### Ammunition
+```
+|  Item                       |  Cost    | Weight |
+| --------------------------- | -------- | ------ |
+| Arrows (20)                 | 1   gp   | 1 lb.  |
+| Blowgun needles (50)        | 1   gp   | 1 lb.  |
+| Crossbow bolts (20)         | 1   gp   | 1½ lb. |
+| Sling bullets (20)          | 4   cp   | 1½ lb. |
+| --------------------------- | -------- | ------ |
 ```
 
 ### Weapon Sizing

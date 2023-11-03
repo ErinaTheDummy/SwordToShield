@@ -419,6 +419,7 @@ reroll.
 - Beast Tongue
 - Thunderwave
 - Witch Bolt
+- Summon Green Slime
 
 ## 2nd Level Spells
 - Alter Self
@@ -446,6 +447,8 @@ reroll.
 - Silence
 - Spider Climb
 - Suggestion
+- Rewind
+
 
 ## 3rd Level Spells
 - Blink
@@ -473,6 +476,7 @@ reroll.
 - Water Walk
 - Vass' Psychic Blast
 - Stoneskin
+- Snowball
 
 ## 4th Level Spells
 - Banish

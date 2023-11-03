@@ -267,7 +267,7 @@ to the armor you have equipped. If you have no armor equiped your AC is equal to
 You are capable of performing the following on your turn:
 
 - 1 action (attacking, dodging, etc.)
-- 1 bonus action (special actions)
+- 1 bonus action (Special Actions, Consuming Tinctures or Potions)
 - Moving (a distance up to your movement speed)
 - 1 free object interaction (picking up an item, pulling a lever, etc.)
 
@@ -688,6 +688,15 @@ the amenities are as follows:
 - Medical aid
 - High quality medical aid
 
+#### Meditation
+Whenever you decide to rest you may choose to meditate instead. Meditation is a 
+suppliment for resting where you do not sleep or perform light activity, but 
+instead clear your mind and relax your body. Meditating does not allow you to 
+perform actions that specify they must be performed during a rest nor does it 
+satisfy your body's need for sleep but it does grant you 2 hit dice without 
+using any amenities, and have certain effects on sanity. otherwise it is 
+identical to a rest.  
+
 ## Going Without
 For every day you go without either food, drink, or sleep you lose access to
 2 of your maximum hit dice, dying when the maximum reaches 0.
@@ -755,7 +764,7 @@ While adventuring you may encounter many harmful environmental effects, the most
 notable and visceral of these effects is corruption. Corruptions arise from 
 interactions with corruptants, and they cause potent and often detrimental 
 effects on your body. A list of all corruption tables may be found in the 
-[Accursed Journal.md](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md) document
+[Accursed Journal.md](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#corruptions) document
 
 ### Radiative Corruptants
 A radiative corruptant corrupts over an area of effect, with the corruption 
@@ -835,3 +844,64 @@ the consuming creature must make a flat DC check decided by the corruptant or
 roll randomly for both the corruption chart and the corruption inflicted. This 
 causes consumable corruptants to either strengthen or signifanctly weaken 
 characters who consume them.
+
+
+## Sanity
+Everyone has their mental limits, even honed and well seasoned adventurers. 
+Encounters with the esoteric and unknown, and near death experiences can take a
+mental toll. 
+
+### Sanity Limit
+Your maximum sanity is equal to your wisdom score, this is your baseline level
+of perfect mental health, dropping below this level does not inherently spell 
+doom, but can have adverse effects. While at your maximum sanity, no matter how
+low, you do not suffer from any effects of being mad or insane.  
+
+#### Madness and Insanity
+At certain sanity ranges you gain ill effects called madnesses, until you become
+completely insane. 
+
+### Sanity Ranges 
+The following chart details the amount of madnesses you have at a given sanity 
+level. Remember that you cannot be affected by any of these unless you are below
+your maximum sanity.  
+
+
+```
+
+|  Sanity  |  Effects                                   |
+| -------- | ------------------------------------------ |
+|  8       |  1 madness effects                         |
+|  6       |  2 madness effects                         |
+|  5       |  3 madness effects                         |
+|  4       |  4 madness effects                         |
+|  2       |  5 madness effects                         |
+|  1       |  6 madness effects                         |
+|  0       |  Insanity. (Keep madness effects)          |
+| -------- | ------------------------------------------ |
+
+```
+
+#### Madness Effects
+Refer to the [accursed journal](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#madness) for the chart to randomly roll on for the effects
+of madness. 
+
+### Total Insanity
+While Insane, you lose the ability to think logically, automatically failing any
+wisdom, intelligence, or charisma saves or checks. You also lose the ability to
+use any class features, and may only dash, attack, or hide on your turn. Going 
+insane knocks you down to base survival insticts. 
+
+#### Curing Madness & Insanity
+Curing madness and insanity is simple, a madness effect/insanity is cured 
+whenever you are at a sanity higher than the sanity level at which you aquire 
+it. Meditation, lesser restoration, and restoration are capable of increasing 
+your sanity. The lesser restoration spell or 8 hours of meditation will increase
+your sanity by 1 up to your maximum sanity level, and the restoration spell will 
+instantly restore you to your maximum sanity.
+
+#### Temporary Cures
+You may not be capable of restoring your sanity completely through one long 
+meditation session, but still wish to be capable in battle. Certain tinctures 
+and temporary remedies may be capable of aiding you. Magical and nonmagical 
+Apothecaries may hold what you seek. 

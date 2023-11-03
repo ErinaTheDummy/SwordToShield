@@ -268,12 +268,8 @@ become. You retain control of yourself, but are incapable of speaking.
 You shrink to one size smaller, to a minimum of size tiny. If you are already
 size tiny you instead become 2 inches tall.
 
-#### My Shadow (16)
-Your shadow detaches from your body, gaining a mind of its own and stats 
-and features identical to yours. It has values antithetical to yours and may
-either attack you the moment it is detached or it may go out into the world
-seeking a way to thwart you over time. This corruption may not be cured until 
-your shadow has been vanquished and until then you have no shadow.
+#### Magical Weakness (16)
+You have disadvantage on saving throws against magical effects
 
 #### Enfeeblement (17)
 Your melee attacks deal half damage
@@ -551,3 +547,98 @@ bolt spell may still target you.
 You grow spiderlike mandables on your face. You may attack a creature within 5 
 feet of you with them for 1d4 piercing damage and you may manipulate small 
 objects with them.
+
+
+## Madness
+Madness is the ill effect of losing sanity. Madness can severely hamper your 
+capabilities in battle and adventuring, so it is best to lose it as quickly as
+possible. Whenever you gain a madness effect, your gm will secretly roll from 
+the 20 madness effects:
+
+
+#### Secret and Roleplay effects
+Secret effects should not be divulged to the player, roleplay effects must be
+roleplayed and have no mechanical bearing. 
+
+
+### Feebleminded (1) 
+You have disadvantage on all wisdom and intelligence checks and saves.
+
+### Muteness (2)
+You lose the ability to speak.
+
+### Hypervigalance (3)
+You gain a +2 to initiative but a -5 to charisma and intelligence checks.
+
+### Mania (4)
+You gain a second action but lose your bonus action
+
+### Agorophobia (5)
+for every humanoid within 10 feet of you you gain a -1 to all rolls. 
+
+### Visual Hallucinations (6) (secret)
+You begin to see things that arent there, your GM may prompt you to roll 
+intiative against imagined foes
+
+### Stress (7) (secret)
+You regain half as many hit dice from resting
+
+### Phobia (8) (secret)
+You gain an unnatural fear, while the source of your fear is within your line of
+sight you have disadvantage on attack rolls. roll a 1d4 for your phobia, from
+the following:
+```
+| Roll | Phobia           |
+| ---- | ---------------- |
+| 1    |  Arachnophobia   |
+| 2    |  Thalassaphobia  |
+| 3    |  Pyrophobia      |
+| 4    |  acrophobia      |
+```
+
+### Crying Spell (9)
+Whenever you take damage make a wisdom saving throw against the amount damage of 
+sustained, on a failure you fall to your knees and begin crying, you may snap 
+out of it as a bonus action on your turn. 
+
+### Panic (10)
+Whenever you roll initiative, treat a roll of 10 or below as a 0. 
+
+### Partial Amnesia (11) (secret)
+You have trouble remembering things Whenever you make a roll to recall 
+something, do so at disadvantage.
+
+### Psychosomatic Sickness (12) (secret)
+you fall under the effects of one random disease, without any of the visual 
+signs. 
+
+### Lethargy (13)
+On your turn you are only capable of taking 1 action or 1 bonus action. 
+
+### Sensitive Stomach (14) (secret)
+Whenever an event that would drop your sanity occurs, make a DC 16 constitution
+saving throw, on a failure you throw up and gain a level of exhaustion if you do 
+not eat within 1 hour.
+
+### Tinnitus (15)
+Your ears constantly ring, you have disadvantage on hearing based perception 
+checks
+
+### Heartstrain (16)
+Your heart begins to beat hard in your chest. Whenever you expend hit dice, 
+expend double the amount you usually would for no benefit. 
+
+### Shock (17) (roleplay)
+Your speach becomes disorganized and your words mix as you speak 
+
+### Involuntary Movement (18)
+Your body begins to twitch and shake against your own will. You have 
+disadvantage on checks that require fine motor function
+
+### Paranoia (19) (Secret)
+Your character becomes extremely paranoid that those around you are plotting to
+harm them. The GM should include subtle, false hints that NPCs have slights 
+against you. 
+
+### Fugue (20) (roleplay)
+You are consistently confused, as if fading in and out of a dream. 
