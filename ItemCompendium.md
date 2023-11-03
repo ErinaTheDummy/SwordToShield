@@ -242,9 +242,9 @@ bonus action.
 
 ### Tincture of Laudanum
 A vial of slightly yellow transparent liquid. When consumed a creature is 
-temporarily immune to the effects of madness and insanity. After consuming roll 
-will, on a 15 or lower you become addicted to Laudanum. May be consumed as a 
-bonus action.
+temporarily immune to the effects of madness and insanity for 2 hours. After 
+consuming roll will, on a 15 or lower you become addicted to Laudanum. May be 
+consumed as a bonus action.
 
 ### Tincture of Goldroot
 A vial of brown translucent liquid. Grants resistance to poison and disease for
