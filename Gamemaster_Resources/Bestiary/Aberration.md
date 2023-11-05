@@ -194,9 +194,9 @@ a DC 18 strength save as an action.
 ### Steel Empress
 Steel Empresses are the queens of colonies, psychically linked to all those
 within. Steel Empresses lay eggs that hatch into larve which razorbacks implant
-into healthy human hosts. The human hosts then transform into different kinds of
-hive creatures, depending on their size. Steel Empresses are the originators of
-all colonies, being the first one to be infected with a special 
+into healthy Humanoid hosts. The Humanoid hosts then transform into different 
+kinds of hive creatures, depending on their size. Steel Empresses are the 
+originators of all colonies, being the first one to be infected with a special 
 queen-jelly-larve. They appear as gargantuan insectoids, with large pincers.
 
 ```

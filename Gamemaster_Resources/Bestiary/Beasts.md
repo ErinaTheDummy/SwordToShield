@@ -21,7 +21,7 @@ hard exoskeletons rather than bones.
 Giant Spider
 Medium Beast      
 XP: 50
-HP: 9(3d6) Current:
+HP: 9(3d6)
 AC: 15(Exoskeleton)
 Speed: 30ft, Climb 30ft
 Proficiency Bonus: +1
@@ -163,7 +163,7 @@ through its mouth as an acion.
 ## Mammalia
 Mammalia or mammals are the animals which produce live offspring and milk, they
 often have fur or hair. Mammals are the kindest designation of beast, sometimes
-even yielding to offers of companionship with humans. 
+even yielding to offers of companionship with Humanoids. 
 
 ```
 Wolf

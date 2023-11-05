@@ -4350,7 +4350,7 @@ Duration: instantaneous
 Casting Time: 10 minutes
 Description:
 You obliterate a soul within your posession and return one creature whos name
-you spoke aloud for the entire duration of casting this spell. The target 
+you speak aloud for the entire duration of casting this spell. The target 
 returns to life in perfect health and free of any curses in an area within 100
 feet of you.
 

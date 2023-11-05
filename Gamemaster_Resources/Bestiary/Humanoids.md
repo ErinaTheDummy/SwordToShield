@@ -1,28 +1,28 @@
 ```
 ################################################################################
-#   _   _                                                                      #
-#  | | | |                                                                     #
-#  | |_| |_   _ _ __ ___   __ _ _ __  ___                                      #
-#  |  _  | | | | '_ ` _ \ / _` | '_ \/ __|                                     #
-#  | | | | |_| | | | | | | (_| | | | \__ \                                     #
-#  \_| |_/\__,_|_| |_| |_|\__,_|_| |_|___/                                     #
+#   _   _                                   _     _                            #
+#  | | | |                                 (_)   | |                           #
+#  | |_| |_   _ _ __ ___   __ _ _ __   ___  _  __| |___                        #
+#  |  _  | | | | '_ ` _ \ / _` | '_ \ / _ \| |/ _` / __|                       #
+#  | | | | |_| | | | | | | (_| | | | | (_) | | (_| \__ \                       #
+#  \_| |_/\__,_|_| |_| |_|\__,_|_| |_|\___/|_|\__,_|___/                       #
 ################################################################################
                                        
 ```
-Humans are intelligent beings, capable of creation, reason, and moral judgment,
-created by the gods. Humans come in all sorts of shapes and sizes and may even
-be capable of reproducing with non-humans such as dragons. All offspring of 
-humans are equally human, just in a different flavor. 
+Humanoids are intelligent beings, capable of creation, reason, and moral judgment,
+created by the gods. Humanoids come in all sorts of shapes and sizes and may even
+be capable of reproducing with non-Humanoids such as dragons. All offspring of 
+Humanoids are equally Humanoid, just in a different flavor. 
 
 
 ### Commoners
-Commoners are ordinary humans with no interesting features or abilities outside
+Commoners are ordinary Humanoids with no interesting features or abilities outside
 of bodily features.
 
 ```
 
 Small Commoner
-Small Human
+Small Humanoid
 XP: 0
 HP: 2(1d4)
 AC: 10(Common clothes)
@@ -47,7 +47,7 @@ frightened
 ```
 
 Medium Commoner
-Medium Human
+Medium Humanoid
 XP: 0
 HP: 2(1d4)
 AC: 10(Common clothes)
@@ -72,7 +72,7 @@ frightened
 ```
 
 Large Commoner
-Large Human
+Large Humanoid
 XP: 0
 HP: 7(2d4+2)
 AC: 10(Common clothes)
@@ -97,7 +97,7 @@ frightened
 ```
 
 Huge Commoner
-Huge Human
+Huge Humanoid
 XP: 0
 HP: 10(3d4+3)
 AC: 10(Common clothes)
@@ -126,7 +126,7 @@ exchange for magical power.
 ```
 
 Cultist Initiate
-Medium Human
+Medium Humanoid
 XP: 25
 HP: 2(1d4)
 AC: 15(Mage Armor)
@@ -154,7 +154,7 @@ cultist's casting mod, it has a +3 to hit and a spell save DC of 11.
 ```
 
 Cultist Apprentice
-Medium Human
+Medium Humanoid
 XP: 75
 HP: 7(2d4+2)
 AC: 15(Mage Armor)
@@ -186,7 +186,7 @@ spell save DC of 13.
 ```
 
 Cultist Adept
-Medium Human
+Medium Humanoid
 XP: 250
 HP: 13(3d4+6)
 AC: 16(Mage Armor)
@@ -222,7 +222,7 @@ to become heros. These people turn to lives of crime.
 ```
 
 Bandit
-Medium Human
+Medium Humanoid
 XP: 75
 HP: 11(2d6+4)
 AC: 13(Leather)
@@ -247,7 +247,7 @@ Proficiency Bonus: +1
 ```
 
 Bandit Bruiser
-Huge Human
+Huge Humanoid
 XP: 500
 HP: 33(6d6+12)
 AC: 17(Half Plate)
@@ -279,7 +279,7 @@ damage.
 ```
 
 Bandit Gunslinger
-Medium Human
+Medium Humanoid
 XP: 150
 HP: 13(3d6+3)
 AC: 15(Studded Leather)
@@ -307,7 +307,7 @@ instead of one.
 ```
 
 Bandit Leader
-Medium Human
+Medium Humanoid
 XP: 750
 HP: 22(4d6+8)
 AC: 16(Breastplate)

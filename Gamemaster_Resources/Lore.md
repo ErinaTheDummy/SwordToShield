@@ -51,7 +51,7 @@ who worship him.
 Maldrin (Mal-drin) is a god gone rogue against the order of the heavens. Maldrin 
 appears in a form best suited to persuade those he meets, Appearing as a red, 
 goat legged, horned devil to fiends, a mass of tentacles and teeth to 
-mostrosities and a radiant being of light and beauty to humans. Maldrin's 
+mostrosities and a radiant being of light and beauty to Humanoids. Maldrin's 
 primary directive is to spread pain, and fear, and sow destruction. He was cast 
 from the heavens and hid under creation as his brothers, just as evil as he, 
 were slaughtered by An'Ire. Because of this, he holds a grudge against all her 
@@ -128,7 +128,7 @@ Maldrin takes on a form to each different kind of being, specifically designed
 to be as persuasive as possible.
 
 ### Human Appearance
-While appearing to humans Maldrin often refers to himself as "Skotos" He appears
+While appearing to Humanoids Maldrin often refers to himself as "Skotos" He appears
 as a beautiful human with long flowing white hair and robes, and graceful wings
 like those of an angel. In this form he is shrouded in folds of light, and he
 has a harmonic voice like the tune of a harp. 

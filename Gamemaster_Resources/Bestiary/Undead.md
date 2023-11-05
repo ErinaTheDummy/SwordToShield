@@ -271,7 +271,7 @@ may repeat the saving throw at the end of each of their turns.
 Vampires are blood sucking undead with immense physical strength and agility,
 as well as magical hypnosis and shapeshifting in some cases. Vampires are 
 inflicted with vampirism by consentually consuming the blood of another vampire,
-with the intent to turn. Vampires are creatures of the night, hunting for humans
+with the intent to turn. Vampires are creatures of the night, hunting for Humanoids
 and drinking their blood in order to survive. 
 
 ### Fledgling Vampires
