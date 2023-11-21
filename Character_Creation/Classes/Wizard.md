@@ -332,6 +332,7 @@ than once in a year.
 - Shapeshift
 - Mindwash
 - Clone
+- Mindswap
 
 ## 6th Level Spells
 - Black Hole

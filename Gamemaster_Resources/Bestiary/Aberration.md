@@ -278,8 +278,62 @@ for its previous downfalls; perhaps an increase in AC for a party that never
 missed or a new feature to neutralize a strategy of the party. 
 
 # Attacks
-Stomp +9 3d10 bludgeoning damage, targets a 10 foot cube within 20 feet of the
+
+- Stomp +9 3d10 bludgeoning damage, targets a 10 foot cube within 20 feet of the
 dreadbeast
-Bite +9 4d10 piercing damage, 1 target within 20 feet.
+- Bite +9 4d10 piercing damage, 1 target within 20 feet.
+
+```
+
+### Mana Devourer
+Mana devourers are specially adapted creatures from the farlands, they are 
+evolved to consume magical energy and convert it into matter for sustenance. 
+They appear as medium sized, tripod creatures, with 4 tentacles tipped in 
+pedipalps covered in rows of sharp toothlike structures. their torso has 2 eyes
+on opposite sides. Despite their intimidating looks they are docile creatures,
+only attacking when provoked or threatened. They make powerful allies when 
+trained due to their ability to fabricate items from magical energy. When 
+provoked, mana devourers can make mighty enemies for casters, as magic is unable
+to function within their vicinity.
+
+```
+
+Mana Devourer
+Medium Aberration
+XP: 200
+HP: 13(2d8+4)
+AC: 14(natural, slime)
+Speed: 45ft, Climb 50ft
+Proficiency Bonus: +1
+|STR|DEX|CON|INT|WIS|CHA|
+| 15| 10| 15| 12| 10| 03|
+| +2| +0| +2| +1| +0| -4|
+| X |   | X |   |   |   |
+
+# Features
+
+- Multiattack: When the mana devourer takes the attack action it may make 2 
+attacks instead of one.
+- Abberant Resistance: The Mana devourer has resistance to acid and poison 
+damage  
+- Languages: The mana devourer is capable of speaking deep speech 
+- Magical Consumption: Magical effects and spells cannot function within 240 
+feet of the Mana devourer. If a spell is cast within 240 feet of the mana 
+devourer it consumes the mana involved in casting the spell and heals for 1d8
+hitpoints. 
+
+# Attacks
+
+Tentacle smack: 1d8+2 piercing damage, 1 target within 10 feet
+
+# Actions
+
+- Fabricate: Over the course of 10 minutes the mana devourer may fabricate an
+item which fits within a 10x10x10 cube. The mana devourer may only do this once
+per week as it drains their supply of mana
+- Raw mana blast: As an action the Mana devourer may release a last resort blast
+of pure magical energy. All creatures within 60 feet of the mana devourer must
+make a DC 14 dexterity saving throw or take 3d10 force damage, taking half as 
+much on a success. [Recharge, 6]
 
 ```

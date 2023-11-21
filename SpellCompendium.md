@@ -4211,6 +4211,27 @@ unintended effects, as decided by your GM.
 
 ```
 
+```
+Mindswap (5th) (17)
+
+Range: touch
+Components: V/S
+Duration: Concentration, up to 1 hour after which the effect is permanent
+Casting time: 1 action
+Description:
+You touch one creature and attempt to swap minds with them. If the creature is
+unwilling they must make a wisdom saving throw or fall under the effects of this
+spell. For the duration of this spell, the targeted creature and you swap 
+bodies, you retain your mental statistics and any class features you have 
+learned, but all of your phyiscal attributes and statistics become theirs and 
+vice versa. The effects of this spell become permanent after concentrating on it
+for 1 hour. If you end concentration on this spell while not already touching 
+the original target, your mind and the targets mind are hurled across the space
+between your respective bodies at the time concentration is lost and you both 
+take 4d10+10 psychic damage. 
+
+```
+
 # 6th Level Spells
 
 ## 6th level spells Disclaimer

@@ -18,17 +18,17 @@ this category.
 Demons are beings of condensed chaos and destruction, created as a mockery to
 An'ire's creation, they serve only to unmake all that is made.
 
-### Gobulosa
-Gobulosa are demons which appear like masses of rotten flesh and bones. They are
+### Globs
+Globs are demons which appear like masses of rotten flesh and bones. They are
 known to hunt by sticking to objects and jumping onto their prey, mocking them
-all the while.  
+all the while.  Globs are pack hunters due to their weak stature. 
 
 ```
-Gobulos
+Glob
 Small Demon    
 XP: 25
 HP: 4(1d6+1) Current:
-AC: 13(natural hide)
+AC: 13(natural, slippery)
 Speed: 25ft, Climb 25ft
 Proficiency Bonus: +1
 |STR|DEX|CON|INT|WIS|CHA|
@@ -37,7 +37,7 @@ Proficiency Bonus: +1
 |   |   |   |   |   |   |
 
 # Features:
-- Ambusher: The Gobulos deals an additional 2d6 damage to a creature surpised 
+- Ambusher: The glob deals an additional 2d6 damage to a creature surpised 
 by it
 
 # Attacks:
@@ -61,11 +61,11 @@ Greg
 Large Demon    
 XP: 750
 HP: 34(4d10+12) Current:
-AC: 8(natural)
+AC: 10(natural hide)
 Speed: 40ft
-Proficiency Bonus: +1
+Proficiency Bonus: +2
 |STR|DEX|CON|INT|WIS|CHA|
-| 18| 07| 17| 08| 10| 08|
+| 19| 07| 17| 08| 10| 08|
 | +4| -2| +3| -1| +0| -1|
 |   |   |   |   |   |   |
 
@@ -76,14 +76,57 @@ been damaged by it and are able to bleed.
 
 # Attacks:
 
-- Bite +5 4d4 piercing damage, 1 target within 10 feet
-- Gash +5 2d8 slashing damage, 1 target within 10 feet
-- Gore +5 2d8+4 piercing damage, 1 target within 5 feet
+- Bite +6 4d4 piercing damage, 1 target within 10 feet
+- Gash +6 2d8 slashing damage, 1 target within 10 feet
+- Gore +6 2d8+4 piercing damage, 1 target within 5 feet
 
 # Actions: 
 - Charge: As an action the greg charges at one creature 20-40 feet away, 
 expending the necessary movement and making a gore attack at the target. On a 
 hit, this gore attack deals double damage. [recharge 6]
+
+```
+
+### Mutates
+Mutates are large, slender and grey, with no neck to distinguish their head from
+thier torso and a long gaping maw like that of an alligator. Their slender 
+snakelike eyes dart around in search of prey at all times, ready to pounce with 
+their boney legs and strike with the claws that tip their slender arms. Mutates
+retain the special ability to change their physiology to best suit their needs
+in a battle.
+
+```
+Mutate
+Large Demon    
+XP: 1000
+HP: 38(4d10+16) Current:
+AC: 16(natural hide)
+Speed: 40ft, Climb 30ft
+Proficiency Bonus: +3
+|STR|DEX|CON|INT|WIS|CHA|
+| 13| 18| 18| 12| 10| 08|
+| +1| +4| +4| +1| +0| -1|
+|   |   |   |   |   |   |
+
+# Features:
+- Multiattack: When the mutate takes the attack action it may make 2 attacks 
+instead of one.
+- Poison immunity: The Mutate has immunity to poison damage
+
+# Attacks:
+
+- Bite +7 2d8 piercing damage, 1 target within 10 feet
+- Claw +7 3d4 slashing damage, 1 target within 10 feet
+
+# Actions: 
+- Shapechange: As a bonus action the mutate alters its form to one of the 
+following:
+	- Cloaked: The mutate becomes invisible, turning visible again if it changes
+	shape again or if it takes damage
+	- Resistant: The mutate becomes resistant to one damage type of its choice
+	until it changes shape again
+	- Sharpnened: The mutate sharpens its claws and teeth, allowing it to roll
+	an additional die for their damage
 
 ```
 

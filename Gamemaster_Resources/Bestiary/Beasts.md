@@ -26,8 +26,8 @@ AC: 15(Exoskeleton)
 Speed: 30ft, Climb 30ft
 Proficiency Bonus: +1
 |STR|DEX|CON|INT|WIS|CHA|
-| 14| 14| 10| 03| 14| 04|
-| +2| +2| +0| -3| +2| -3|
+| 14| 14| 10| 03| 14| 03|
+| +2| +2| +0| -4| +2| -4|
 |   |   |   |   |   |   |
 
 # Features:
@@ -52,8 +52,8 @@ AC: 15 (exoskeleton)
 Speed: 30ft, Climb 30ft
 Proficiency Bonus: +1
 |STR|DEX|CON|INT|WIS|CHA|
-| 16| 14| 14| 03| 14| 04|
-| +3| +2| +2| -3| +2| -3|
+| 16| 14| 14| 03| 14| 03|
+| +3| +2| +2| -4| +2| -4|
 |   |   |   |   |   |   |
 
 # Features:
@@ -78,8 +78,8 @@ AC: 15 (exoskeleton)
 Speed: 30ft, Climb 30ft, Burrow 10ft
 Proficiency Bonus: +1
 |STR|DEX|CON|INT|WIS|CHA|
-| 18| 14| 14| 03| 14| 04|
-| +4| +2| +2| -3| +2| -3|
+| 18| 14| 14| 03| 14| 03|
+| +4| +2| +2| -4| +2| -4|
 |   |   |   |   |   |   |
 
 # Features:
@@ -111,8 +111,8 @@ AC: 13(Exoskeleton)
 Speed: 30ft, Climb 20ft
 Proficiency Bonus: +1
 |STR|DEX|CON|INT|WIS|CHA|
-| 21| 10| 13| 03| 10| 04|
-| +5| +0| +1| -3| +0| -3|
+| 21| 10| 13| 03| 10| 03|
+| +5| +0| +1| -4| +0| -4|
 | X |   |   |   |   |   |
 
 # Features:
@@ -135,8 +135,8 @@ AC: 16(Exoskeleton)
 Speed: 60ft, Burrow 20 ft
 Proficiency Bonus: +1
 |STR|DEX|CON|INT|WIS|CHA|
-| 10| 17| 13| 03| 10| 04|
-| +0| +3| +1| -3| +0| -3|
+| 10| 17| 13| 03| 10| 03|
+| +0| +3| +1| -4| +0| -4|
 |   |   |   |   |   |   |
 
 # Features:
@@ -174,8 +174,8 @@ AC: 12 (natural)
 Speed: 30ft
 Proficiency Bonus: +1
 |STR|DEX|CON|INT|WIS|CHA|
-| 14| 14| 14| 03| 14| 04|
-| +2| +2| +2| -3| +2| -3|
+| 14| 14| 14| 03| 14| 03|
+| +2| +2| +2| -4| +2| -4|
 |   |   |   |   |   |   |
 
 # Features:
@@ -197,8 +197,8 @@ AC: 10(natural)
 Speed: 5ft, Climb 5ft, Fly 60ft 
 Proficiency bonus: +0
 |STR|DEX|CON|INT|WIS|CHA|
-| 04| 10| 08| 03| 14| 04|
-| -3| +0| -1| -3| +2| -3|
+| 04| 10| 08| 03| 14| 03|
+| -3| +0| -1| -4| +2| -4|
 |   |   |   |   |   |   |
 
 # Features:
@@ -242,8 +242,8 @@ AC: 13 (natural)
 Speed: 35ft
 Proficiency Bonus: +1
 |STR|DEX|CON|INT|WIS|CHA|
-| 10| 17| 13| 03| 14| 04|
-| +0| +3| +1| -3| +2| -3|
+| 10| 17| 13| 03| 14| 03|
+| +0| +3| +1| -4| +2| -4|
 |   |   |   |   |   |   |
 
 # Features:
@@ -260,5 +260,88 @@ taken a turn the damage of their attack is increased by 2d6.
 - Pounce: The lynx may jump up to 25 feet as an action. If the lynx lands in the
 space of another creature it may make a claw attack against them and remain in
 their space on a hit. 
+
+```
+
+## Aquatica
+Aquatic creatures are extremely diverse, living in all the nooks and cracks of
+the seas, lakes, and streams.
+
+```
+Crab
+tiny Beast
+XP: 5
+HP: 1(1d4-1)
+AC: 10 (natural)
+Speed: 20ft, Swim 20ft
+Proficiency Bonus: +1
+|STR|DEX|CON|INT|WIS|CHA|
+| 07| 10| 08| 03| 10| 03|
+| -2| +0| -1| -4| +0| -4|
+|   |   |   |   |   |   |
+
+# Features:
+
+
+# Attacks:
+
+- Claw +1 to hit, 1 piercing damage, 1 target within 5 feet.
+
+# Actions:
+
+
+```
+
+```
+Giant crab
+Large Beast
+XP: 250
+HP: 22(4d6+8)
+AC: 18 (natural, carapace)
+Speed: 35ft, Swim 30ft 
+Proficiency Bonus: +2
+|STR|DEX|CON|INT|WIS|CHA|
+| 17| 10| 15| 03| 12| 03|
+| +3| +0| +2| -4| +1| -4|
+|   |   |   |   |   |   |
+
+# Features:
+
+
+# Attacks:
+
+- Claw +5 to hit, 2d6 piercing damage, 1 target within 10 feet. Target must make
+DC 13 strength saving throw or become restrained within the crab's claw, only 2
+targets may be restrained this way at once.
+
+# Actions:
+
+- Devour: As an action the crab attempts to devour one creature it is 
+restraining, the target must make a DC 16 strength check or take 3d8 piercing
+damage if it is size large or below.  
+```
+
+```
+Shark
+Medium Beast
+XP: 50
+HP: 9(2d6+2)
+AC: 12 (natural)
+Speed: Swim 40ft
+Proficiency Bonus: +1
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 14| 13| 03| 10| 03|
+| +3| +2| +1| -4| +0| -4|
+|   |   |   |   |   |   |
+
+# Features:
+
+
+# Attacks:
+
+- Bite +4 to hit, 2d8 piercing damage, 1 target within 5 feet.
+
+# Actions:
+
 
 ```

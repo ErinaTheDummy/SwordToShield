@@ -27,7 +27,7 @@ Skeleton Footsoldier
 Small or Medium Undead
 XP: 25 
 HP: 7(1d8+2)
-AC: 12(scraps of leather)
+AC: 13(scraps of leather)
 Speed: 30ft
 Proficiency Bonus: +2
 |STR|DEX|CON|INT|WIS|CHA|
