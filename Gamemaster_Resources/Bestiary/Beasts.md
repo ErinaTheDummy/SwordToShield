@@ -232,3 +232,33 @@ Proficiency bonus: +3
 - Bite +6 3d6+4 piercing, 1 target within 15 feet
 - Claws +6 2d4+4 slashing, 1 target within 15 feet
 ```
+
+```
+Lynx
+Small Beast
+XP: 50
+HP: 9(2d6+2)
+AC: 13 (natural)
+Speed: 35ft
+Proficiency Bonus: +1
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 17| 13| 03| 14| 04|
+| +0| +3| +1| -3| +2| -3|
+|   |   |   |   |   |   |
+
+# Features:
+- Ambush: Whenever the lynx makes an attack against a creature who has not yet
+taken a turn the damage of their attack is increased by 2d6.
+
+# Attacks:
+
+- Bite +4 to hit, 1d8 piercing damage, 1 target within 5 feet.
+- Claw +4 to hit, 1d6 slashing damage, 1 target within 5 feet.
+
+# Actions:
+
+- Pounce: The lynx may jump up to 25 feet as an action. If the lynx lands in the
+space of another creature it may make a claw attack against them and remain in
+their space on a hit. 
+
+```

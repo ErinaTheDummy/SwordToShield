@@ -977,7 +977,7 @@ Components: V
 Duration: 1 hour
 Casting Time: 1 action
 Description:
-You attempt to charm one human within range. The target must make a wisdom
+You attempt to charm one humanoid within range. The target must make a wisdom
 saving throw or be charmed for the duration. The spell ends early if you or an
 ally attack the target. Once the spell ends the target knows you charmed them.
 

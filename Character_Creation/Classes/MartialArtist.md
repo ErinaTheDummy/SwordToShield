@@ -111,15 +111,20 @@ wisdom modifier.
 ### Cascading Strikes
 As an action you may expend 1 hit die to make double the amount of unarmed 
 strikes you may take in an action. You may also expend up to 2 additional hit 
-dice, adding 2 additional strikes for each additional hit die. This martial art
-is physically taxing, once you use it you must take a rest before using it 
-again.
+dice, adding 2 additional strikes per additional hit die. This martial art is 
+physically taxing, once you use it you must take a rest before using it again.
 
 ### Roundhouse Kick
 When you make take the attack action you may expend a hit die and replace an 
 unarmed strike with a kick. On a hit, the target of your attack takes damage as 
 normal and must make a strength saving throw or be knocked 10 feet back and fall
 prone, being knocked only 5 feet and not falling prone on a success.
+
+### Sweeping Strike
+Whenever you make an unarmed strike you may expend a hit die to substitute it 
+and sweep your leg in a circular motion around you. All creatures your size or 
+smaller within your unarmed strike range must make a dexterity saving throw or 
+fall prone and take 1d8 bludgeoning damage.  
 
 ### Deflect Projectiles
 As a reaction to being targeted by a ranged weapon attack you may expend a hit
@@ -133,7 +138,7 @@ strength or dexterity modifier to the attack and damage rolls.
 ### Unarmored Movement
 While not wearing armor or holding a shield your movement speed increases by 15 
 feet. You may also walk across the surface of water or along surfaces as steep
-as 85 degrees.
+as 89 degrees.
 
 ### Staggering Blow
 You expend 1 hit die and turn one of your unarmed strikes into a staggering 
@@ -158,7 +163,8 @@ quarterstaff and hit, you may make an additional attack with the quarterstaff.
 
 ### Deflect
 You expend a hit die and attempt to deflect one melee attack made against you. 
-Your AC increases by your proficiency bonus + your wisdom modifier.
+Your AC increases by your proficiency bonus + your wisdom modifier for this 
+attack.
 
 ### Tread Lightly (level 3)
 You do not take fall damage from a fall of 60 feet or fewer. You also do not 
@@ -183,9 +189,13 @@ additional die of damage to the attack.
 
 ### Universal resilience (level 8)
 You gain proficiency in all saving throws. When you fail a saving throw you may
-expend a hit die and attempt the roll again.
+expend 2 hit dice and attempt the roll again. 
 
-### Bolstered Strike (level 10)
+### Universal resistance (level 8)
+As a reaction to taking damage you may expend 3 hit dice and gain resistance to 
+all damage types until the end of your next turn. 
+
+### Essential Strike (level 10)
 As an action you expend 3 hit dice and strike one creature within your reach. 
 The target must make a constitution saving throw or take 6d10 force damage. If 
 the target is reduced to or below 0 hitpoints you may choose for them to be 
@@ -193,7 +203,13 @@ reduced to 1 hitpoint and fall unconscious for 8 hours instead, otherwise they
 instantly die.
 
 ### Attunement (level 10)
-You expend 5 hit dice and take a moment to meditate, gathering your thoughts and
-becoming mindful of each motion of your body and each thought within your mind.
+As an action you may expend 5 hit dice to meditate, gathering your thoughts and 
+becoming mindful of each motion of your body and each thought within your mind. 
 You expend your entire turn and gain advantage on all attack rolls, ability 
-checks, and saving throws until the end of your next turn.
+checks, and saving throws for 1 minute.
+
+### Limitless (level 10)
+As an action you may expend 10 hit dice and bolster your spiritual aura as a 
+shield around you. For the next 5 turns you fall under the effect of the 
+[invincibility](https://github.com/ErinaTheDummy/SwordToShield/blob/main/SpellCompendium.md#:~:text=they%20fall%20dead.-,Invincibility) spell.  You may only use this technique once per rest, as it
+is especially physically taxing.

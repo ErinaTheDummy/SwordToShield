@@ -28,8 +28,8 @@ snack.
 ```
 Bog Hag
 Medium Fae      
-XP: 50
-HP: 30(4d10+8) Current:
+XP: 5000
+HP: 60(8d10+16) Current:
 AC: 15(Mage Armor)
 Speed: 25ft, Climb 20ft
 Proficiency Bonus: +4
@@ -43,8 +43,8 @@ Proficiency Bonus: +4
 proficiency in persuasion
 - Witch's Sight: The Bog Hag has darkvision out to 60 feet and may cast detect
 magic at will
-- True form: The Bog Hag may change between her true form and her Humanoid form as
-a bonus action. 
+- True form: The Bog Hag may change between her true form and her Humanoid form 
+as a bonus action. 
 
 # Attacks:
 

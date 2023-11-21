@@ -24,7 +24,8 @@ You gain proficiency in 3 skills of your choice
 You gain expertise in one skill, meaning you add your proficiency bonus twice to
 checks made with that skill. You also gain proficiency in another skill.
 
-### Flirtatious (requires persuasion proficiency)
+### Flirtatious
+- **Requires: Persuasion proficiency**
 You are skilled in the art of flirting, you have advantage on persuasion checks 
 made on characters attracted to you, as long as what you say is percieved as 
 being in a flirty manner.
@@ -32,18 +33,21 @@ being in a flirty manner.
 ### Warrior Training
 You learn 2 warrior manuevers from the warrior manuevers list.  
 
-### Light Armor Adept (requires light armor proficiency)
+### Light Armor Adept
+- **Requires: Light armor proficiency**
 You are adept with light armor, you gain a +1 to your AC while wearing light
 armor and gain a modifier to dexterity saving throws equal to the base AC of 
 your light armor minus 10. 
 
-### Medium Armor Adept (requires medium armor proficiency)
+### Medium Armor Adept
+- **Requires: Medium armor proficiency**
 You are adept with medium armor, you gain a +1 to your DR while wearing medium
 armor and gain a modifier to your dexterity and constitution saving throws 
 equal to your proficiency bonus. You may also add your dexterity modifier to the
 AC of your armor up to +3 rather than +2.
 
-### Heavy Armor Adept (requires heavy armor proficiency)
+### Heavy Armor Adept
+- **Requires: Heavy armor proficiency**
 You are adept with heavy armor, You gain a +3 to your DR while wearing heavy 
 armor and do not have disadvantage on stealth checks while in heavy armor.
 
@@ -109,11 +113,13 @@ You learn the spell glyphs of a first level spell and cantrip from the wizard
 spell list, your maximum spell glyphs increase by 8. You may inscribe and cast 
 these spell glyphs the same as a wizard.
 
-### Arcane Knowledge (requires ability to cast spells)
+### Arcane Knowledge
+- **Requires: Ability to cast spells**
 You learn a first level spell and a cantrip of your choice from the spell 
 compendium.
 
-### Learned Caster (requires level in caster class)
+### Learned Caster
+- **Requires: Level in caster class**
 You learn 2 additional spells and a cantrip from your class' spell list. You 
 must be capable of casting the spells you choose at your current level and they
 may not be 6th level spells.
@@ -121,8 +127,9 @@ may not be 6th level spells.
 ## Bodily Feats
 Bodily features originate from new growth on your physical form. 
 
-### Better Speed (Requires respective speed)
-One of your speed types of your choice increases by 15 feet and no longer
+### Better Speed
+- **Requires: Chosen speed**
+Choose one of your speed types, this type increases by 15 feet and no longer 
 provokes attacks of opportunity.
 
 ### Extra Bodily Feature
@@ -142,4 +149,4 @@ You gain proficiency in saving throws for one stat and your score for that stat
 increases by 1.
 
 ### Mutation
-You gain 2 minor beneficial corruptions of your choice
+You gain 2 [minor beneficial corruptions](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#minor-beneficial-corruptions-2) of your choice

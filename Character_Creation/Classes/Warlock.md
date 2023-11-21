@@ -246,20 +246,6 @@ You take on some physical aspects of your patron and become
 You have compacted with a devil for your warlock abilities, granting you the 
 magic of the 9 hells.
 
-### Pact Feature: Devil's Advocate (level 1)
-You gain proficiency in the deception skill and resistance to fire damage.
-
-### Pact Feature: Hellfire (level 5)
-Fire damage dealt by you ignores resistance and treats immunity as if it were 
-resistance. You may also expend a bonus action and 3 hit dice on your turn to
-hex a creature within 90 feet of you. The hexed creature has disadvantage on
-saves against your spells and ability checks against you.
-
-### Pact Boon: Soul Stealer
-When you kill a creature you may use a reaction to harvest their soul. You may
-trade this soul with your patron at your GMs discretion, or you may hand it over
-to your patron and have one corruption removed from your body.
-
 ### Pact Spells
 You are granted additional spells by your patron at different levels, these
 spells do not count against your total spells known and are considered always
@@ -277,31 +263,26 @@ prepared.
 
 ```
 
+### Pact Feature: Devil's Advocate (level 1)
+You gain proficiency in the deception skill and resistance to fire damage.
+
+### Pact Feature: Hellfire (level 5)
+Fire damage dealt by you ignores resistance and treats immunity as if it were 
+resistance. You may also expend a bonus action and 3 hit dice on your turn to
+hex a creature within 90 feet of you. The hexed creature has disadvantage on
+saves against your spells and ability checks against you.
+
+### Pact Boon: Soul Stealer
+When you kill a creature you may use a reaction to harvest their soul. You may
+trade this soul with your patron at your GMs discretion. The soul is granted to
+you in the form of a trinket such as a coin, gem, or personal item that is 
+significant to the creature. 
+
 ---
 
 ## Demon
 The void grants you strength. Thanks to your pact with a demon the prospects of
 destruction are verily in your favor.
-
-### Pact Feature: Call of The Void (level 1)
-As a reaction to being targeted by an attack you may expend a hit die to fill 
-your attacker's head with the sickening influence of the void, forcing them to 
-reroll the attack and make a wisdom saving throw against your spell save DC or
-gain 1 non-roleplay madness effect.
-
-### Pact Feature: Demon's Wrath (level 5)
-Whenever you roll a 19 or a 20 on an attack that attack deals an additional 
-damage die of damage.
-
-### Pact Boon: Maddening Gaze
-As an action on your turn you may expend 5 hit dice and expell a 40 foot cone of 
-maddening energy from your eyes. Any creature within the area must make a wisdom 
-saving throw or become distraught with madness, dropping their wisdom, 
-intelligence, and charisma scores to 4 and incapacitating them for 1 minute. 
-Affected creatures may repeat this saving throw at the end of each of their 
-turns.
-
----
 
 ### Pact Spells
 You are granted additional spells by your patron at different levels, these
@@ -320,26 +301,29 @@ prepared.
 
 ```
 
-## Celestial 
-The heavens reach out to grant you angelic powers. An angel, most likely a 
-power, has sought you to do the bidding of the heavens on the prime material.
+### Pact Feature: Call of The Void (level 1)
+As a reaction to being targeted by an attack you may expend a hit die to fill 
+your attacker's head with the sickening influence of the void, forcing them to 
+reroll the attack and make a wisdom saving throw against your spell save DC or
+gain 1 non-roleplay madness effect.
 
-### Pact Feature: Holy Affinity (level 1)
-Each time you rest you may choose 1 priest spell of your maximum spell level 
-or lower to prepare and cast. In addition, When you deal necrotic or force 
-damage, you may choose to deal radiant damage instead. 
+### Pact Feature: Demon's Wrath (level 5)
+Whenever you roll a 19 or a 20 on an attack that attack deals an additional 
+damage die of damage.
 
-### Pact Feature: Angel's Grace (level 5) 
-As an action on your turn you may expend 3 hit dice and form angelic wings, 
-granting you a flying speed equal to your walking speed. Additionally, Radiant 
-damage dealt by you ignores resistance and immunity.
-
-### Pact Boon: Heavenly Descent
-You learn a ritual to return one good hearted creature to life. Over the course
-of 8 hours you may perform a ritual to cast the Raise Dead spell. The total cost 
-for the material components of this spell is 750 GP.  
+### Pact Boon: Maddening Gaze
+As an action on your turn you may expend 5 hit dice and expell a 40 foot cone of 
+maddening energy from your eyes. Any creature within the area must make a wisdom 
+saving throw against your spell save DC or become distraught with madness, 
+dropping their wisdom, intelligence, and charisma scores to 4 and incapacitating
+them for 1 minute. Affected creatures may repeat this saving throw at the end of 
+each of their turns.
 
 ---
+
+## Celestial 
+The heavens reach out to grant you angelic powers. An angel, most likely a 
+power, has sought you to do the bidding of the heavens on the material planes.
 
 ### Pact Spells
 You are granted additional spells by your patron at different levels, these
@@ -357,6 +341,22 @@ prepared.
 | --------------- | --------------------- |
 
 ```
+
+### Pact Feature: Holy Affinity (level 1)
+Each time you rest you may choose 1 priest spell of your maximum spell level 
+or lower to prepare and cast. In addition, When you deal necrotic or force 
+damage, you may choose to deal radiant damage instead. 
+
+### Pact Feature: Angel's Grace (level 5) 
+As an action on your turn you may expend 3 hit dice and form angelic wings, 
+granting you a flying speed equal to your walking speed. Additionally, Radiant 
+damage dealt by you ignores resistance and immunity during this transformation.
+The transformation ends after 10 minutes.
+
+### Pact Boon: Heavenly Descent
+You learn a ritual to return one good hearted creature to life. Over the course
+of 8 hours you may perform a ritual to cast the Raise Dead spell. The total cost 
+for the material components of this spell is 750 GP for you.  
 
 ---
 
