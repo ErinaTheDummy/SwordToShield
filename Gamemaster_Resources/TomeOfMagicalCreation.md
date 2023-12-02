@@ -272,6 +272,22 @@ from the shattered remains and hits a random creature within 30 feet.
 
 ```
 
+```
+
+Financial Protector
+Rarity: Common
+Attunement: N
+Description:
+This magical wallet with an animated and speaking face on its front side is 
+capable of storing an infinite amount of coins and currency, without any weight
+usage. Whenever you retrieve coin or currency from this wallet you must succeed
+a DC 12 persuasion check against the financial protector spirit entombed within
+it. On a failure it verbally accosts you and closes itself for 1 hour, 
+disallowing you from taking anything from it, during this hour it grumbles and
+insults you if you attempt to open it.    
+
+```
+
 # Uncommon Magic Items
 
 ```

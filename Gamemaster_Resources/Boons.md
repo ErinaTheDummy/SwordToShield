@@ -22,12 +22,27 @@ otherwise.
 ### Boon of Strength
 Your strength score increases by 4
 
+### Boon of Dexterity
+Your dexterity score increases by 4
+
+### Boon of Constitution
+Your constitution score increases by 4
+
+### Boon of Wisdom
+Your wisdom score increases by 4
+
+### Boon of Intelligence
+Your intelligence score increases by 4
+
+### Boon of Charisma
+Your charisma score increases by 4
+
 ### Boon of Immortaility
-You no longer age and cannot die of old age.
+You no longer age and cannot die of old age or be aged by magical means.
 
 ### Boon of Invincibility
-When you take damage that would kill you or reduce you to or below 0 hitpoints,
-you may expend a hit die to take 0 damage instead.
+Once per rest, when you take damage that would kill you or reduce you to or 
+below 0 hitpoints, you may expend a hit die to take 0 damage instead.
 
 ### Boon of Purity
 You can no longer be corrupted or inflicted with any curse or disease, unless 
