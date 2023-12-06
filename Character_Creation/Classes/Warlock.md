@@ -64,13 +64,15 @@ IV = Current Amount of Warlock Invocations
 ### Warlock Pact
 As a warlock your spellcasting ability is granted to you by a patron whom you 
 have made a magically binding pact with. You may attempt to commune with them
-your GM allows, and you MUST obey ANY demands your patron asks of you, or they
-may consider taking back your magic. Choose one patron from the following and
-refer to the end of this document for what the benefits of each are.
+your GM allows, and you may want to obey ANY demands your patron asks of you, 
+or they may consider taking back your magic. Choose one patron from the 
+following and refer to the end of this document for what the benefits of each 
+are.
 
-- Devil
-- Demon
+- Infernal
+- Demonic
 - Celestial
+- Agrestal
 
 ### Pact Casting
 You are capable of casting spells thanks to your otherworldy pact. Your casting
@@ -357,6 +359,65 @@ The transformation ends after 10 minutes.
 You learn a ritual to return one good hearted creature to life. Over the course
 of 8 hours you may perform a ritual to cast the Raise Dead spell. The total cost 
 for the material components of this spell is 750 GP for you.  
+
+---
+
+## Agrestal
+The natural world grants you its blessing. Some kind of nature spirit, fae, or 
+other creature has chosen you as a champion of the untamed wilds, so you may go
+out and make the forests grow. 
+
+# NOTICE OF INCOMPLETION!!!
+## This Subclass is incomplete, it is not meant to be completely functional right now
+
+### Pact Spells
+You are granted additional spells by your patron at different levels, these
+spells do not count against your total spells known and are considered always
+prepared.
+
+```
+
+|  Warlock Level  |  Spell                |
+| --------------- | --------------------- | 
+|  1              |  Thorn whip           |
+|  2              |  Entangle             |
+|  4              |  Morph Shell          |
+|  6              |  Call Lightning       |
+| --------------- | --------------------- |
+
+```
+
+### Pact Feature: Natural aspect (level 1)
+Your patron allots you a drop of the mightiest forces of the natural world. As a
+bonus action you may expend 2 hit dice and channel one of the following aspects,
+gaining its benefits for the next minute.
+
+#### Aspect of the Varmint
+You gain 2d6 temporary hitpoints and resistance to bludgeoning piercing and 
+slashing damage, your melee attacks also deal an additional 1d6 force damage.
+
+#### Aspect of the Seedling
+You gain immunity to radiant damage, any radiant damage you would take heals you
+for the same ammount. 
+
+#### Aspect of the Ember
+Fire spells cast by you roll an additional damage die, and melee attacks made by
+you deal extra fire damage equal to your strength modifier. 
+
+### Pact Feature: Extended Domain (level 5) 
+Whenever you channel one of your natural aspects you may expend 4 additional hit
+dice (totaling 6) and also channel a secondary aspect from an extended pool of 
+aspects from the following:
+
+#### Aspect of the Beast
+You gain the ability to attack an additional time when you take the attack 
+action and regain 1d6 hitpoints for each attack you make that hits.
+
+#### Aspect of the Grove
+
+#### Aspect of the Wildfire
+
+### Pact Boon: Champion of The Wild
 
 ---
 

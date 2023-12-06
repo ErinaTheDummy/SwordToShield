@@ -172,10 +172,6 @@ forgo your ability score increase and take a feat instead.
 The nature order encompasses the protection of nature and the natural order. The
 nature order is lead by the goddess Nataluria. 
 
-### Order Feature: Nature's Tongue (3rd Level)
-You perfectly understand animals and plants and they understand you. You are 
-capable of speaking with them as any other npc. 
-
 ### Order Spells
 You learn the following spells thanks to your order, these spells are always
 prepared and do not count against your maximum spells prepared.
@@ -205,6 +201,10 @@ nature, the grace is calculated by the order specific act row of the grace
 chart. Your order's forbidden act is destroying nature or knowingly standing
 by as nature is destroyed, such as allowing someone to start a wildfire, 
 unimpeded.
+
+### Order Feature: Nature's Tongue (3rd Level)
+You perfectly understand animals and plants and they understand you. You are 
+capable of speaking with them as any other npc. 
 
 ### Channel Divinity: Nature's Wrath (Level 5)
 As an action on your turn you raise a Treant; an ambulatory, intelligent tree
@@ -264,12 +264,6 @@ costs for your spells.
 The justice order encompasses the enforcement of law and order across the 
 entirety of creation. The nature order is lead by the god Themius.
 
-### Order Feature: Angel Radio (3rd Level)
-You are capable of meditating for 10 minutes in order to zone in on a frequency
-used by angels to communicate. You may ask a single question during the 10 
-minutes and the answer will be told to you over the frequency if the information
-is not exremely sensitive.
-
 ### Order Spells
 You learn the following spells thanks to your order, these spells are always
 prepared and do not count against your maximum spells prepared.
@@ -298,7 +292,13 @@ There are actions which when performed rob you of grace due to their unholy
 nature, the grace is calculated by the order specific act row of the grace
 chart. Your order's forbidden act is committing a crime against just authority.
 
-### Channel Divinity: Repentance (Level 5)
+### Order Feature: Angel Radio (3rd Level)
+You are capable of meditating for 10 minutes in order to zone in on a frequency
+used by angels to communicate. You may ask a single question during the 10 
+minutes and the answer will be told to you over the frequency if the information
+is not exremely sensitive.
+
+### Channel Divinity: Repentance (5th Level)
 As a bonus action on your turn you utter a sin that you know without a shadow of
 a doubt that a specific sentient creature of your choice within 120 feet of you 
 has committed. The target must make a constitution saving throw, taking radiant 
@@ -321,7 +321,7 @@ Refer to the following chart for sins and their respective damages:
 
 ```
 
-### Boon of Justice
+### Boon of Justice (10th Level)
 Themius grants you massive power to be used as a last resort only. You learn the 
 spell Seraphic Transformation, it is always prepared and does not  count against 
 your maximum spells prepared. You also gain immunity to radiant damage.
@@ -332,9 +332,6 @@ your maximum spells prepared. You also gain immunity to radiant damage.
 ## Light
 The light order encompasses light and radiance. This order seeks to light the
 darkness of the universe. The light order is lead by Helios.
-
-### Order Feature: Lightbringer (3rd Level)
-You learn the light cantrip and may cast it without expending any grace.
 
 ### Order Spells
 You learn the following spells thanks to your order, these spells are always
@@ -364,6 +361,9 @@ There are actions which when performed rob you of grace due to their unholy
 nature, the grace is calculated by the order specific act row of the grace
 chart. Your order's forbidden act is quenching a flame before sunrise or 
 allowing a hearth to die out.
+
+### Order Feature: Lightbringer (3rd Level)
+You learn the light cantrip and may cast it without expending any grace.
 
 ### Channel Divinity: Sun's Blessing (Level 5)
 As an action on your turn you illuminate a 1 mile radius sphere around you as if
@@ -455,9 +455,6 @@ to anything that would wish to destroy or threaten it. The order of creation
 extends empathy to even the most vile of creatures, hoping that one day even
 they can see the beauty of creation. An'Ire leads the order of creation.
 
-### Order Feature: Minor Fabrication (3rd Level)
-You learn the mending cantrip and may cast it without expending any grace.
-
 ### Order Spells 
 You learn the following spells thanks to your order, these spells are always
 prepared and do not count against your maximum spells prepared.
@@ -486,6 +483,9 @@ There are actions which when performed rob you of grace due to their unholy
 nature, the grace is calculated by the order specific act row of the grace
 chart. Your order's forbidden act is destroying a piece of art or prototype 
 invention.
+
+### Order Feature: Minor Fabrication (3rd Level)
+You learn the mending cantrip and may cast it without expending any grace.
 
 ### Channel Divinity: Create Life (Level 5)
 As an action on your turn you bring forth a construct of human shape. This 

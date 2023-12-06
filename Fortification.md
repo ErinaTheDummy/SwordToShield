@@ -1,7 +1,6 @@
 
 # NOTICE OF INCOMPLETION!!!
-## This document is incomplete, it is not meant to be completely functional 
-right now
+## This document is incomplete, it is not meant to be completely functional right now
 
 
 ```

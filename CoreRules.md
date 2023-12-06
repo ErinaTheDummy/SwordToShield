@@ -131,15 +131,15 @@ applicable attributes:
 |   Skill           |   Abilities                      |
 |  ---------------  |  ------------------------------  |
 |  Athletics        |  Strength                        |
-|  Acrobatics       |  Dexterity, Strength             |
+|  Acrobatics       |  Dexterity                       |
 |  Sleight of Hand  |  Dexterity                       |
 |  Stealth          |  Dexterity                       |
 |  Arcana           |  Intelligence                    |
 |  History          |  Intelligence, Wisdom            |
-|  Investigation    |  Intelligence, Wisdom            |
+|  Investigation    |  Intelligence                    |
 |  Nature           |  Intelligence, Wisdom            |
 |  Religion         |  Intelligence, Wisdom            |
-|  Animal Handling  |  Wisdom, Intelligence, Charisma  |
+|  Animal Handling  |  Intelligence, Wisdom            |
 |  Insight          |  Wisdom                          |
 |  Medicine         |  Wisdom, Intelligence            |
 |  Perception       |  Wisdom                          |
@@ -171,6 +171,12 @@ and add the modifier of one applicable attribute to the skill you're making a
 check with along with your proficiency bonus if you have proficiency in the 
 skill. Your success or failure in this kind of check is decided by the GM, and
 you may have varying degrees of success depending on how high you roll. 
+
+#### OPTIONAL: Inspiration
+Your Gamemaster may provide you "inspiration" before, during, or after a session
+as they see fit. Inspiration is a token that you may use at any time to gain 
+advantage on ANY roll. You may have a maximum of 3 tokens of inspiration at one 
+time.
 
 ## Advantages and disadvantages
 Certain things may grant "advantage" or "disadvantage". A roll made at advantage
@@ -230,6 +236,11 @@ Rather than ending at choosing a bodytype you may choose a class from the
 Character_Creation folder and begin at a level permitted by your GMs in that 
 class.
 
+#### OPTIONAL: Character Depth
+Before your first session playing as a character, you may note and mention any 
+flaws, morals, aspirations, social bonds, or other noteworthy aspects of your
+character to your GM. They should be certain to integrate that into their 
+game, unless they state otherwise.
 
 ## Classes
 Your class is your specialization as a character, giving you special abilities
