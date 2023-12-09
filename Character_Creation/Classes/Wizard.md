@@ -75,10 +75,10 @@ of glyphs you must write for each spell:
 |  Cantrip      |  1           |
 |  1            |  4           |
 |  2            |  10          |
-|  3            |  24          |
-|  4            |  40          |
-|  5            |  80          |
-|  6            |  88 (Special)|
+|  3            |  18          |
+|  4            |  34          |
+|  5            |  66          |
+|  6            |  66 (Special)|
 | ------------- | ------------ |
 
 ``` 
@@ -325,6 +325,7 @@ than once in a year.
 
 ## 5th Level Spells
 - Conjure Demon
+- Disintegrate
 - Time Stop
 - Gateway
 - Perish

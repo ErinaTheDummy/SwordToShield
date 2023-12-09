@@ -459,3 +459,89 @@ You have a natural coating of fur or some other thermal layer, this allows you
 to ignore the effects of an exceedingly cold or hot environment, such as a
 tundra or a desert.
 ```
+
+```
+Name: Feat Savant
+Description:
+You have the benefits of a single feat from Feats.md. You may not take any other
+Bodily feature if you take this bodily feature
+```
+
+```
+Name: Mutation
+Description:
+You gain one minor beneficial corruption and may also take one neutral 
+corruption. After gaining this bodily feature you may substitute any number of 
+other bodily features granted to you by your GM for minor beneficial corruptions 
+from AccursedJournal.md.
+```
+
+```
+Name: Tentacles
+Description:
+You have tentacles somewhere on your body. As an action you may attempt to 
+grapple someone with these tentacles, restraining them on a success.
+```
+
+```
+Name: Duplipedal
+Description:
+You walk on four or more legs, giving some benefits and causing some issues. You
+gain advantage on saves against being knocked prone, and your movement speed is
+doubled. It may be hard or even impossible for you to ascend ladders or slopes
+not specifically designed with your stature in mind.  
+```
+
+## Racial Presets
+Within a fantasy world there are often many different kinds of races, from 
+mundane humans exactly like the world we truly live in, to fantastical giants
+and dragonfolk. No race is beyond the limits of the bodytype model. The 
+following collections of body presets describe some fantasy races.
+
+### Human
+Humans are just the same as standard real humans. Humans commonly stand 
+somewhere between 2 and 9 feet tall 
+
+```
+Race: Human
+Size: Tiny/Small/Medium/Large
+Bodily Features: Agile, Nimble, Toughness 
+OR 
+Bodily Features: None & Take +1 to three stats
+```
+
+### High-Elf
+High elves are tall and slender, with slightly elongated facial proportions and 
+long pointy ears. High elves commonly stand somewhere between 6 and 9 feet tall.
+
+```
+Race: High-Elf
+Size: Medium/Large
+Bodily Features: Innate Casting, Darkvision (colored), Charm Resistance
+```
+
+### Wood-Elf
+Wood elves are generally built similarly to humans. They share ancestry with 
+other elves but the defining feature that sets them apart from the rest is their
+pair of wooden antlers that grow from their forehead. 
+
+```
+Race: Wood-Elf
+Size: Tiny/Small/Medium/Large
+Bodily Features: Nimble, Magic Resistance, Darkvision (colored)
+```
+
+### Orc
+Orcs are tall, with the same proportionality as humans. Their most defining 
+feature is their two tusk-like teeth which grow large enough to poke from their
+mouths once they reach adulthood. Orcs range in height from 7 to 10 feet tall
+
+```
+Race: Orc
+Size: Medium/Large
+Bodily Features: Darkvision (Shades of Red), Strong Build, Toughness
+OR
+Bodily Features: Darkvision (Shades of Red), Nimble, Agile
+OR
+
+```

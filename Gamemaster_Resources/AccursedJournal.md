@@ -402,9 +402,17 @@ thicker.
 You grow one or more eyes on your forhead, the eyes stare unblinking at the
 nearest creature you area aware of and never shut, even when you sleep.
 
-#### Hair Tentacles (5)
-Your hair turns into tentacles. If you do not have hair you grow the tentacles
-where you would have hair.
+#### Facial Tentacles (5)
+Roll 1d4 to determine where tentacles grow on your face.
+
+```
+|  Roll (1d4)  |  Location                 |
+| ------------ | ------------------------- |
+|  1           |  In place of Hair         |
+|  2           |  Over Your Ears           |
+|  3           |  Over Your Eyes           |
+|  4           |  Over Your Mouth and Nose |
+```
 
 #### Cranial Blossum (6)
 A flower grows from the top of your head. It indicates your emotional state.
@@ -419,7 +427,9 @@ Everything you say must be formatted as a question.
 Your hands or feet become that of an animal.
 
 ### Pitch Shift (10)
-The pitch of your voice becomes higher or lower.
+The pitch of your voice becomes higher or lower. roll a 1d4, For every number 
+above 2 your voice's pitch goes up an octave, for every number below 3 your 
+voice goes down an octave.
 
 ### Horizontal Blinking (11)
 Your eyes blink horizontally instead of vertically.
@@ -470,17 +480,21 @@ see you through
 
 #### Tail (1)
 You grow a tail, or an additional one if you already have a tail. This tail is
-prehensile and you may use it to perform a free object interaction.
+prehensile and you may use it to perform a free object interaction or suspend 
+you from a hanging object.
 
 #### Hide (2)
-Your skin grows into a thick hide, granting you +1 AC
+Your skin grows into a thick hide, granting you +1 AC.
 
 #### Scales (3)
-Your skin grows hard and scaly, while not wearing armor your AC is 13
+Your skin grows hard and scaly, while not wearing armor your AC is 13 plus your
+dexterity modifier.
 
 #### Mucus Membrane (4)
 Your entire body secretes a sticky substance, increasing your climbing speed by
-15 feet. You may climb hands free.
+15 feet. You may climb hands free and cannot be pulled from a surface by another
+creature unless you voluntarily allow yourself to release, or they succeed a DC
+18 strength (athletics) check.
 
 #### Slime (5)
 Your whole body transmutes into a green slime. You may choose to transform into
@@ -496,8 +510,8 @@ Your bones harden into iron. You are immune to fractures and breaks. When you
 move, your body makes metallic squeeking and scraping noises.
 
 #### Neutralizing Corruption (8)
-You lose one corruption, disease, or parasite at random and become immune to it
-forever.
+You lose one corruption (other than this one), disease, madness, or parasite at 
+random and become immune to it forever.
 
 #### Bone Claws (9)
 As a free action you are capable of protruding or retracting sharp boney claws 
@@ -512,13 +526,16 @@ with your head and hit you sustain 1d4 bludgeoning damage.
 
 #### Wings (11)
 You grow feathery or batlike wings (GM's choice) and gain a flying speed of
-20 feet.
+40 feet.
 
 #### Mirroring (12)
-Your whole body becomes mirrored.
+Your whole body becomes mirrored. Attacks made against you while you are asleep
+miss vital organs and do not crit, as the organs are not where they're supposed
+to be.
 
 #### Big hands (13)
-Your hands grow to a size typical of a person one size larger than you
+Your hands grow to a size typical of a person one size larger than you, allowing
+you to weild weapons made for those one size larger than you with ease.
 
 #### Crab Claws (14)
 Your hands form into the claws of a crab. You cannot drop an item unless you
@@ -526,26 +543,26 @@ choose to release it.
 
 #### Boiling Blood (15)
 Your blood is constantly at a nice hot 100 degrees celcius. You are not
-harmed by this, but a creature that comes into contact with your blood takes 1d4
+harmed by this, but a creature that comes into contact with your blood takes 1d6
 fire damage.
 
 #### Additional Legs (16)
 You grow additional legs, increasing your walking speed by 10 feet.
 
 #### Marsupial Pouch (17)
-You form a small fuzzy pouch on your stomach. you may store up to 10 lbs of 
+You form a small fuzzy pouch on your stomach. you may store up to 20 lbs of 
 items within this pouch.
 
 #### Dazzling (18)
 Magical sparkles follow you wherever you go. Some people find this amusing.
 
 #### Non-conductive (19)
-It is impossible for you to be struck by lightning from a cloud. The lightning
-bolt spell may still target you.
+It is impossible for you to be struck by lightning from a cloud. And you gain 
+resistance to lightning damage. The lightning bolt spell may still target you.
 
 #### Mandables (20)
 You grow spiderlike mandables on your face. You may attack a creature within 5 
-feet of you with them for 1d4 piercing damage and you may manipulate small 
+feet of you with them for 1d6 piercing damage and you may manipulate small 
 objects with them.
 
 

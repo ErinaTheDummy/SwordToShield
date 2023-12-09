@@ -183,10 +183,6 @@ The Eldritch Blast cantrip has a range of 300 feet for you.
 The on a hit, the Eldritch Blast cantrip removes 10 feet of movement from a 
 creature until the start of your next turn.
 
-### Voice of The Grave (level 6)
-You are granted the speak with dead spell, this spell does not count against
-your spells known and carries no risk of sanity drain.
-
 ### Warrior of Shadows
 You learn two warrior manuevers from the warrior class.
 
@@ -199,17 +195,17 @@ hand. It never takes more than a minute for your weapon to return to your hand.
 Your pact weapon's additional modifier increases from a +1 to a +2 at 6th level, 
 and again to +3 at 10th level. You are proficient with your pact weapon.
 
-### Malicious Blade (Level 6)
-- **Requires: Pact Weapon**
-
-Your pact weapon yearns for bloodshed. When you take the attack action with your
-pact weapon, you may make two attacks instead of one.
-
 ### Eldritch Smite
 - **Requires: Pact Weapon**
 
 When you hit a creature with your pact weapon you may add 1d8 force damage and
 roll will, on a roll of 14 or lower you lose 1 sanity.
+
+### Malicious Blade (Level 6)
+- **Requires: Pact Weapon**
+
+Your pact weapon yearns for bloodshed. When you take the attack action with your
+pact weapon, you may make two attacks instead of one.
 
 ### Undead Servant (7th level)
 You are granted the animate dead spell, this spell does not count against
@@ -229,16 +225,37 @@ against your spells known and carries no risk of sanity drain.
 You learn 2 rogue techniques from the rogue class.
 
 ### Spellslinger
-You gain proficiency in firearms and learn two gunslinger maneuvers from the
+You gain proficiency in firearms and learn a gunslinger maneuver from the
 gunslinger class.
+
+### Overbloom
+As an action you may expend 5 hit dice and call forth a massive overgrowth of 
+flowery, thorned vines in a 30 foot radius around you. All creatures but you and
+4 creatures designated by you treat this area as difficult terrain. Creatures 
+who start their turn in the area or were caught in the initial growth must make
+a saving throw against your spell save DC or take 3d10 magical piercing damage
+and be restrained as thorny vines encase them.
+
+### Otherworldly Form (level 6)
+Your patron grants you the ability to change into the shape of their visage as
+a bonus action by expending 10 hit dice. You gain 30 temporary hitpoints and 
+while in your otherworldy form you gain the following benefits
+- You may make 2 attacks when you take the attack action
+- Your unarmed strike die becomes a d10 unless it was already higher 
+- Your unarmed strikes may use your casting modifier in place of your strength 
+modifier.
+- Grow one size larger (Maximum of huge)
+Your otherworldy form is dispelled once you lose all of the temporary hitpoints
+granted to you by it.
+
+### Voice of The Grave (level 6)
+You are granted the speak with dead spell, this spell does not count against 
+your spells known and carries no risk of sanity drain.
 
 ### Protective Veil (Level 9)
 A magical field which repels magic corruption creates a sheen across you. When
-you fail a save against magical corruption and get corrupted, you may choose to 
-not be corrupted instead. You may use this invocation once per rest. 
-
-### Channel Patron (Level 9)
-You take on some physical aspects of your patron and become 
+you fail a save, you may choose to succeed instead. You may use this invocation 
+once per rest. 
 
 ---
 
