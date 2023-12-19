@@ -78,7 +78,7 @@ to a "Psonic DC" the formula for this DC is 8 + your proficiency bonus + your
 intelligence modifier. Refer to the Psionics Known column of the Psiker level 
 chart to know how many psionics you have at a given level. 
 
-###Empowered Psi 
+### Empowered Psi 
 Whenever you start your turn and choose to expend a hit die/dice to roll your 
 psionic die, you may choose to expend an additional hit die and roll an 
 additional die, meaning a psionic die of 1d8 would become 2d8; However psionic 
