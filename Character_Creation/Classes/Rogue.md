@@ -10,9 +10,7 @@
 #              |___/                                                           #
 ################################################################################
 ```
-Rogues are cunning, agile, and often deceptive. A rogue may be swinging from
-masts of ships, or robbing nobles, or assassinating political figures. 
-Regardless of intent, the name of the game is always the same: Dont get Caught.
+Rogues are cunning, agile, and often deceptive. A rogue may be swinging from masts of ships, robbing nobles, or assassinating political figures. Regardless of intent, the name of the game is always the same: **DON'T. GET. CAUGHT.**
 
 ## Hit Die
 Your hit die is a d8
@@ -49,9 +47,9 @@ RT = Rogue Techniques Known
 | LVL | XP    | HD |Prof |  RT   |        Features                       |
 +-----+-------+----+-----+-------+---------------------------------------+
 |   1 |     0 | 2  | +1  |  0    | Sneak Attack                          |
-|   2 |   300 | 4  | +1  |  2    | Rogue Techniques, Hit point Increase  |
-|   3 |   900 | 6  | +2  |  3    | Hit point Increase                    |
-|   4 |  1800 | 8  | +2  |  4    | Hit point re-roll                     |
+|   2 |   300 | 4  | +1  |  2    | Rogue Techniques, Hitpoint Increase  |
+|   3 |   900 | 6  | +2  |  3    | Hitpoint Increase                    |
+|   4 |  1800 | 8  | +2  |  4    | Hitpoint Re-roll                     |
 |   5 |  3600 |10  | +2  |  5    | Ability Score Increase                |
 |   6 |  6100 |12  | +2  |  6    | Sneak Attack Increase                 |
 |   7 |  9100 |14  | +3  |  7    |                                       |
@@ -75,7 +73,7 @@ techniques column of the chart to know how many you currently have.
 ### Hitpoint increase
 Your hitpoints increase by 1d8 + your constitution modifier.
 
-### Hitpoint re-roll
+### Hitpoint Re-roll
 Roll 2d8+8 and add 3 times your constitution modifier. If the result is 
 higher than your current maximum that becomes your new hitpoint maximum. You may
 repeat this every time you level up.

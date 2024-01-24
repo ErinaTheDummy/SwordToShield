@@ -9,7 +9,6 @@
 #  ░        ░ ░ ░ ▒  ░      ░   ░      ░   ░ ░ ░ ▒     ░   ░ ░    ░     ░░   ░ #
 #  ░ ░          ░ ░         ░          ░       ░ ░           ░    ░  ░   ░     #
 ################################################################################
-
 ```
 You are completely ordinary, absolutely nothing is special about you.
 

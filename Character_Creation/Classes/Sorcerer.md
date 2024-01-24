@@ -1,11 +1,11 @@
 ```
 ################################################################################
-#   _____                                                                       #
-#  /  ___|                                                                      #
-#  \ `--.  ___  _ __ ___ ___ _ __ ___ _ __                                      #
-#   `--. \/ _ \| '__/ __/ _ \ '__/ _ \ '__|                                     #
-#  /\__/ / (_) | | | (_|  __/ | |  __/ |                                        #
-#  \____/ \___/|_|  \___\___|_|  \___|_|                                        #
+#   _____                                                                      #
+#  /  ___|                                                                     #
+#  \ `--.  ___  _ __ ___ ___ _ __ ___ _ __                                     #
+#   `--. \/ _ \| '__/ __/ _ \ '__/ _ \ '__|                                    #
+#  /\__/ / (_) | | | (_|  __/ | |  __/ |                                       #
+#  \____/ \___/|_|  \___\___|_|  \___|_|                                       #
 ################################################################################
 ```
 Rather than making a pact, learning a mystic art, or begging a god for magical
@@ -52,7 +52,7 @@ ST = Amount of Sorcerer Techniques
 |   1 |     0 | 2  | +1  |  2  |  0  | Supernatural Origin, Mana Casting               |
 |   2 |   300 | 4  | +1  |  4  |  0  | Hitpoint Increase                               |
 |   3 |   900 | 6  | +2  |  8  |  2  | Sorcery Techniques, Hitpoint Increase           |
-|   4 |  1800 | 8  | +2  |  12 |  3  | Supernatural Origin Feature, Hit point re-roll  |
+|   4 |  1800 | 8  | +2  |  12 |  3  | Supernatural Origin Feature, Hitpoint Re-roll  |
 |   5 |  3600 |10  | +2  |  16 |  3  | Ability Score Increase                          |
 |   6 |  6100 |12  | +2  |  20 |  3  | Supernatural Origin Feature                     |
 |   7 |  9100 |14  | +3  |  24 |  4  |                                                 |
@@ -124,7 +124,7 @@ to determine how many sorcery techniques you know at a given level. You may
 learn one additional sorcery technique from a sorcerer who spends 14 days 
 training you on how to do it.
 
-### Hitpoint re-roll
+### Hitpoint Re-roll
 Roll 2d4+4 and add 3 times your constitution modifier. If the result is 
 higher than your current maximum that becomes your new hitpoint maximum. You may
 repeat this every time you level up.

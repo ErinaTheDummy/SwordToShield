@@ -7,7 +7,6 @@
 #  /\__/ / | | | | | | ||  __/ |                                               #
 #  \____/|_| |_|_|_|  \__\___|_|                                               #
 ################################################################################
-                                
 ```
 Whether through curse or infection, Shifters are forces of supernatural 
 strength. Shifters have learned how to hone their ailments into tools, granting
@@ -48,9 +47,9 @@ Prof = proficiency bonus
 | LVL | XP    | HD |Prof |        Features                           |
 +-----+-------+----+-----+-------------------------------------------+
 |   1 |     0 | 2  | +1  | Shifting, Monstrous Form, Unwilling Shift |
-|   2 |   300 | 4  | +1  | Form Feature, Hit point Increase          |
-|   3 |   900 | 6  | +2  | Partial Shift, Hit point Increase         |
-|   4 |  1800 | 8  | +2  | Form Feature, Hit point re-roll           |
+|   2 |   300 | 4  | +1  | Form Feature, Hitpoint Increase          |
+|   3 |   900 | 6  | +2  | Partial Shift, Hitpoint Increase         |
+|   4 |  1800 | 8  | +2  | Form Feature, Hitpoint Re-roll           |
 |   5 |  3600 |10  | +2  | Form Resistance, Ability Score Increase   |
 |   6 |  6100 |12  | +2  | Extra Attack                              |
 |   7 |  9100 |14  | +3  |                                           |
@@ -113,7 +112,7 @@ from your monstrous form. Once you partially shift you may not do so again until
 you finish a rest. While partially shifted you have disadvantage on saving 
 throws to resist unwilling shifts.
 
-### Hitpoint re-roll
+### Hitpoint Re-roll
 Roll 2d4+4 and add 3 times your constitution modifier. If the result is 
 higher than your current maximum that becomes your new hitpoint maximum. You may
 repeat this every time you level up.

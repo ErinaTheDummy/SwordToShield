@@ -10,8 +10,7 @@
 #                                   |___/                                      #
 ################################################################################
 ```
-Gunslingers are adept marksmen and know their way around all firearms. From lone
-rangers to outlaws, slinging lead and taking names is their area of expertise.
+Gunslingers are adept marksmen and know their way around all firearms. From lone rangers to outlaws, slinging lead and taking names is their area of expertise.
 
 ## Hit Die
 Your hit die is a d6
@@ -49,8 +48,8 @@ GM = Gunslinger Maneuvers Known
 +-----+-------+----+-----+-------+---------------------------------------+
 |   1 |     0 | 2  | +1  |  0    | Gunsmith, Scrap, Modify               |
 |   2 |   300 | 4  | +1  |  1    | Gunslinger Maneuvers,Hitpoint Increase|
-|   3 |   900 | 6  | +2  |  2    | Hit point Increase                    |
-|   4 |  1800 | 8  | +2  |  3    | Hit point re-roll                     |
+|   3 |   900 | 6  | +2  |  2    | Hitpoint Increase                     |
+|   4 |  1800 | 8  | +2  |  3    | Hitpoint Re-roll                      |
 |   5 |  3600 |10  | +2  |  4    | Ability Score Increase                |
 |   6 |  6100 |12  | +2  |  4    | Heavy Weaponry                        |
 |   7 |  9100 |14  | +3  |  5    |                                       |
@@ -76,7 +75,7 @@ You have practiced and honed your ability, becoming adept enough to perform feat
 ### Hitpoint Increase
 Your hitpoints increase by 1d6 + your constitution modifier.
 
-### Hitpoint re-roll
+### Hitpoint Re-roll
 Roll 2d6+6 and add 3 times your constitution modifier. If the result is higher than your current maximum that becomes your new hitpoint maximum. You may repeat this every time you level up.
 
 ### Ability Score Increase
@@ -189,7 +188,7 @@ Scrap Cost: 10
 Amount: 1
 ```
 
-### Heavy Weaponry (Level 6)
+### HEAVY WEAPONRY (LEVEL 6 REQUIRED)
 The below items may not be created unless you are level 6 or higher.
 
 ```
@@ -248,54 +247,69 @@ Amount: 1
 You may only apply a modification to a weapon once, unless the modification
 specifies otherwise.
 
-### Ammo Capacity (4 scrap)
+### Ammo Capacity 
+- **Requires: 4 scrap per addition**
 You modify a weapon to allow it to hold more bullets before it must be reloaded, increasing its magazine by an amount equal to its original magazine size. You may apply this modification up to eight times on one gun.
 
-### Obrez (15 scrap)
+### Obrez 
+- **Requires: 15 scrap**
 You shorten a gun with the two-handed property, allowing it to be wielded with just one hand. The scrap cost of the modification comes from modifying the grip of the weapon such that it will not fly out of your hands when you fire it. You may not apply this modification to weapons with the heavy property.
 
-### Scope (20 Scrap)
+### Scope
+- **Requires: 20 Scrap**
 You add a scope to a gun, doubling its effective and disadvantage range.
 
-### Break Action (20 scrap)
+### Break Action
+- **Requires: 20 scrap**
 You add a hinge and latch behind the chamber of a gun, allowing you to break it open to load bullets directly into the chamber much faster. Rather than taking an action to reload you may reload as a bonus action. When paired with a speed-loader you are capable of reloading two weapons with a bonus action rather than just one. You may only apply this modification to a weapon with a maximum capacity of six or fewer.
 
-### Bayonet (20 scrap, 1 Shortsword)
-You apply a Bayonet to a weapon. You are capable of attacking creatures within your reach +5 with the bayonet as an action. You make this attack as if you are wielding a shortsword.
+### Bayonet
+- **Requires: 20 scrap, 1 Shortsword**
+You apply a Bayonet to a weapon. You are capable of attacking creatures within your reach with the bayonet as an action. You make this attack as if you are wielding a shortsword.
 
-### Caliber Up (40 scrap) (6th level)
+### Arm mounted
+- **Requires: 20 scrap**
+You alter your firearm to be wearable on your forearm or some other analogous structure. You may ready this firearm and put away another item you are holding as a free object interaction, as long as you are wearing it. If this weapon misfires you take 1d4 piercing damage.
+
+### Lengthened barrel
+- **Requires: 50 scrap**
+You modify the barrel of your firearm to be longer. The maximum range of your firearm is doubled.
+
+### Single action 
+- **Requires: 30 scrap, Modified firearm has a magazine capacity >1**
+You modify your firearm to chamber rounds through a mechanism that requires your input each time a round must be chambered, granting greater stability. Your firearm's misfire score is decreased by 1, and its effective and maximum range are increased by 20 feet, but after firing a chambered round you must expend a bonus action to chamber a new round from the magazine before firing again. You may not apply this modification to a weapon that you have applied switch to.
+
+### ADVANCED MODIFICATIONS (LEVEL 6 REQUIRED)
+The below modifications may not be applied unless you are level 6 or higher.
+
+### Caliber Up 
+- **Requires: 40 scrap**
 You alter the chamber of a gun which fires pistol ammo in order for it to be able to hold rifle bullets. The gun's damage die increases one size and its and misfire score increases by 1.
 
-### Caliber Down (40 scrap) (6th level)
+### Caliber Down 
+- **Requires: 40 scrap**
 You alter the chamber of a gun which fires rifle ammo in order for it to be able to hold pistol bullets. The gun's damage die decreases one size and its misfire score decrease by 1. The ammo capacity of the weapon doubles.
 
-### Switch (60 Scrap) (6th Level)
+### Switch 
+- **Requires: 60 Scrap**
 You apply the automatic property to a weapon.
 
-### Ergonomic Grip (30 Scrap) (6th Level)
+### Ergonomic Grip 
+- **Requires: 30 Scrap**
 You alter the grip of a weapon in order for it to perfectly fit to your hand.
 You cannot have disadvantage within the effective range of the modified weapon.
 
-### Suppressor (30 Scrap) (6th level)
-You add a suppressor to the barrel of your firearm. Whenever you fire from a position where you are hidden, your target does not automatically know your position, instead having to pass perception checks looking for you.
-
-### Bi-pod (50 scrap)
+### Bi-pod 
+- **Requires: 50 scrap**
 You attach a fortifying bi-pod to the end of your firearm. While prone the first attack you make on your turn cannot have disadvantage
 
-### Suppressor (revised)(30 Scrap) (6th level)
+### Suppressor 
+- **Requires: 30 Scrap**
 You add a suppressor to the barrel of your firearm. Whenever you fire from a position where you are visually hidden, your target has disadvantage on hearing based perception checks to discern where the gunfire came from, and they automatically fail if you are further than 240 feet away unless they have a feature that grants them advantage on hearing based perception checks.
 
-### High Quality Finishing (100 scrap, 2 liters of oil)
+### High Quality Finishing
+- **Requires: 100 scrap, 20 liters of oil**
 You apply a high quality chemical finish to each metal part of your firearm, giving the delicate mechanisms a much greater wiggle room. The weapon's misfire score is reduced by 2 to a minimum of 1.
-
-### Arm mounted (20 scrap)
-You alter your firearm to be wearable on your forearm or some other analogous structure. You may ready this firearm and put away another item you are holding as a free object interaction, as long as you are wearing it. If this weapon misfires you take 1d4 piercing damage.
-
-### Lengthened barrel (50 scrap)
-You modify the barrel of your firearm to be longer. The maximum range of your firearm is doubled.
-
-### Single action (30 scrap, Firearm has at least a magazine capacity of 2)
-You modify your firearm to chamber rounds through a mechanism that requires your input each time a round must be chambered, granting greater stability. Your firearm's misfire score is decreased by 1, and its effective and maximum range are increased by 20 feet, but after firing a chambered round you must expend a bonus action to chamber a new round from the magazine before firing again. You may not apply this modification to a weapon that you have applied switch to.
 
 ---
 

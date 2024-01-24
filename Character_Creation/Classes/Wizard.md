@@ -4,9 +4,9 @@
 #  | |  | (_)                | |                                               #
 #  | |  | |_ ______ _ _ __ __| |                                               #
 #  | |/\| | |_  / _` | '__/ _` |                                               #
-#  \  /\  / |/ / (_| | | | (_| |                                               # 
+#  \  /\  / |/ / (_| | | | (_| |                                               #
 #   \/  \/|_/___\__,_|_|  \__,_|                                               #
-################################################################################                             
+################################################################################
 ```
 Wizards are those who study the mystic arts, finding ways to manipulate the mana
 found all across creation for use in spells and rituals. Powerful wizards are
@@ -49,8 +49,8 @@ MSG = Maximum Spell Glyphs
 +-----+-------+----+-----+----------+------------------------------------------+
 |   1 |     0 | 2  | +1  |  8       | Glyph Casting, Learned Spells            |
 |   2 |   300 | 4  | +1  |  16      | Hitpoint Increase                        |
-|   3 |   900 | 6  | +2  |  28      | Hit point Increase                       |
-|   4 |  1800 | 8  | +2  |  36      | Hit point re-roll                        |
+|   3 |   900 | 6  | +2  |  28      | Hitpoint Increase                       |
+|   4 |  1800 | 8  | +2  |  36      | Hitpoint Re-roll                        |
 |   5 |  3600 |10  | +2  |  44      | Ability Score Increase                   |
 |   6 |  6100 |12  | +2  |  52      | Wizard Speciality                        |
 |   7 |  9100 |14  | +3  |  60      |                                          |
@@ -107,7 +107,7 @@ spellbook.
 ### Hitpoint Increase
 Your hitpoints increase by 1d4 + your constitution modifier.
 
-### Hitpoint re-roll
+### Hitpoint Re-roll
 Roll 2d4+4 and add 3 times your constitution modifier. If the result is 
 higher than your current maximum that becomes your new hitpoint maximum. You may
 repeat this every time you level up. 

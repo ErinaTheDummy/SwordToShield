@@ -48,8 +48,8 @@ WM = Warrior Maneuvers Known
 +-----+-------+----+-----+-------+---------------------------------------+
 |   1 |     0 | 2  | +1  |  0    | Unyielding                            |
 |   2 |   300 | 4  | +1  |  1    | Warrior Maneuvers, Hitpoint Increase  |
-|   3 |   900 | 6  | +2  |  2    | Hit point Increase                    |
-|   4 |  1800 | 8  | +2  |  3    | Hit point re-roll                     |
+|   3 |   900 | 6  | +2  |  2    | Hitpoint Increase                    |
+|   4 |  1800 | 8  | +2  |  3    | Hitpoint Re-roll                     |
 |   5 |  3600 |10  | +2  |  4    | Ability Score Increase                |
 |   6 |  6100 |12  | +2  |  4    | Extra Attack                          |
 |   7 |  9100 |14  | +3  |  5    |                                       |
@@ -73,7 +73,7 @@ manuevers column of the level chart to know how many you currently have.
 ### Hitpoint Increase
 Your hitpoints increase by 1d10 + your constitution modifier.
 
-### Hitpoint re-roll
+### Hitpoint Re-roll
 Roll 2d10+10 and add 3 times your constitution modifier. If the result is 
 higher than your current maximum that becomes your new hitpoint maximum. You may
 repeat this every time you level up.

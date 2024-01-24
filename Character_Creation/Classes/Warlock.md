@@ -6,7 +6,7 @@
 #  | |/\| |/ _` | '__| |/ _ \ / __| |/ /                                       #
 #  \  /\  / (_| | |  | | (_) | (__|   <                                        #
 #   \/  \/ \__,_|_|  |_|\___/ \___|_|\_\                                       #
-################################################################################                                  
+################################################################################
 ```
 Some are born with magic, others learn to wield the mystic arts, warlocks aquire
 power by making a deal with otherworldy beings. 
@@ -50,7 +50,7 @@ IV = Current Amount of Warlock Invocations
 |   1 |     0 | 2  | +1  |  Cantrip |  0     | Warlock Pact, Pact Casting               |
 |   2 |   300 | 4  | +1  |  1       |  0     | Hitpoint Increase                        |
 |   3 |   900 | 6  | +2  |  1       |  2     | Invocations, Hitpoint Increase           |
-|   4 |  1800 | 8  | +2  |  2       |  3     | Hit point re-roll                        |
+|   4 |  1800 | 8  | +2  |  2       |  3     | Hitpoint Re-roll                        |
 |   5 |  3600 |10  | +2  |  2       |  3     | Pact Feature, Ability Score Increase     |
 |   6 |  6100 |12  | +2  |  3       |  4     |                                          |
 |   7 |  9100 |14  | +3  |  3       |  5     |                                          |
@@ -105,7 +105,7 @@ their will, after which time you regain control of your body with 1 sanity.
 ### Hitpoint Increase
 Your hitpoints increase by 1d6 + your constitution modifier.
 
-### Hitpoint re-roll
+### Hitpoint Re-roll
 Roll 2d6+6 and add 3 times your constitution modifier. If the result is 
 higher than your current maximum that becomes your new hitpoint maximum. You may
 repeat this every time you level up.
