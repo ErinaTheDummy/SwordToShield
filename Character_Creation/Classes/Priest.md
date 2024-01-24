@@ -170,7 +170,7 @@ forgo your ability score increase and take a feat instead.
 
 ## Nature
 The nature order encompasses the protection of nature and the natural order. The
-nature order is lead by the goddess Nataluria. 
+nature order is lead by the goddess Wildrea. 
 
 ### Order Spells
 You learn the following spells thanks to your order, these spells are always

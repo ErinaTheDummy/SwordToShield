@@ -48,7 +48,7 @@ as a bonus action.
 
 # Attacks:
 
-- Quarterstaff +3 to hit, 1d6 bludgeoning damage, 1 target within 5 feet.
+- Claws +6 to hit, 2d6+2 slashing damage, 1 target within 5 feet.
 
 # Actions:
 - Maddening Gaze (Recharge 6), roll DC 16 wisdom save or become Insane until
@@ -93,7 +93,6 @@ Counterspell
 Dispel Magic
 Fear
 Feign Death
-Flight
 Hypnotic Spiral
 Lightning Bolt
 Plant Growth
@@ -112,13 +111,11 @@ Giant Bug
 Nightmare
 Polymorph
 Cloudkill
-Restoration
 Cardiac Arrest
 Scrying
 
 ## 5th level spells (1 per week)
 Disintegrate
-Time Stop
 Perish
 Regenerate
 Raise Dead

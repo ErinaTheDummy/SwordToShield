@@ -646,16 +646,17 @@ Your heart begins to beat hard in your chest. Whenever you expend hit dice,
 expend double the amount you usually would for no benefit. 
 
 ### Shock (17) (roleplay)
-Your speach becomes disorganized and your words mix as you speak 
+Your speech becomes disorganized and your words mix as you speak 
 
 ### Involuntary Movement (18)
 Your body begins to twitch and shake against your own will. You have 
 disadvantage on checks that require fine motor function
 
 ### Paranoia (19) (Secret)
-Your character becomes extremely paranoid that those around you are plotting to
-harm them. The GM should include subtle, false hints that NPCs have slights 
-against you. 
+You become extremely paranoid that those around you are plotting to harm you. 
+The GM should include subtle, false hints that NPCs have slights against you. An
+imagined glance here, a hint of false rudness there, can plant all the seeds 
+necessary for a grand misunderstanding  
 
 ### Fugue (20) (roleplay)
 You are consistently confused, as if fading in and out of a dream. 
