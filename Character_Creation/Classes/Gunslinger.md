@@ -249,34 +249,42 @@ specifies otherwise.
 
 ### Ammo Capacity 
 - **Requires: 4 scrap per addition**
+
 You modify a weapon to allow it to hold more bullets before it must be reloaded, increasing its magazine by an amount equal to its original magazine size. You may apply this modification up to eight times on one gun.
 
 ### Obrez 
 - **Requires: 15 scrap**
+
 You shorten a gun with the two-handed property, allowing it to be wielded with just one hand. The scrap cost of the modification comes from modifying the grip of the weapon such that it will not fly out of your hands when you fire it. You may not apply this modification to weapons with the heavy property.
 
 ### Scope
 - **Requires: 20 Scrap**
+
 You add a scope to a gun, doubling its effective and disadvantage range.
 
 ### Break Action
 - **Requires: 20 scrap**
+
 You add a hinge and latch behind the chamber of a gun, allowing you to break it open to load bullets directly into the chamber much faster. Rather than taking an action to reload you may reload as a bonus action. When paired with a speed-loader you are capable of reloading two weapons with a bonus action rather than just one. You may only apply this modification to a weapon with a maximum capacity of six or fewer.
 
 ### Bayonet
 - **Requires: 20 scrap, 1 Shortsword**
+
 You apply a Bayonet to a weapon. You are capable of attacking creatures within your reach with the bayonet as an action. You make this attack as if you are wielding a shortsword.
 
 ### Arm mounted
 - **Requires: 20 scrap**
+
 You alter your firearm to be wearable on your forearm or some other analogous structure. You may ready this firearm and put away another item you are holding as a free object interaction, as long as you are wearing it. If this weapon misfires you take 1d4 piercing damage.
 
 ### Lengthened barrel
 - **Requires: 50 scrap**
+
 You modify the barrel of your firearm to be longer. The maximum range of your firearm is doubled.
 
 ### Single action 
 - **Requires: 30 scrap, Modified firearm has a magazine capacity >1**
+
 You modify your firearm to chamber rounds through a mechanism that requires your input each time a round must be chambered, granting greater stability. Your firearm's misfire score is decreased by 1, and its effective and maximum range are increased by 20 feet, but after firing a chambered round you must expend a bonus action to chamber a new round from the magazine before firing again. You may not apply this modification to a weapon that you have applied switch to.
 
 ### ADVANCED MODIFICATIONS (LEVEL 6 REQUIRED)
@@ -284,31 +292,38 @@ The below modifications may not be applied unless you are level 6 or higher.
 
 ### Caliber Up 
 - **Requires: 40 scrap**
+
 You alter the chamber of a gun which fires pistol ammo in order for it to be able to hold rifle bullets. The gun's damage die increases one size and its and misfire score increases by 1.
 
 ### Caliber Down 
 - **Requires: 40 scrap**
+
 You alter the chamber of a gun which fires rifle ammo in order for it to be able to hold pistol bullets. The gun's damage die decreases one size and its misfire score decrease by 1. The ammo capacity of the weapon doubles.
 
 ### Switch 
 - **Requires: 60 Scrap**
+
 You apply the automatic property to a weapon.
 
 ### Ergonomic Grip 
 - **Requires: 30 Scrap**
+
 You alter the grip of a weapon in order for it to perfectly fit to your hand.
 You cannot have disadvantage within the effective range of the modified weapon.
 
 ### Bi-pod 
 - **Requires: 50 scrap**
+
 You attach a fortifying bi-pod to the end of your firearm. While prone the first attack you make on your turn cannot have disadvantage
 
 ### Suppressor 
 - **Requires: 30 Scrap**
+
 You add a suppressor to the barrel of your firearm. Whenever you fire from a position where you are visually hidden, your target has disadvantage on hearing based perception checks to discern where the gunfire came from, and they automatically fail if you are further than 240 feet away unless they have a feature that grants them advantage on hearing based perception checks.
 
 ### High Quality Finishing
 - **Requires: 100 scrap, 20 liters of oil**
+
 You apply a high quality chemical finish to each metal part of your firearm, giving the delicate mechanisms a much greater wiggle room. The weapon's misfire score is reduced by 2 to a minimum of 1.
 
 ---

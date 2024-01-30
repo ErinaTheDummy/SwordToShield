@@ -1,26 +1,18 @@
 # Body Types
-this document details all of the different types of bodies avaliable to players
-to choose from in character creation
+this document details all of the different types of bodies available to players to choose from in character creation
 
 ### Introduction to Body Type
-A body type is an expression of the size and natural abilities of your 
-character. Body types lack a name for each and instead can be described by a 
-name of your own creation, or a list of all the features of a given body type.
+A body type is an expression of the size and natural abilities of your character. Body types lack a name for each and instead can be described by a name of your own creation, or a list of all the features of a given body type.
 
 ### Ability Score Increase
-An ability score increase is an increase to your rolled (or bought) stats 
-determined by your unique physicality. ASIs are added after you roll your stats,
-meaning you may choose to allocate them where it would be most helpful to you. 
+An ability score increase is an increase to your rolled (or bought) stats determined by your unique physicality. ASIs are added after you roll your stats, meaning you may choose to allocate them where it would be most helpful to you. 
 
 ### Important Note
-For the melee damage section of each body size there is a referenced "d1" you
-do not have to roll a one sided die for this and may simply use 1. The damage
-is only refered to in this way so that rulings that increase melee damage are
+For the melee damage section of each body size there is a referenced "d1" you do not have to roll a one sided die for this and may simply use 1. The damage is only referred to in this way so that rulings that increase melee damage are
 easier to word. 
 
 # Body Size
-Choose one size from the following, this will determine your base melee damage, 
-some features, and what your ASI will look like. 
+Choose one size from the following, this will determine your base melee damage, some features, and what your ASI will look like. 
 
 ## Tiny
 ```
@@ -29,23 +21,18 @@ Reach: 5 feet
 Speed: 20 Feet
 Height: Between 1 inch tall and 2 feet tall.
 Melee Damage: 1
-ASI: +4 to two seperate stats, -4 to another. (+4 +4 -4)
+ASI: +4 to two separate stats, -4 to another. (+4 +4 -4)
 Carry Weight (LBS): Strength Score * 2
 ```
 
 ### Tiny Build
-You have disadvantage on strength checks and saving throws and you cannot
-resist a grapple from a creature of Huge size or larger. Any melee attacks you
-make deal 1 damage on a hit.
+You have disadvantage on strength checks and saving throws and you cannot resist a grapple from a creature of Huge size or larger. Any melee attacks you make deal 1 damage on a hit.
 
 ### Nimble Size
-You have advantage on dexterity checks and saving throws as well as a +10 to 
-stealth checks.
+You have advantage on dexterity checks and saving throws as well as a +10 to stealth checks.
 
 ### Abysmal Wielding
-Due to your size you are incapable of weilding any melee weapon without the 
-light property unless it is tailored to your size. You must use two hands to 
-wield any weapon not tailored to your size.
+Due to your size you are incapable of wielding any melee weapon unless it is tailored to your size. You must use two hands to wield any weapon not tailored to your size and may not wield a weapon tailored for a creature larger than small.
 
 ## Small
 ```
@@ -59,12 +46,10 @@ Carry Weight: Strength Score * 7
 ```
 
 ### Small Build
-You have disadvanatge when contesting strength checks against any creatures 
-larger than you.
+You have a +2 modifier to dexterity checks and saving throws
 
 ### Difficult Wielding
-You have disadvantage when making attacks with heavy melee weapons not tailored
-to your size.  
+You have disadvantage when making attacks with heavy melee weapons not tailored to your size.  
 
 ## Medium
 ```
@@ -89,10 +74,7 @@ Carry Weight: Strength Score * 21
 ```
 
 ### large Build
-You have advantage when contesting strength checks against any creatures smaller
-than you. Due to your size you may not be able to fit into smaller areas. You 
-start with 5 additional hitpoints and gain an additional 2 hitpoints each time
-you roll hit dice to increase your maximum hitpoints.
+You have advantage when contesting strength checks against any creatures smaller than you. Due to your size you may not be able to fit into smaller areas. You start with 5 additional hitpoints and gain an additional 2 hitpoints each time you roll hit dice to increase your maximum hitpoints.
 
 ### Easier Wielding
 You may wield a two handed weapon of medium or smaller size with one hand.
@@ -102,30 +84,23 @@ You may wield a two handed weapon of medium or smaller size with one hand.
 Size: Huge
 Reach: 15 feet
 Speed: 40 feet
-Height: Betweem 15 feet and 25 feet tall.
+Height: Between 15 feet and 25 feet tall.
 Melee Damage: 3d1 + Strength Modifier
 ASI: +4 to two stats, -4 to another (+4 +4 -4)
 Carry Weight: Strength Score * 63
 ```
 
 ### Huge Build
-You have advantage when making strength checks and saving throws. Due to your 
-size you may not be able to fit into most confined places.
+You have advantage when making strength checks and saving throws. Due to your size you may not be able to fit into most confined places.
 
 ### Hearty Size
-Due to your impressive size you are a much easier target, giving you 
-disadvantage on dexterity saving throws. You also require 10 pounds of food per 
-day to survive. Your starting hitpoints are doubled and you roll two times the 
-number of hit dice when rolling for hitpoint increases.
+Due to your impressive size you are a much easier target, giving you disadvantage on dexterity saving throws. You also require 10 pounds of food per day to survive. Your starting hitpoints are doubled and you roll two times the number of hit dice when rolling for hitpoint increases.
 
 ### Effortless Wielding
 You may wield a two handed weapon of large or smaller size with one hand.
 
 # Bodily Features
-Choose an amount of bodily features from the following as decided by your GM. 
-Do note that you are allowed to reflavor these features as you wish and that
-they are merely worded in a way to be consice for rulings, rather than for fun,
-and in games fun is more important than rules.
+Choose an amount of bodily features from the following as decided by your GM. Do note that you are allowed to re-flavor these features as you wish and that they are merely worded in a way to be concise for rulings, rather than for fun, and in games fun is more important than rules.
 
 ```
 
@@ -139,8 +114,7 @@ Your AC may not fall below 16.
 
 Name: Damage Type Resistance  
 Description: 
-You gain damage type resistance to one type of damage other than bludgeoning,
-piercing, or slashing damage.
+You gain damage type resistance to one type of damage other than bludgeoning, piercing, or slashing damage.
 
 ```
 
@@ -148,8 +122,7 @@ piercing, or slashing damage.
 
 Name: Natural Armor
 Description: 
-You have a natural armor that grants you a base AC of 13. You may add your 
-dexterity modifier to this AC.
+You have a natural armor that grants you a base AC of 13. You may add your dexterity modifier to this AC.
 
 ```
 
@@ -157,8 +130,7 @@ dexterity modifier to this AC.
 
 Name: 1d6 Natural Weapon
 Description: 
-You have some form of natural weapon which increases your unarmed damage die to
-a d6. You may make an attack as a bonus action with this weapon.
+You have some form of natural weapon which increases your unarmed damage die to a d6. You may make an attack as a bonus action with this weapon.
 
 ```
 
@@ -166,8 +138,7 @@ a d6. You may make an attack as a bonus action with this weapon.
 
 Name: 1d8 Natural Weapon
 Description: 
-You have some form of natural weapon which increases your unarmed damage die to
-a d8.
+You have some form of natural weapon which increases your unarmed damage die to a d8.
 
 ```
 
@@ -175,9 +146,7 @@ a d8.
 
 Name: Retractable Natural Weapon
 Description: 
-You have some form of natural weapon which increases you unarmed damage die to a
-d4. this natural weapon is capable of being retracted or abjured as a bonus 
-action.
+You have some form of natural weapon which increases you unarmed damage die to a d4. this natural weapon is capable of being retracted or abjured as a bonus action.
 
 ```
 
@@ -201,8 +170,7 @@ You gain a flying speed of 60 feet and your walking speed is reduced by 15.
 
 Name: Hover speed 
 Description: 
-You gain a flying speed equal to your walking speed & remain floating in the air
-even if you are rendered prone while in the air.
+You gain a flying speed equal to your walking speed & remain floating in the air even if you are rendered prone while in the air.
 
 ```
 
@@ -218,9 +186,7 @@ You gain a swimming speed equal to your walking speed
 
 Name: Innate Casting
 Description: 
-You gain one cantrip and use your choice of Constitution, Intelligence, Wisdom
-or Charisma as your casting modifier. When you cast this spell you expend one
-hit die. 
+You gain one cantrip and use your choice of Constitution, Intelligence, Wisdom or Charisma as your casting modifier. When you cast this spell you expend one hit die. 
 
 ```
 
@@ -228,11 +194,7 @@ hit die.
 
 Name: Constructed
 Description: 
-You are an automaton a or some other kind of abiotic life, which requires upkeep
-in different ways compared to biotic life. You do not need to breath or eat and
-are unaffected by extreme temperature weather conditions. You are also immune to 
-poison damage and the poisoned effect as well as disease. Rather than being the 
-same as those listed in the core rules, your ammenities are as follows:
+You are an automaton a or some other kind of abiotic life, which requires upkeep in different ways compared to biotic life. You do not need to breath or eat and are unaffected by extreme temperature weather conditions. You are also immune to poison damage and the poisoned effect as well as disease. Rather than being the same as those listed in the core rules, your amenities are as follows:
 
 - Pound of scrap material
 - Liter of oil
@@ -251,11 +213,7 @@ same as those listed in the core rules, your ammenities are as follows:
 
 Name: Undead
 Description: 
-You are an undead creature. Created by magic, science, or otherwise, you require
-different things to survive compared to your living counterparts. You do not 
-need to breathe or eat standard foods and you are unaffected by extreme 
-temperature weather conditions. You are also immune to poison damage and the 
-poisoned effect as well as disease. Your ammenities are as follows:
+You are an undead creature. Created by magic, science, or otherwise, you require different things to survive compared to your living counterparts. You do not need to breathe or eat standard foods and you are unaffected by extreme temperature weather conditions. You are also immune to poison damage and the poisoned effect as well as disease. Your amenities are as follows:
 
 - A pound of fresh meat
 - A liter of blood
@@ -274,9 +232,7 @@ poisoned effect as well as disease. Your ammenities are as follows:
 
 Name: Additional Arms
 Description:
-You have an additional set of arms, you are capable of making a weapon attack
-as a bonus action if you wield them in these arms or you may use them to wield
-a shield.
+You have an additional set of arms, you are capable of making a weapon attack as a bonus action if you wield them in these arms or you may use them to wield a shield.
 
 ```
 
@@ -298,14 +254,9 @@ Your Pushing, Carrying, and Lifting capacity is multiplied by 3.
 
 ```
 
-Name: Shapeshifting
+Name: Shape-shifting
 Description:
-As an action you may change your appearance and voice, it may be an apperance 
-and voice of your own creation or the apperance and voice of another person.
-You may alter your size to be one size larger or smaller than your current size
-but you gain no benefits from altering your size and you cannot be made a size
-larger than huge or smaller than tiny. Your clothing is unaffected by this 
-change.
+As an action you may change your appearance and voice, it may be an appearance and voice of your own creation or the appearance and voice of another person. You may alter your size to be one size larger or smaller than your current size but you gain no benefits from altering your size and you cannot be made a size larger than huge or smaller than tiny. Your clothing is unaffected by this change.
 
 ```
 
@@ -353,10 +304,7 @@ You have advantage on checks that rely on hearing.
 
 Name: Darkvision
 Description:
-You can see in darkness within 60 feet of you as if it is bright light and 
-darkness past that as dim light. You see in dim light as if it is bright light 
-You may or may not be able to discern colors in complete darkness, as decided 
-between you and your GM.
+You can see in darkness within 60 feet of you as if it is bright light and darkness past that as dim light. You see in dim light as if it is bright light You may or may not be able to discern colors in complete darkness, as decided between you and your GM.
 
 ```
 
@@ -364,8 +312,7 @@ between you and your GM.
 
 Name: Agile
 Description:
-You may expend a hit die and double your movement speed for your turn once per
-rest.
+You may expend a hit die and double your movement speed for your turn once per rest.
 
 ```
 
@@ -381,8 +328,7 @@ You may disengage or hide as a bonus action on your turn.
 
 Name: Damage Immunity
 Description:
-You have immunity to one type of damage from Fire, Cold, Lightning, Poison, or
-Acid damage. Ask your GM for premission before taking this feature.
+You have immunity to one type of damage from Fire, Cold, Lightning, Poison, or Acid damage. Ask your GM for premission before taking this feature.
 
 ```
 
@@ -414,89 +360,66 @@ You gain 1 maximum hitpoint each level.
 
 Name: Mimicry
 Description:
-You are capable of perfectly reproducing any sound which you have heard before.
-A creature must make an investigation check against your charisma or 
-intelligence + 8 + your prof in order to determine the noise was mimicry.    
+You are capable of perfectly reproducing any sound which you have heard before. A creature must make an investigation check against your charisma or intelligence + 8 + your prof in order to determine the noise was mimicry.    
 
 ```
 
 ```
-Name: Elemental Weapon
+Name: Breath Weapon
 Description:
-You are capable expending 2 hit dice to expel a 15 foot cone or 20 foot by 5 
-foot line of energy (your choice) from your body. When you choose this feature 
-choose a type of damage from: Lightning, Fire, Acid, Poison, Necrotic, or 
-Radiant. A creature caught in the area of effect must make a dexterity saving
-throw or take 2d6 + Your constitution modifier damage of the type you chose, or
-half as much on a success.
+You are capable expending a hit die to expel a 15 foot cone or 20 foot by 5 foot line of energy (your choice) from your body. When you choose this feature choose a type of damage from: Lightning, Fire, Acid, Poison, Necrotic, or Radiant. A creature caught in the area of effect must make a dexterity saving throw or take 3d6 + Your constitution modifier damage of the type you chose, or half as much on a success.
 ```
 
 ```
 Name: Spikes
 Description:
-Thorny spines cover your body. When a creature successfully grapples you or 
-starts their turn grappling you they take 1 piercing damage.
+Thorny spines cover your body. When a creature successfully grapples or is grappled by you or starts their turn grappling or being grappled by you they take 3 piercing damage.
 ```
 
 ```
 Name: Soulbound
 Description:
-You are bound to one creature. When this creature takes damage you may choose
-to take the damage instead. You die instantly if your soul bound creature dies.
+You are bound to one creature. When this creature takes damage you may choose to take the damage instead. You die instantly if your soul bound creature dies.
 ```
 
 ```
 Name: Jumping
 Description:
-You are capable of expending a bonus action to jump 20 feet into the air, in one
-direction, or a mixture of the two.
+You are capable of expending a bonus action to jump 20 feet into the air, in one direction, or a mixture of the two.
 ```
 
 ```
 Name: Thermal Coating
 Description:
-You have a natural coating of fur or some other thermal layer, this allows you
-to ignore the effects of an exceedingly cold or hot environment, such as a
-tundra or a desert.
+You have a natural coating of fur or some other thermal layer, this allows you to ignore the effects of an exceedingly cold or hot environment, such as a tundra or a desert.
 ```
 
 ```
 Name: Feat Savant
 Description:
-You have the benefits of a single feat from Feats.md. You may not take any other
-Bodily feature if you take this bodily feature
+You have the benefits of a single feat from Feats.md. You may not take any other Bodily feature if you take this bodily feature
 ```
 
 ```
 Name: Mutation
 Description:
-You gain one minor beneficial corruption and may also take one neutral 
-corruption. After gaining this bodily feature you may substitute any number of 
-other bodily features granted to you by your GM for minor beneficial corruptions 
-from AccursedJournal.md.
+You gain one minor beneficial and neutral corruption of your choice. After gaining this bodily feature you may substitute any number of other bodily features granted to you by your GM for minor beneficial corruptions from accursedJournal.md.
 ```
 
 ```
 Name: Tentacles
 Description:
-You have tentacles somewhere on your body. As an action you may attempt to 
-grapple someone with these tentacles, restraining them on a success.
+You have tentacles somewhere on your body. As an action you may attempt to grapple someone with these tentacles, restraining them on a success.
 ```
 
 ```
 Name: Duplipedal
 Description:
-You walk on four or more legs, giving some benefits and causing some issues. You
-gain advantage on saves against being knocked prone, and your movement speed is
-doubled. It may be hard or even impossible for you to ascend ladders or slopes
-not specifically designed with your stature in mind.  
+You walk on four or more legs, giving some benefits and causing some issues. You gain advantage on saves against being knocked prone, and your movement speed is doubled. It may be hard or even impossible for you to ascend ladders or slopes not specifically designed with your stature in mind.  
 ```
 
 ## Racial Presets
-Within a fantasy world there are often many different kinds of races, from 
-mundane humans exactly like the world we truly live in, to fantastical giants
-and dragonfolk. No race is beyond the limits of the bodytype model. The 
-following collections of body presets describe some fantasy races.
+Within a fantasy world there are often many different kinds of races, from mundane humans exactly like the world we truly live in, to fantastical giants and dragonfolk. No race is beyond the limits of the bodytype model. The following collections of body presets describe some fantasy races.
 
 ### Human
 Humans are just the same as standard real humans. Humans commonly stand 
@@ -542,6 +465,4 @@ Size: Medium/Large
 Bodily Features: Darkvision (Shades of Red), Strong Build, Toughness
 OR
 Bodily Features: Darkvision (Shades of Red), Nimble, Agile
-OR
-
 ```

@@ -128,40 +128,50 @@ attack.
 
 ### Tread Lightly 
 - **Requires: level 3**
+
 You do not take fall damage from a fall of 60 feet or fewer. You also do not make any noise when taking footsteps, granting you advantage on stealth checks while unseen.
 
 ### Stunning Blow
 - **Requires: level 3**
+
 You expend 2 hit dice and turn one of your unarmed strikes into a stunning blow. The target of this attack must make a constitution saving throw or be stunned until the start of your next turn. You may only use this art once in a turn. 
 
 ### Evasion
 - **Requires: level 6**
+
 When you are forced to make a dexterity saving throw against a damaging effect you take half damage on a failure and no damage on a success.
 
 ### Bodily Purity
 - **Requires: level 6**
+
 You gain immunity to disease and poison.
 
 ### Pressure Points
 - **Requires: level 6**
+
 When you make an unarmed strike and get a natural roll of 20, you may add an additional die of damage to the attack.
 
 ### Universal resilience
 - **Requires: level 6**
+
 You gain proficiency in all saving throws. When you fail a saving throw you may expend 2 hit dice and attempt the roll again. 
 
 ### Universal resistance
 - **Requires: level 6**
+
 As a reaction to taking damage you may expend 3 hit dice and gain resistance to all damage types until the end of your next turn. 
 
 ### Essential Strike
 - **Requires: level 10**
+
 As an action you expend 3 hit dice and strike one creature within your reach. The target must make a constitution saving throw or take 6d10 force damage. If the target is reduced to or below 0 hitpoints you may choose for them to be reduced to 1 hitpoint and fall unconscious for 8 hours instead, otherwise they instantly die.
 
 ### Attunement
 - **Requires: level 10**
+
 As an action you may expend 5 hit dice to attune completely to your mind and body, gathering your thoughts, becoming mindful of each motion of your body and each thought which passes. You expend your entire turn and gain advantage on all attack rolls, ability checks, and saving throws for 1 minute.
 
 ### Limitless
 - **Requires: level 10**
+
 As an action you may expend 10 hit dice and bolster your spiritual aura as a shield around you. For the next 5 turns you fall under the effect of the [Invincibility](https://github.com/ErinaTheDummy/SwordToShield/blob/main/SpellCompendium.md#:~:text=they%20fall%20dead.-,Invincibility) spell. You may only use this technique once per rest, as it is especially physically taxing.

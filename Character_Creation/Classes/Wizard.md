@@ -8,9 +8,7 @@
 #   \/  \/|_/___\__,_|_|  \__,_|                                               #
 ################################################################################
 ```
-Wizards are those who study the mystic arts, finding ways to manipulate the mana
-found all across creation for use in spells and rituals. Powerful wizards are
-capable of performing feats of magic unlike anything one could imagine.
+Wizards are those who study the mystic arts, finding ways to manipulate the mana found all across creation for use in spells and rituals. Powerful wizards are capable of performing feats of magic unlike anything one could imagine.
 
 ## Hit Die
 Your hit die is a d4
@@ -19,8 +17,7 @@ Your hit die is a d4
 Your starting hitpoints are 4 + your constitution modifier
 
 ## Skills
-You gain proficiency in 3 skills of your choice. You also gain proficiency in
-mana.
+You gain proficiency in 3 skills of your choice. You also gain proficiency in mana.
 
 ```
 | --------------- | -------------------------------------------------- |
@@ -49,10 +46,10 @@ MSG = Maximum Spell Glyphs
 +-----+-------+----+-----+----------+------------------------------------------+
 |   1 |     0 | 2  | +1  |  8       | Glyph Casting, Learned Spells            |
 |   2 |   300 | 4  | +1  |  16      | Hitpoint Increase                        |
-|   3 |   900 | 6  | +2  |  28      | Hitpoint Increase                       |
-|   4 |  1800 | 8  | +2  |  36      | Hitpoint Re-roll                        |
+|   3 |   900 | 6  | +2  |  28      | Hitpoint Increase                        |
+|   4 |  1800 | 8  | +2  |  36      | Hitpoint Re-roll                         |
 |   5 |  3600 |10  | +2  |  44      | Ability Score Increase                   |
-|   6 |  6100 |12  | +2  |  52      | Wizard Speciality                        |
+|   6 |  6100 |12  | +2  |  52      | Wizard Specialty                         |
 |   7 |  9100 |14  | +3  |  60      |                                          |
 |   8 | 13100 |16  | +3  |  68      | Ability Score Increase                   |
 |   9 | 22600 |18  | +4  |  80      |                                          |
@@ -62,11 +59,8 @@ MSG = Maximum Spell Glyphs
 ```
 
 ### Glyph Casting
-You are capable of casting spells using magical glyphs that corrospond to 
-different forms of mana. Your casting modifier for casting is intelligence, 
-when a spell refers to a saving throw the DC is equal to 8 + Your proficiency 
-bonus + Your intelligence modifier. Refer to the following chart for the amount
-of glyphs you must write for each spell:
+You are capable of casting spells using magical glyphs that correspond to different forms of mana. Your casting modifier for casting is intelligence, when a spell refers to a saving throw the DC is equal to 8 + Your proficiency 
+bonus + Your intelligence modifier. Refer to the following chart for the amount of glyphs you must write for each spell:
 
 ```
 
@@ -83,80 +77,43 @@ of glyphs you must write for each spell:
 
 ``` 
 
-In order to prepare a spell you must know the glyphs used in its creation, and 
-you must write exactly the amount noted for the spell level, as well as the 
-spell you intend to cast with those glyphs.
+In order to prepare a spell you must know the glyphs used in its creation, and you must write exactly the amount noted for the spell level, as well as the spell you intend to cast with those glyphs.
 
-Once you cast a spell using the glyphs you have written in your spellbook they
-disappear. You may write more glyphs in your spellbook over the course of a
-minute by expending an amount of hit die, and rolling them, adding your 
-intelligence modifier to each roll, and writing the resulting number of glyphs 
-in your spellbook. Refer to the maximum spell glyphs column of the wizard level 
-chart to determine the maximum amount of glyphs you may have written in your 
+Once you cast a spell using the glyphs you have written in your spellbook they disappear. You may write more glyphs in your spellbook over the course of a minute by expending an amount of hit die, and rolling them, adding your intelligence modifier to each roll, and writing the resulting number of glyphs in your spellbook. Refer to the maximum spell glyphs column of the wizard level chart to determine the maximum amount of glyphs you may have written in your 
 spellbook at a given level.
 
 ### Learned Spells
-You learn 3 cantrips and 4 first level spells from the wizard spell list. You 
-learn 2 more spells from the wizard spell list of any spell level you are 
-capable of casting each time you level up; this may not be a spell higher than
-6th level, if you wish to learn those they must be found within the world your
-character occupies. Due to the fact that you learn magic through study or by 
-happenstance you may learn new spells by copying their glyphs into your 
-spellbook. 
+You learn 3 cantrips and 4 first level spells from the wizard spell list. You learn 2 more spells from the wizard spell list of any spell level you are capable of casting each time you level up; this may not be a spell higher than 6th level, if you wish to learn those they must be found within the world your character occupies. Due to the fact that you learn magic through study or by happenstance you may learn new spells by copying their glyphs into your spellbook. 
 
 ### Hitpoint Increase
 Your hitpoints increase by 1d4 + your constitution modifier.
 
 ### Hitpoint Re-roll
-Roll 2d4+4 and add 3 times your constitution modifier. If the result is 
-higher than your current maximum that becomes your new hitpoint maximum. You may
-repeat this every time you level up. 
+Roll 2d4+4 and add 3 times your constitution modifier. If the result is higher than your current maximum that becomes your new hitpoint maximum. You may repeat this every time you level up. 
 
 ### Ability Score Increase
-You may increase one of your ability scores by 2 or two of them by 1. You may 
-forgo your ability score increase and take a feat instead.
+You may increase one of your ability scores by 2 or two of them by 1. You may forgo your ability score increase and take a feat instead.
 
-### Wizard Speciality
-You learn a technique in a special field of wizardry, allowing you to raise your
-abilities to new horizons. Choose one wizard speciality. 
+### Wizard Specialty
+You learn a technique in a special field of wizardry, allowing you to raise your abilities to new horizons. Choose one wizard specialty. 
 
-#### Wizard Speciality: Cantrip Master
-You learn 2 cantrips from the wizard spell list. Rather than using one glyph to
-inscribe one cantrip, you may now inscribe two of the same cantrip using only 
-one glyph. You also roll an additional damage die when rolling damage for your 
-cantrips.
+#### Wizard Specialty: Cantrip Master
+You learn 2 cantrips from the wizard spell list. Rather than using one glyph to inscribe one cantrip, you may now inscribe two of the same cantrip using only one glyph. You also roll an additional damage die when rolling damage for your cantrips.
 
-#### Wizard Speciality: Battlecaster
-You have hardened yourself for battle. Your hitpoint maximum increases by five.
-You may inscribe special glyphs into a weapon or set of armor in order to grant
-yourself proficiency with them, These glyphs occupy 4 of your maximum glyphs per
-set of armor or weapon.
+#### Wizard Specialty: Battlecaster
+You have hardened yourself for battle. Your hitpoint maximum increases by five. You may inscribe special glyphs into a weapon or set of armor in order to grant yourself proficiency with them, These glyphs occupy 4 of your maximum glyphs per set of armor or weapon.
 
-#### Wizard Speciality: Adept Scribe
-When writing glyphs in your spellbook you may use a d10 in place of your d4 hit 
-die for the purpose of rolling how many glyphs you write. You also learn 5 
-wizard spells.
+#### Wizard Specialty: Adept Scribe
+When writing glyphs in your spellbook you may use a d10 in place of your d4 hit die for the purpose of rolling how many glyphs you write. You also learn 5 wizard spells.
 
-#### Wizard Speciality: Spellmaker
-You create three special new spells of any spell level 4 or below and learn 
-them. You are capable of preparing them as any other spell. Your GM must approve
-these spells before you use them; if they do not then your head explodes the 
-first time you attempt to cast one of the special spells, killing you instantly.
+#### Wizard Specialty: Spellmaker
+You create three special new spells of any spell level 4 or below and learn them. You are capable of preparing them as any other spell. Your GM must approve these spells before you use them; if they do not then your head explodes the first time you attempt to cast one of the special spells, killing you instantly.
 
-#### Wizard Speciality: Flexible Casting
-You may write an amount of blank glyphs capable of casting one spell of a level
-of your choice, without designating which spell. You may expend these glyphs to
-cast one spell you know of the spell level you chose or lower. After you cast a
-spell in this way you may not do so again until you complete a rest. You may 
-also change the damage type of a spell to your choice from Acid, Fire, Cold,
-Poison, Lightning, Thunder, or Force while casting it by replacing one of the 
-glyphs in the spell as a free object interaction.
+#### Wizard Specialty: Flexible Casting
+You may write an amount of blank glyphs capable of casting one spell of a level of your choice, without designating which spell. You may expend these glyphs to cast one spell you know of the spell level you chose or lower. After you cast a spell in this way you may not do so again until you complete a rest. You may also change the damage type of a spell to your choice from Acid, Fire, Cold, Poison, Lightning, Thunder, or Force while casting it by replacing one of the glyphs in the spell as a free object interaction.
 
 ### Epic Spells
-You are capable of casting 6th level spells, Spells which are so strong that
-they incur great physical toll. When you cast a 6th level spell, you lose the
-ability to cast spells for 1d4 * 7 days. You may not cast a 6th level spell more
-than once in a year.
+You are capable of casting 6th level spells, Spells which are so strong that they incur great physical toll. When you cast a 6th level spell, you lose the ability to cast spells for 1d4 * 7 days. You may not cast a 6th level spell more than once in a year.
 
 ---
 
@@ -338,4 +295,4 @@ than once in a year.
 ## 6th Level Spells
 - Black Hole
 - Time Jump
-- Grand Ressurrection
+- Grand Resurrection
