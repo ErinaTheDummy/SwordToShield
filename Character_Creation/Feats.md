@@ -9,9 +9,7 @@
 ################################################################################
 
 ```
-Feats are optional features you may add to your character instead of taking
-an ability score increase, certain feats may require you already have certain 
-bodily features or another feat!
+Feats are optional features you may add to your character instead of taking an ability score increase, certain feats may require you already have certain innate features or another feat!
 
 ## Knowledge Feats
 Knowledge feats come from learning something new and gaining an advantage from that. 
@@ -109,7 +107,7 @@ Bodily features originate from new growth on your physical form.
 Choose one of your speed types, this type increases by 15 feet and no longer provokes attacks of opportunity.
 
 ### Extra Bodily Feature
-You gain 1 bodily feature that you did not pick at character creation. Restrictions may apply, so ask your GM first.
+You gain 1 innate feature that you did not pick at character creation. Restrictions may apply, so ask your GM first.
 
 ### Growth
 You grow one size larger, to a maximum of size huge. This changes your body size respectively.

@@ -134,7 +134,7 @@ Corruptions are, sometimes irreversible, mutations to your character brought on 
 Your shadow detaches from your body, gaining a mind of its own and stats and features identical to yours. It has values antithetical to yours and may either attack you the moment it is detached or it may go out into the world seeking a way to thwart you over time. This corruption may not be cured until your shadow has been vanquished and until then you have no shadow.
 
 #### Curse (2)
-You are inflicted with a random curse.
+You are inflicted with a random curse, this curse cannot be removed unless you remove this corruption.
 
 #### Soul Consumption (3)
 Your soul is consumed. If you die you are obliterated.
@@ -439,6 +439,110 @@ It is impossible for you to be struck by lightning from a cloud. And you gain re
 
 #### Mandibles (20)
 You grow spider-like mandibles on your face. You may attack a creature within 5 feet of you with them for 1d6 piercing damage and you may manipulate small objects with them.
+
+### Good corruptions
+
+#### Awakened Mind (1)
+You may speak telepathically with any creature within 120 feet of you regardless of if you share a language or not.
+
+#### Gift of Tongues (2)
+You are capable of understanding any spoken language and any time you speak with intention to share or convey a message, request, or question anyone you're directly speaking to understands what you mean even if you are speaking complete gibberish
+
+#### Elemental Neutralization (3)
+Your skin secretes a thick substance which neutralizes one type of damage which you become immune to. Roll a 1d6 and refer to the following chart.
+
+```
+|  Roll (1d6)  |  Type      |
+| ------------ | ---------- |
+|  1           |  acid      |
+|  2           |  cold      |
+|  3           |  fire      |
+|  4           |  thunder   |
+|  5           |  lightning |
+|  6           |  radiant   |
+```
+
+#### Muscular Growth (4)
+Your muscles grow large and unruly. You gain a +4 to your strength score. 
+
+#### Magical Connection (5)
+Attuned to the corrupted magic within you, you may cast detect magic at will. 
+
+#### Elegant form (6)
+You grow slender and light. You gain a +4 to your dexterity score
+
+#### Shimmering Skin (7)
+Your skin shimmers with different colors and hues like that of a chameleon. As an action you may control the colors of your skin, allowing you to turn invisible unless a creature succeeds a DC 20 investigation or perception check to spot you. You become visible again one turn after you move or take another action.
+
+#### Displacement (8)
+As a bonus action you may form a double of yourself which runs from your current position and to another position within your movement speed. This double is incorporeal and has the same AC as you but only 1 hitpoint. When this double is reduced to 0 or fewer hitpoints it disappears. 
+
+#### Magical Absorption (9)
+Whenever you take magical damage from a spell you regain a number of mana, glyphs, grace, or other similar casting stat equivalent to half the level of the spell which damaged you (rounded up). If you do not cast spell you instead gain advantage on your next attack after taking magical damage from a spell
+
+#### Hitpoint Increase (10)
+Your hitpoints increase by 1d10 + your constitution modifier
+
+#### Incorporeality (11)
+As an action on your turn you may expend 1d4 (rolled before expending) hit dice and become incorporeal. While Incorporeal you are immune to all damage types except force and radiant, can pass through any barrier of nonmagical material, and you do not need to breathe. If you end your turn in the area of an object you take 20 force damage and are expelled to the nearest empty location. You may become corporeal again as an action.  
+
+#### Absorption (12)
+If you are immune to a damage type you regain hitpoints equal to the damage you would take if you were not immune when you are targeted by an effect that deals that damage type. If you are not already immune to a damage type you gain the effects of "Elemental Immunity" but not the effects of this corruption.
+
+#### Hyper Regeneration (13)
+At the start of each of your turns you regain 1d8 + your constitution modifier hitpoints.
+
+#### Otherworldly Boon (14)
+A random creature across the planes learns of your existence and wishes you success. Once per session whenever you fail a check your GM may choose for you to succeed instead, as your otherworldly benefactor tips the scales in your balance. roll a 1d4 for which creature learns of you from the following:
+
+```
+| Roll (1d4) | Creature     |
+| ---------- | ------------ |
+| 1          | Angel        |
+| 2          | Devil        |
+| 3          | Spider Queen |
+| 4          | Undead Lord  |
+```
+
+#### Immortality (15)
+The parts of your genes responsible for aging become corrupted, stopping you from ever aging again by magical or natural means.
+
+#### Altered Time Rate (16)
+Your body is disrupted by corrupted mana, separating you from standard time. On your turn you gain an additional action, your movement speed is doubled, and you may make investigation or perception checks to spot something as a free action rather than as an action. Everyone around you seems to move in half speed, and you seem to move in double speed to everyone around you.
+
+#### Healthy Minded (17)
+Your wisdom and intelligence scores both increase by 3
+
+#### Irresistible beauty (18)
+Your appearance alters to be that of a typically attractive person of your build and stature. Your charisma score increases by 4. People attracted to you are more likely to help you when you ask. 
+
+#### Supernatural Durability (19)
+Your soul is tightly bound to your body. You do not fall unconscious from falling to or below 0 hitpoints, and only die if your total damage taken puts you into -2 * your max hp. You should still make death saving throws at or below 0 hitpoints, but you only die if you fail 3 continuous death saves.
+
+#### Extra Life (20)
+When you die you get a second chance at life. Upon dying roll 1d4 for the method of your second chance.
+
+```
+|  Roll (1d4)  |  Method                                                             |
+| ------------ | ------------------------------------------------------------------- |
+|  1           |  A plant grows from your corpse. In 1d4 days a physical copy of you |
+|              |  grows from this plant with all the same features and class levels  |
+|              |  This copy of you has the "Plant" creature type and you control it. |
+| ------------ | ------------------------------------------------------------------- |
+|  2           |  You quickly regenerate and your fatal wounds are closed. Your      |
+|              |  hitpoints return to full and your hit dice are restored. You lose  |
+|              |  any curses or negative corruptions you had also.                   |
+| ------------ | ------------------------------------------------------------------- |
+|  3           |  Your soul jumps to the body of another creature of the same type   |
+|              |  as you within the same plane you died on. You retain any features  |
+|              |  unrelated to your physical build and your body becomes that of the |
+|              |  creature.                                                          |
+| ------------ | ------------------------------------------------------------------- |
+|  4           |  You wake up 1d4 days later in the nearest calm body of fresh water,|
+|              |  completely safe and intact, as the moon glows overhead.            |
+|              |                                                                     |
+| ------------ | ------------------------------------------------------------------- |
+```
 
 
 ## Madness

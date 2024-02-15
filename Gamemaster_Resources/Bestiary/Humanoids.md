@@ -16,8 +16,7 @@ Humanoids are equally Humanoid, just in a different flavor.
 
 
 ### Commoners
-Commoners are ordinary Humanoids with no interesting features or abilities outside
-of bodily features.
+Commoners are ordinary Humanoids with no interesting features or abilities outside of innate features.
 
 ```
 

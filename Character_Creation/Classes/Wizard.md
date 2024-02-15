@@ -101,13 +101,13 @@ You learn a technique in a special field of wizardry, allowing you to raise your
 You learn 2 cantrips from the wizard spell list. Rather than using one glyph to inscribe one cantrip, you may now inscribe two of the same cantrip using only one glyph. You also roll an additional damage die when rolling damage for your cantrips.
 
 #### Wizard Specialty: Battlecaster
-You have hardened yourself for battle. Your hitpoint maximum increases by five. You may inscribe special glyphs into a weapon or set of armor in order to grant yourself proficiency with them, These glyphs occupy 4 of your maximum glyphs per set of armor or weapon.
+You have hardened yourself for battle. Your hitpoint maximum increases by 14. You may inscribe special glyphs into a weapon or set of armor in order to grant yourself proficiency with them, These glyphs occupy 4 of your maximum glyphs per set of armor or weapon.
 
 #### Wizard Specialty: Adept Scribe
 When writing glyphs in your spellbook you may use a d10 in place of your d4 hit die for the purpose of rolling how many glyphs you write. You also learn 5 wizard spells.
 
 #### Wizard Specialty: Spellmaker
-You create three special new spells of any spell level 4 or below and learn them. You are capable of preparing them as any other spell. Your GM must approve these spells before you use them; if they do not then your head explodes the first time you attempt to cast one of the special spells, killing you instantly.
+You create three special new spells of any spell level 4 or below and learn them. You are capable of preparing them as any other spell. Alternatively you may create one spell of level 5. Your GM must approve these spell(s) before you use them; if they do not then your head explodes the first time you attempt to cast one of the special spells, killing you instantly. 
 
 #### Wizard Specialty: Flexible Casting
 You may write an amount of blank glyphs capable of casting one spell of a level of your choice, without designating which spell. You may expend these glyphs to cast one spell you know of the spell level you chose or lower. After you cast a spell in this way you may not do so again until you complete a rest. You may also change the damage type of a spell to your choice from Acid, Fire, Cold, Poison, Lightning, Thunder, or Force while casting it by replacing one of the glyphs in the spell as a free object interaction.
@@ -224,6 +224,7 @@ You are capable of casting 6th level spells, Spells which are so strong that the
 ## 3rd Level Spells
 - Blink
 - Clairvoyance
+- Counterspell
 - Barrage
 - Create Food and Water
 - Dispel Magic
@@ -256,6 +257,7 @@ You are capable of casting 6th level spells, Spells which are so strong that the
 - Snowball
 
 ## 4th Level Spells
+- Arcane Eye
 - Banish
 - Blight
 - Confusion
@@ -279,6 +281,7 @@ You are capable of casting 6th level spells, Spells which are so strong that the
 - Cardiac Arrest
 - Conjure Devil
 - Scrying
+- Chain Lightning
 
 ## 5th Level Spells
 - Conjure Demon

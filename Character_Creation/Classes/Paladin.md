@@ -140,7 +140,7 @@ You may increase one of your ability scores by 2 or two of them by 1. You may fo
 When you take the attack action, you may make two attacks instead of one.
 
 ### Improved Divine Smite
-You learn how to channel special energy into your divine smite. Choose one effect from the following to have permanently applied to your smites:
+You learn how to channel special energy into your divine smite. Each day at dawn choose one effect from the following to have applied to your smites:
 
 #### Additional damage
 An additional die is rolled when determining the damage of your smite.
@@ -152,7 +152,7 @@ The light of your smite blinds your opponents, they must make a constitution sav
 Your smite marks your enemies for death, after smiting a target they must make a constitution save against your spell DC or lose all benefits from being invisible and have all attacks made against them at advantage until the start of your next turn.
 
 #### Explosive Smite
-When you target a creature with a smite all creatures (excluding you) within 5 feet of your target must make a dexterity saving throw against your spell DC or take half the amount of radiant damage your target took.
+When you target a creature with a smite 4 creatures of your choice within 5 feet of your target must make a dexterity saving throw against your spell DC or take half the amount of radiant damage your target took.
 
 ---
 

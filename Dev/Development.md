@@ -70,8 +70,8 @@ bestiary
 ```Note: Did not complete all goals, presumed complete in order to wipe clean```
 
 ### ~~Complete Character Creation Document: Body Types~~
-~~Create a body type creation guide with a choice of body size, bodily features,
-and bodily ASI. 10+ bodily features each for Biological, Supernatural, and 
+~~Create a body type creation guide with a choice of body size, innate features,
+and bodily ASI. 10+ innate features each for Biological, Supernatural, and 
 Abiotic.~~
 
 ### ~~Complete Character Creation Document: Backgrounds~~

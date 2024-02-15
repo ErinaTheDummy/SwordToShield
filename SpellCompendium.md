@@ -3801,8 +3801,7 @@ Components: V/S/M (A blend of herbs worth 300 GP)
 Duration: instantaneous
 Casting Time: 10 minutes
 Description:
-You perform a ritual of restoration on one creature, curing them of any disease,
-curse, or parasite. 
+You perform a ritual of restoration on one creature, curing them of any disease, corruption, curse, or parasite, and restoring all of their sanity. 
 
 ``` 
 
@@ -4363,7 +4362,7 @@ this spell is the soul of An'Ire the spell automatically summons The Nothing.
 
 ```
 
-Grand Ressurrection (6th) (5)
+Grand Resurrection (6th) (5)
 
 Range: Unlimited
 Components: V/M (A living soul which is obliterated during casting)

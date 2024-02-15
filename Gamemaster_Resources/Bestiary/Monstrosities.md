@@ -9,14 +9,10 @@
 ################################################################################
 
 ```
-Monstrosities are cruel and disgusting abominations brough on by magical 
-corruption or the transmutation of two creatures. A sad truth is that most
-monstrosities are made through divine curse upon the wicked or at the hands of a 
-maddened wizard looking for a perfect killing machine to serve their will.
+Monstrosities are cruel and disgusting abominations brought on by magical corruption or the transmutation of two creatures. A sad truth is that a large amount of monstrosities are made through divine curse upon the wicked or at the hands of a maddened wizard looking for a perfect killing machine to serve their will. Other times monstrosities evolve alongside other creatures with the aid of magical acceleration, granting them more unique niches within a biome. 
 
 ## Abominations
-Abomination is the subdesignation for monstrosities created through 
-transmuation. All abominations were made by magic falling into unforunate hands.
+Abomination is the sub-designation for monstrosities created through transmutation. All abominations were made by magic falling into unfortunate hands.
 
 ### Viper Wolves
 Viper wolves were made with the perfect hunting ability of wolves and the deadly
