@@ -52,13 +52,9 @@ Mortis oversees the passage of all mortal things. Mortis is as old as An'Ire, bu
 Greater Deity (Forgotten, Dead)
 
 Androgynous Presence
-
 Domains: Deceit, Freedom, Power, Murder
-
 Posture: Deceitful and cunning, willing to do anything to undo creation.
-
 Symbol: a hand holding a sword or a crown of thorns lined with jewels. Various others exist as well, ranging from
-
 imitating the symbols of other gods to being entirely unique.
 
 Maldrin (Mal-drin) was a god gone rogue against the order of the heavens. Maldrin's primary directive was to spread pain, and fear, and sow destruction. He was cast from the heavens and hid under creation; as his allies and corrupt-ors, The Leviathans, were sealed away by An'Ire. Because of his unique relationship with the primordial leviathans, he held a grudge against all of An'Ire's creations, and would have destroyed them in an instant if he was given the chance. Maldrin appeared in any form best suited to persuade those he met, Appearing as a red, goat legged, horned devil to fiends, a mass of tentacles and teeth to monstrosities, a radiant being of light and beauty to Humanoids, in addition to many other forms.
