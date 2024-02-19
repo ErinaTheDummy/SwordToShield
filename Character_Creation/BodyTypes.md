@@ -290,7 +290,7 @@ You gain a burrowing speed equal to half your walking  (minimum 15)
 Name: Innate Casting
 Cost: 2 points
 Description: 
-You gain one cantrip and use your choice of Constitution, Intelligence, Wisdom or Charisma as your casting modifier. When you cast this spell you expend one hit die. 
+You gain one cantrip or first level spell and use your choice of Constitution, Intelligence, Wisdom or Charisma as your casting modifier. In order to cast this spell you must expend one hit die. 
 ```
 
 ```
@@ -439,12 +439,14 @@ Cost: 1 point
 Description:
 You have a natural coating of fur or some other thermal layer, this allows you to ignore the effects of an exceedingly cold or hot environment, such as a tundra or a desert.
 ```
+
 ```
 Name: Feat Savant
 Cost: 8 points
 Description:
 You have the benefits of a single feat from Feats.md.
 ```
+
 ```
 Name: Mutation
 Cost: 1 point, 2 for each additional minor beneficial corruption after the first
