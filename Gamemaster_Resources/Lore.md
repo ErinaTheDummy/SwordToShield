@@ -49,11 +49,10 @@ Symbol: A scythe or a skull.
 Mortis oversees the passage of all mortal things. Mortis is as old as An'Ire, but is speculated by some to be older. Mortis does not take warlocks or priests, and remains completely neutral in almost all matters except when it amuses him. Mortis' Legion of reapers however, often take a more active approach and siphon his power to warlocks and priests who worship him.
 
 ### Maldrin
-Greater Deity (Forgotten, Dead)
-
-Androgynous Presence
-Domains: Deceit, Freedom, Power, Murder
-Posture: Deceitful and cunning, willing to do anything to undo creation.
+Greater Deity (Forgotten, Dead)\
+Androgynous Presence\
+Domains: Deceit, Freedom, Power\
+Posture: Deceitful and cunning, willing to do anything to undo creation.\
 Symbol: a hand holding a sword or a crown of thorns lined with jewels. Various others exist as well, ranging from
 imitating the symbols of other gods to being entirely unique.
 
