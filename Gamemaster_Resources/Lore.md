@@ -24,28 +24,42 @@ Across the realms there are many gods. These gods preside over the domains that 
 
 ### An'Ire
 Greater Deity
+
 Feminine Presence
+
 Domains: Creation, Invention, Life
+
 Posture: Warm, welcoming, and forgiving, like any good, kind mother 
+
 Symbol: A hand holding a tool
 
 An'Ire (An-Eye-Er), Considered by most as the eldest of the gods, is the goddess of creation and invention. She is the patron of inventors and artists across existence. She holds a deep love for all creations, even those that are not her own. She is known from time to time to strike inventors and artists with inspiration for great works and she grants a boon of Golem creation onto her high priests. Most high priests of An'Ire are women who are mothers or artists.
 
 ### Mortis
 Greater Deity
+
 Masculine Presence
+
 Domains: Death, Law, Peace
+
 Posture: Emotionally neutral, but startling kind, with a sense of humor. 
+
 Symbol: A scythe or a skull.
 
 Mortis oversees the passage of all mortal things. Mortis is as old as An'Ire, but is speculated by some to be older. Mortis does not take warlocks or priests, and remains completely neutral in almost all matters except when it amuses him. Mortis' Legion of reapers however, often take a more active approach and siphon his power to warlocks and priests who worship him.
 
 ### Maldrin
 Greater Deity (Forgotten, Dead)
+
 Androgynous Presence
+
 Domains: Deceit, Freedom, Power, Murder
+
 Posture: Deceitful and cunning, willing to do anything to undo creation.
-Symbol: a hand holding a sword or a crown of thorns lined with jewels. Various others exist as well, ranging from imitating the symbols of other gods to being entirely unique.
+
+Symbol: a hand holding a sword or a crown of thorns lined with jewels. Various others exist as well, ranging from
+
+imitating the symbols of other gods to being entirely unique.
 
 Maldrin (Mal-drin) was a god gone rogue against the order of the heavens. Maldrin's primary directive was to spread pain, and fear, and sow destruction. He was cast from the heavens and hid under creation; as his allies and corrupt-ors, The Leviathans, were sealed away by An'Ire. Because of his unique relationship with the primordial leviathans, he held a grudge against all of An'Ire's creations, and would have destroyed them in an instant if he was given the chance. Maldrin appeared in any form best suited to persuade those he met, Appearing as a red, goat legged, horned devil to fiends, a mass of tentacles and teeth to monstrosities, a radiant being of light and beauty to Humanoids, in addition to many other forms.
 
