@@ -316,14 +316,14 @@ Your Pushing, Carrying, and Lifting capacity is multiplied by 3.
 
 ```
 Name: Shape-shifting
-Cost: 4 points, 3 if size tiny or huge
+Cost: 6 points, 5 if size tiny or huge
 Description:
 As an action you may change your appearance and voice, it may be an appearance and voice of your own creation or the appearance and voice of another person. You may alter your size to be one size larger or smaller than your current size but you gain no benefits from altering your size and you cannot be made a size larger than huge or smaller than tiny. Your clothing is unaffected by this change.
 ```
 
 ```
 Name: Gills
-Cost: 2 points
+Cost: 4 points
 Description:
 You are capable of breathing underwater.
 ```
@@ -416,12 +416,12 @@ You are capable of perfectly reproducing any sound which you have heard before. 
 Name: Breath Weapon
 Cost: 4 points
 Description:
-You are capable expending a hit die to expel a 15 foot cone or 20 foot by 5 foot line of energy (your choice) from your body. When you choose this feature choose a type of damage from: Lightning, Fire, Acid, Poison, Necrotic, or Radiant. A creature caught in the area of effect must make a dexterity saving throw or take 3d6 + Your constitution modifier damage of the type you chose, or half as much on a success.
+You are capable expending a hit die as an action to expel a 15 foot cone or 20 foot by 5 foot line of energy (your choice) from your body. A creature caught in the area of effect must make a dexterity saving throw or take 3d6 + Your constitution modifier damage of the type you chose, or half as much on a success. When you choose this feature choose a type of damage from: Lightning, Fire, Acid, Poison, Necrotic, or Radiant. You may use this feature a number of times equal to your proficiency bonus per rest. 
 ```
 
 ```
 Name: Spikes
-Cost: 1 points
+Cost: 1 points, 4 points to increase damage to 5 piercing, 8 points to increase damage to 8 piercing
 Description:
 Thorny spines cover your body. When a creature successfully grapples or is grappled by you or starts their turn grappling or being grappled by you they take 3 piercing damage.
 ```
@@ -437,7 +437,7 @@ You are capable of expending a bonus action to jump 20 feet into the air, in one
 Name: Thermal Coating
 Cost: 1 point
 Description:
-You have a natural coating of fur or some other thermal layer, this allows you to ignore the effects of an exceedingly cold or hot environment, such as a tundra or a desert.
+You have a natural coating of fur or some other thermal layer, this allows you to ignore the effects of an exceedingly cold or hot environment such as a tundra or a desert (choose which type when you take this bodily feature).
 ```
 
 ```
@@ -477,7 +477,7 @@ On a critical weapon attack you may roll an additional damage die and add that t
 
 ```
 Name: Draining Attack
-Cost: 3 points, 4 if finesse 
+Cost: 4 points, 5 if finesse 
 Description:
 You have some form of natural weapon which increases your unarmed damage die to a d6. When you make an attack with this natural weapon and hit you may expend a hit die and regain hitpoints equal to the damage dealt.
 ```
@@ -587,7 +587,7 @@ You are incapable of speaking, but still understand spoken and written languages
 Name: Blind
 Points Returned: 10 points
 Description:
-You are completely blind, you automatically fail any checks related to sight and cannot see.
+You are completely blind, you automatically fail any checks related to sight and cannot see. You automatically succeed on checks against spells that require you to see them to take an effect (such as hypnotic spiral)
 ```
 
 ```
@@ -618,6 +618,48 @@ Name: Unskilled
 Points Returned: 2
 Description:
 Choose one skill. You have a -2 modifier added to all checks you make with this skill.
+```
+
+```
+Name: Sunlight Weakness
+Points Returned: 4
+Description:
+While standing in the sun or targeting a creature in the sun you have disadvantage on attack rolls and ability checks. 
+```
+
+```
+Name: Sunlight Sensitivity
+Points Returned: 8
+Description:
+Whenever you start your turn standing in sunlight or the area of a spell such as daylight, you take 1d8 radiant damage.
+```
+
+```
+Name: Moonlight Sensitivity
+Points Returned: 6
+Description:
+Whenever you start your turn standing in moonlight you take 1d8 cold damage.
+```
+
+```
+Name: Deaf
+Points Returned: 6
+Description:
+You are completely deaf. You automatically fail hearing based perception checks and cannot hear anything. You automatically succeed on checks against spells that require you to hear them to take an effect (such as command)
+```
+
+```
+Name: Ageusia
+Points Returned: 1
+Description:
+You cannot taste anything, and that's sad :(
+```
+
+```
+Name: Painless
+Points Returned: 2
+Description:
+You cannot feel pain. Whenever damage is dealt to you your GM does not tell you how much damage was sustained, and the GM will privately keep track of your HP. You may visual assess your wounds and have them described by your GM as a free action.
 ```
 
 ## Racial Presets

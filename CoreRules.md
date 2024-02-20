@@ -212,6 +212,7 @@ on your turn there are certain things you may do without expending anything! You
 - Equip: You equip an item from your inventory
 - Speak: You say a sentence or a few words
 - Gesture: You gesture to another creature
+- End Concentration: You end concentration on a spell, ending its effects
 
 #### Making an attack
 When you make an attack, roll 1d20 and add the associated modifiers to the roll. The goal of this roll is to roll above the AC of your target. If your roll beats the AC of your target the attack hits.

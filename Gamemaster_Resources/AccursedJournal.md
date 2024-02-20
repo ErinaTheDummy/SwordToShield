@@ -47,7 +47,7 @@ Diseases exist everywhere there can be people or animals, spreading on the wind 
 A character with bogrot has a constitution score of 8 and disadvantage on constitution checks. Bogrot presents itself as black streaks in the veins of the infected, as well as hair loss and can be caught through bad water. When bogrot is cured the afflicted person's constitution score increases back to 10 or its original amount, whichever is higher.  
 
 ### Specklethorns
-A character with specklethorns is covered in sharp prickly thorns. They have disadvantage on persuasion checks and may spread the infection to others who pick themselves on the thorns.
+A character with specklethorns is covered in sharp prickly thorns. They have disadvantage on persuasion checks and may spread the infection to others who prick themselves on the thorns.
 
 ### Chives
 A character with chives smells strongly of onions and their hair is replaced with the green stalks of a green onion. Characters infected with chives are vulnerable to fire damage.

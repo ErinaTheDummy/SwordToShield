@@ -23,27 +23,19 @@ The following list shows the order in which all the contents of this lore book a
 Across the realms there are many gods. These gods preside over the domains that were created as they were created. The gods are listed in order of creation, with their status next to their name.
 
 ### An'Ire
-Greater Deity
-
-Feminine Presence
-
-Domains: Creation, Invention, Life
-
-Posture: Warm, welcoming, and forgiving, like any good, kind mother 
-
+Greater Deity\
+Feminine Presence\
+Domains: Creation, Invention, Life\
+Posture: Warm, welcoming, and forgiving, like any good, kind mother \
 Symbol: A hand holding a tool
 
 An'Ire (An-Eye-Er), Considered by most as the eldest of the gods, is the goddess of creation and invention. She is the patron of inventors and artists across existence. She holds a deep love for all creations, even those that are not her own. She is known from time to time to strike inventors and artists with inspiration for great works and she grants a boon of Golem creation onto her high priests. Most high priests of An'Ire are women who are mothers or artists.
 
 ### Mortis
-Greater Deity
-
-Masculine Presence
-
-Domains: Death, Law, Peace
-
-Posture: Emotionally neutral, but startling kind, with a sense of humor. 
-
+Greater Deity\
+Masculine Presence\
+Domains: Death, Law, Peace\
+Posture: Emotionally neutral, but startling kind, with a sense of humor.\
 Symbol: A scythe or a skull.
 
 Mortis oversees the passage of all mortal things. Mortis is as old as An'Ire, but is speculated by some to be older. Mortis does not take warlocks or priests, and remains completely neutral in almost all matters except when it amuses him. Mortis' Legion of reapers however, often take a more active approach and siphon his power to warlocks and priests who worship him.
@@ -53,8 +45,7 @@ Greater Deity (Forgotten, Dead)\
 Androgynous Presence\
 Domains: Deceit, Freedom, Power\
 Posture: Deceitful and cunning, willing to do anything to undo creation.\
-Symbol: a hand holding a sword or a crown of thorns lined with jewels. Various others exist as well, ranging from
-imitating the symbols of other gods to being entirely unique.
+Symbol: a hand holding a sword or a crown of thorns lined with jewels. Various others exist as well, ranging from imitating the symbols of other gods to being entirely unique.
 
 Maldrin (Mal-drin) was a god gone rogue against the order of the heavens. Maldrin's primary directive was to spread pain, and fear, and sow destruction. He was cast from the heavens and hid under creation; as his allies and corrupt-ors, The Leviathans, were sealed away by An'Ire. Because of his unique relationship with the primordial leviathans, he held a grudge against all of An'Ire's creations, and would have destroyed them in an instant if he was given the chance. Maldrin appeared in any form best suited to persuade those he met, Appearing as a red, goat legged, horned devil to fiends, a mass of tentacles and teeth to monstrosities, a radiant being of light and beauty to Humanoids, in addition to many other forms.
 
@@ -63,10 +54,10 @@ Maldrin's campaign against the material world ended after he formed a coalition 
 Feeling cornered and caged, Maldrin mistook An'Ire's mercy for a temporary holding. Thinking he would be put to death, he tore himself into seven pieces to slip through his chains, and out of the bars of his cage. Maldrin did not entirely survive this act, but the seven pieces left behind grew into lesser gods of their own. Each piece took on a singular of his beguiling disguises, and they all went their separate ways. Each one of these lesser gods had no memory of being Maldrin, nor did they see each other as family or even equals, their evil nature undoing any hope for Maldrin's efforts. 
 
 ### Skotos
-Lesser Deity (Unknown)
-Feminine Presence
-Domains: Deceit, Freedom, Wealth
-Posture: Outwardly humorous and agreeable, but secretly smug and detesting 
+Lesser Deity (Unknown)\
+Feminine Presence\
+Domains: Deceit, Freedom, Wealth\
+Posture: Outwardly humorous and agreeable, but secretly smug and detesting\
 Symbol: A hand holding a shield
 
 With the appearance of a beautiful human woman that has long flowing white hair, any one of thousands of facial arrangements and complexions, flowing golden robes, and graceful wings like those of a dove, it is forgivable that Skotos could be mistaken for an angel or goddess of light. Although shrouded in folds of light, her intentions are entirely impure. Her harmonic, harp-like voice only serving as a tool to deceive. Skotos is the patron deity of all those who harbor such greed that they justify any means to satiate it. She often makes one-sided deals with humanoids, tricking them into giving up years of their life to heal loved ones, or parts of their souls and a bit of their luck for everlasting life.  
