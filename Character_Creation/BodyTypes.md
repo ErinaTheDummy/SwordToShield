@@ -207,281 +207,282 @@ Due to your impressive size you are a much easier target, giving you disadvantag
 You may wield a two handed weapon of large or smaller size with one hand.
 
 # Innate Features
-Your GM will give you a number of "character points" (usually 10) that you may spend to buy "innate features" for your character, the cost for each innate feature as well as their benefits are listed below. Do note that you are allowed to re-flavor these features as you wish and that they are merely worded in a way to be concise for rulings, rather than for fun, and in games fun is more important than rules.
+Your GM will give you a number of "character points" (usually 10) that you may spend to buy "innate features" for your character, the cost for each innate feature as well as their benefits are listed below. Do note that you are allowed to re-flavor these features as you wish and that they are merely worded in a way to be concise for rulings, rather than for fun, and in games fun is more important than rules. Innate features are numbered for convenience.
 
+1
 ```
 Name: Protective Shell
 Cost: 3 points
 Description: 
 Your AC may not fall below 16.
 ```
-
+2
 ```
 Name: Damage Type Resistance  
 Cost: 3 points
 Description: 
 You gain damage type resistance to one type of damage other than bludgeoning, piercing, or slashing damage.
 ```
-
+3
 ```
 Name: Natural Armor
 Cost: 2 points
 Description: 
 You have a natural armor that grants you a base AC of 13. You may add your dexterity modifier to this AC.
 ```
-
+4
 ```
 Name: 1d6 Natural Weapon
 Cost: 2 points, 3 if finesse
 Description: 
 You have some form of natural weapon which increases your unarmed damage die to a d6. You may make an attack as a bonus action with this weapon.
 ```
-
+5
 ```
 Name: 1d8 Natural Weapon
 Cost: 2 points, 3 if finesse
 Description: 
 You have some form of natural weapon which increases your unarmed damage die to a d8.
 ```
-
+6
 ```
 Name: Retractable Natural Weapon
 Cost: 2 points, finesse or otherwise
 Description: 
 You have some form of natural weapon which increases you unarmed damage die to a d4. this natural weapon is capable of being retracted or abjured as a bonus action.
 ```
-
+7
 ```
 Name: Climbing Speed 
 Cost: 2 points
 Description: 
 You gain a climbing speed equal to your walking speed
 ```
-
+8
 ```
 Name: Wings 
 Cost: 3 points, 4 with no walking speed loss
 Description: 
 You gain a flying speed of 60 feet and your walking speed is reduced by 15.
 ```
-
+9
 ```
 Name: Hover speed 
 Cost: 3 points
 Description: 
 You gain a flying speed equal to your walking speed & remain floating in the air even if you are rendered prone while in the air.
 ```
-
+10
 ```
 Name: Swimming Speed 
 Cost: 2 points
 Description: 
 You gain a swimming speed equal to your walking speed
 ```
-
+11
 ```
 Name: Burrowing Speed
 Cost: 3 points 
 Description:
 You gain a burrowing speed equal to half your walking  (minimum 15)
 ```
-
+12
 ```
 Name: Innate Casting
 Cost: 2 points
 Description: 
 You gain one cantrip or first level spell and use your choice of Constitution, Intelligence, Wisdom or Charisma as your casting modifier. In order to cast this spell you must expend one hit die. 
 ```
-
+13
 ```
 Name: Additional Arms
 Cost: 3 points
 Description:
 You have an additional set of arms, you are capable of making a weapon attack as a bonus action if you wield them in these arms or you may use them to wield a shield.
 ```
-
+14
 ```
 Name: Reach
 Cost: 2 points
 Description:
 Your melee range increases by 5 feet.
 ```
-
+15
 ```
 Name: Strong Build
 Cost: 2 points
 Description:
 Your Pushing, Carrying, and Lifting capacity is multiplied by 3.
 ```
-
+16
 ```
 Name: Shape-shifting
 Cost: 6 points, 5 if size tiny or huge
 Description:
 As an action you may change your appearance and voice, it may be an appearance and voice of your own creation or the appearance and voice of another person. You may alter your size to be one size larger or smaller than your current size but you gain no benefits from altering your size and you cannot be made a size larger than huge or smaller than tiny. Your clothing is unaffected by this change.
 ```
-
+17
 ```
 Name: Gills
 Cost: 4 points
 Description:
 You are capable of breathing underwater.
 ```
-
+18
 ```
 Name: Breath Holding
 Cost: 1 point
 Description: 
 You are capable of holding your breath for long periods of time, up to 1 hour.
 ```
-
+19
 ```
 Name: Keen Smell
 Cost: 2 points
 Description:
 You have advantage on checks that rely on smell.
 ```
-
+20
 ```
 Name: Keen sight
 Cost: 3 points
 Description:
 You have advantage on checks that rely on sight.
 ```
-
+21
 ```
 Name: Keen Hearing
 Cost: 3 points
 Description:
 You have advantage on checks that rely on hearing.  
 ```
-
+22
 ```
 Name: Darkvision
 Cost: 2 points
 Description:
 You can see in darkness within 60 feet of you as if it is bright light and darkness past that as dim light. You see in dim light as if it is bright light You may or may not be able to discern colors in complete darkness, as decided between you and your GM.
 ```
-
+23
 ```
 Name: Agile
 Cost: 3 points
 Description:
 You may expend a hit die and double your movement speed for your turn once per rest.
 ```
-
+24
 ```
 Name: Nimble
 Cost: 4 points
 Description:
 You may disengage or hide as a bonus action on your turn.
 ```
-
+25
 ```
 Name: Damage Immunity
 Cost: 8 points (Fire, Lightning, Necrotic, Force, Thunder, Psychic) 6 points (Radiant, Acid, Cold) 4 points (Poison)
 Description:
 You have immunity to one type of damage. Ask your GM for permission before taking this feature.
 ```
-
+26
 ```
 Name: Charm Resistance
 Cost: 2 points
 Description:
 You have Advantage on saves against being charmed.
 ```
-
+27
 ```
 Name: Magic Resistance 
 Cost: 6 points
 Description:
 You have Advantage on saves made against magical sources.
 ```
-
+28
 ```
 Name: Toughness
 Cost: 4 points if taken once, 8 if taken twice, 16 if taken 3 times
 Description:
 You gain 1 additional maximum hitpoint each level, this increases by one dependent on how many times you take this feat, up to a maximum of 3 additional hitpoints a level.
 ```
-
+29
 ```
 Name: Mimicry
 Cost: 1 point
 Description:
 You are capable of perfectly reproducing any sound which you have heard before. A creature must make an investigation check against your charisma or intelligence + 8 + your prof in order to determine the noise was mimicry.    
 ```
-
+30
 ```
 Name: Breath Weapon
 Cost: 4 points
 Description:
 You are capable expending a hit die as an action to expel a 15 foot cone or 20 foot by 5 foot line of energy (your choice) from your body. A creature caught in the area of effect must make a dexterity saving throw or take 3d6 + Your constitution modifier damage of the type you chose, or half as much on a success. When you choose this feature choose a type of damage from: Lightning, Fire, Acid, Poison, Necrotic, or Radiant. You may use this feature a number of times equal to your proficiency bonus per rest. 
 ```
-
+31
 ```
 Name: Spikes
 Cost: 1 points, 4 points to increase damage to 5 piercing, 8 points to increase damage to 8 piercing
 Description:
 Thorny spines cover your body. When a creature successfully grapples or is grappled by you or starts their turn grappling or being grappled by you they take 3 piercing damage.
 ```
-
+32
 ```
 Name: Jumping
 Cost: 2 points
 Description:
 You are capable of expending a bonus action to jump 20 feet into the air, in one direction, or a mixture of the two.
 ```
-
+33
 ```
 Name: Thermal Coating
 Cost: 1 point
 Description:
 You have a natural coating of fur or some other thermal layer, this allows you to ignore the effects of an exceedingly cold or hot environment such as a tundra or a desert (choose which type when you take this bodily feature).
 ```
-
+34
 ```
 Name: Feat Savant
 Cost: 8 points
 Description:
 You have the benefits of a single feat from Feats.md.
 ```
-
+35
 ```
 Name: Mutation
 Cost: 1 point, 2 for each additional minor beneficial corruption after the first
 Description:
 You gain one minor beneficial and/or neutral corruption of your choice from accursedJournal.md.
 ```
-
+36
 ```
 Name: Tentacles
 Cost: 1 point
 Description:
 You have tentacles somewhere on your body. As an action you may attempt to grapple someone with these tentacles, restraining them on a success.
 ```
-
+37
 ```
 Name: Duplipedal
 Cost: 3 points
 Description:
 You walk on four or more legs, giving some benefits and causing some issues. You gain advantage on saves against being knocked prone, and your movement speed is doubled. It may be hard or even impossible for you to ascend ladders or slopes not specifically designed with your stature in mind.  
 ```
-
+38
 ```
 Name: Critical Attacker
 Cost: 7 points
 Description: 
 On a critical weapon attack you may roll an additional damage die and add that to your total damage.   
 ```
-
+39
 ```
 Name: Draining Attack
 Cost: 4 points, 5 if finesse 
 Description:
 You have some form of natural weapon which increases your unarmed damage die to a d6. When you make an attack with this natural weapon and hit you may expend a hit die and regain hitpoints equal to the damage dealt.
 ```
-
+40
 ```
 Name: Blindsight
 Cost: 4 points
@@ -490,106 +491,107 @@ You have the ability to sense the presence of creature within 60 feet, even if y
 ```
 
 # Optional: Innate Limitations
-Your GM may allow you to take on limitations to your character which give you more character points to buy innate features with! The "points returned" line of each limitation describes how many points you are given back by taking a limitation. You may only take 10 points worth of limitations unless your GM says otherwise.
+Your GM may allow you to take on limitations to your character which give you more character points to buy innate features with! The "points returned" line of each limitation describes how many points you are given back by taking a limitation. You may only take 10 points worth of limitations unless your GM says otherwise. Limitations are numbered for convenience.
 
+1
 ```
 Name: Soulbound
 Points Returned: 2 points
 Description:
 You are bound to one creature. When this creature takes damage you may choose to take the damage instead. You die instantly if your soul bound creature dies.
 ```
-
+2
 ```
 Name: Poor vision
 Points Returned: 6 points, 3 points if neutralized by glasses
 Description:
 You have a -5 to sight based perception and investigation checks, and disadvantage on attacks against creatures who are more than 60 feet away from you. 
 ```
-
+3
 ```
 Name: Weak build
 Points Returned: 3 points
 Description:
 Your carrying pushing and pulling capacity is divided in half
 ```
-
+4
 ```
 Name: Substance Addiction
 Points Returned: 8 points if substance is illegal and corruptive, 6 points if only illegal or corruptive, 4 points if not illegal or corruptive  
 Description:
 You have a strong substance addiction. You gain a level of exhaustion if you do not consume your substance of choice at least once every 48 hours. 
 ```
-
+5
 ```
 Name: Mentally Unwell
 Points Returned: 4 points
 Description:
 You start with one madness from the AccursedJournal.md. This madness cannot be cured, only suppressed or temporarily cured. You may overcome this madness eventually by consulting with your GM, in that case you keep all the points returned by this limitation.
 ```
-
+6
 ```
 Name: Obsessive Compulsion
 Points Returned: 10 points if debilitating obsession, 5 points if disrupting obsession 
 Description:
 You have an obsessive compulsion to do something, and must succeed a DC 18 wisdom saving throw to resist doing it when the opportunity arises. An obsession is debilitating if it completely puts you out of operation for a long period of time (at least 10 minutes) such as feeling the need to check all locks within a home multiple times, an obsession is disruptive if it simply wastes a single turn such as having to count an entire pile of beans that is tossed in front of you.  
 ```
-
+7
 ```
 Name: Supernaturally mannered
 Points Returned: 5 points
 Description:
 You cannot enter a home unless invited in, or some similar restriction (unable to lie, unable to steal, etc)
 ```
-
+8
 ```
 Name: Damage vulnerability
 Points Returned: 5 points
 Description:
 You are vulnerable to one type of damage, meaning you take twice the amount of damage dealt to you when it is the type of damage you are vulnerable to. 
 ```
-
+9
 ```
 Name: Nervous personality
 Points Returned: 2 points
 Description:
 Whenever you make a charisma check make a DC 12 wisdom saving throw. On a failure you have a -2 to your charisma check. You have disadvantage on this saving throw if you find the creature you are making a charisma check against attractive.  
 ```
-
+10
 ```
 Name: Unpersuasive
 Points Returned: 8 points
 Description:
 You are exceptionally bad at persuading, intimidating, deceiving, and acting in front of others. You have a -5 to all charisma checks. 
 ```
-
+11
 ```
 Name: Amputee
 Points Returned: 8 for arm and leg, 6 for arm, 4 for leg
 Description:
 One or more of your limbs has been removed. With only one arm you may only wield weapons one handed, and with only one leg your walking speed is halved, even with a prosthetic leg.
 ```
-
+12
 ```
 Name: Poor temper
 Points Returned: 4 points
 Description:
 Whenever you or someone you love takes damage equal to 25% of your or their hitpoints roll will against the damage sustained divided by two. On a failure you enter a rage state where you are only capable of using your movement moving towards and attacking the creature who damaged you or your loved one. This rage state ends whenever the creature dies or retreats, or when you drop to 0 hitpoints.
 ```
-
+13
 ```
 Name: Mute
 Points Returned: 4
 Description:
 You are incapable of speaking, but still understand spoken and written languages that you know
 ```
-
+14
 ```
 Name: Blind
 Points Returned: 10 points
 Description:
 You are completely blind, you automatically fail any checks related to sight and cannot see. You automatically succeed on checks against spells that require you to see them to take an effect (such as hypnotic spiral)
 ```
-
+15
 ```
 Name: Cowardice
 Points Returned: 6
@@ -605,56 +607,56 @@ You are cowardly in battle. You have disadvantage on saving throws against being
 |  20+         |  -1        |
 
 ```
-
+16
 ```
 Name: Literal
 Points Returned: 1
 Description:
 You cannot understand metaphors
 ```
-
+17
 ```
 Name: Unskilled
 Points Returned: 2
 Description:
 Choose one skill. You have a -2 modifier added to all checks you make with this skill.
 ```
-
+18
 ```
 Name: Sunlight Weakness
 Points Returned: 4
 Description:
 While standing in the sun or targeting a creature in the sun you have disadvantage on attack rolls and ability checks. 
 ```
-
+19
 ```
 Name: Sunlight Sensitivity
 Points Returned: 8
 Description:
 Whenever you start your turn standing in sunlight or the area of a spell such as daylight, you take 1d8 radiant damage.
 ```
-
+20
 ```
 Name: Moonlight Sensitivity
 Points Returned: 6
 Description:
 Whenever you start your turn standing in moonlight you take 1d8 cold damage.
 ```
-
+21
 ```
 Name: Deaf
 Points Returned: 6
 Description:
 You are completely deaf. You automatically fail hearing based perception checks and cannot hear anything. You automatically succeed on checks against spells that require you to hear them to take an effect (such as command)
 ```
-
+22
 ```
 Name: Ageusia
 Points Returned: 1
 Description:
 You cannot taste anything, and that's sad :(
 ```
-
+23
 ```
 Name: Painless
 Points Returned: 2
