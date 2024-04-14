@@ -466,7 +466,7 @@ This light armor gains a +3 to its AC modifier, and grants you advantage on dext
 ```
 
 Tulunium Weapon
-Type: Weapon (Any)
+Type: Weapon (any)
 Rarity: Legendary
 Attunement: N
 Description:

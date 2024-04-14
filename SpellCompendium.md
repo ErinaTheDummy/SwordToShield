@@ -3912,6 +3912,19 @@ been targeted.
 
 ```
 
+```
+
+Sunburst (4th) (33)
+
+Range: self, 120 foot line
+Components: V/S
+Duration: Instantaneous
+Casting Time: 1 action
+Description:
+A ray of golden light sears forward from the palms of your hands, in a line 120 feet long and 5 feet wide, burning and blinding all creatures in its path. All creatures caught within the area of effect must make a dexterity saving throw or take 6d8 and become blinded for 1d4 turns. On a successful save a creature takes half as much damage and is not blinded. The ground and any objects within the area of effect glow with bright light out to 20 feet for 1 minute after this spell is cast. 
+
+```
+
 # 5th level spells
 
 ```

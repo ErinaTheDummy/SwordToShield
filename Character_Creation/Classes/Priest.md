@@ -527,6 +527,7 @@ other, all within 20 feet.
 - Restoration
 - Revivify
 - Antimagic Field
+- Sunburst
 
 ## 5th Level Spells
 - Rite of The Power

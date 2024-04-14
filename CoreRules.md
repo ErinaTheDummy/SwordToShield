@@ -208,11 +208,12 @@ on your turn you are capable of taking many different actions, some of the most 
 on your turn there are certain things you may do without expending anything! You may not repeat a free action until your next turn.
 
 - Listen: You attempt to locate a creature you cannot see within 240 feet of you. Make a perception check against the creature's stealth roll, on a success you are able to perceive their location but still cannot see them, you may treat this as "seeing" the creature for the purpose of attack rolls and spell targeting.
-- Drop: You drop an item you are holding in your hand
+- Drop: You drop an item you are holding in your hand, or release someone from your grasp
 - Equip: You equip an item from your inventory
 - Speak: You say a sentence or a few words
 - Gesture: You gesture to another creature
 - End Concentration: You end concentration on a spell, ending its effects
+- Jump: You jump a number of feet equal to your str score or dex score, you consume movement speed while moving across this distance, but are always able to jump up to your max range as long as you have 1 foot of movement speed left on your turn
 
 #### Making an attack
 When you make an attack, roll 1d20 and add the associated modifiers to the roll. The goal of this roll is to roll above the AC of your target. If your roll beats the AC of your target the attack hits.

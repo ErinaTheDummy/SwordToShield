@@ -113,7 +113,7 @@ You gain 1 innate feature that you did not pick at character creation. Restricti
 You grow one size larger, to a maximum of size huge. This changes your body size respectively.
 
 ### Tough
-Your hitpoint maximum increases by an amount equal to your level. Each time you gain a level your hitpoint maximum increases by one.
+Your hitpoint maximum increases by an amount equal to twice your level. Each time you gain a level your hitpoint maximum increases by 2.
 
 ### Resilient
 You gain proficiency in saving throws for one stat and your score for that stat increases by 1.

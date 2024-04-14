@@ -400,9 +400,9 @@ You have Advantage on saves made against magical sources.
 
 ```
 Name: Toughness
-Cost: 2 points if taken once, 5 if taken twice, 10 if taken 3 times
+Cost: 4 points if taken once, 8 if taken twice, 16 if taken 3 times
 Description:
-You gain 1 additional maximum hitpoint each level.
+You gain 1 additional maximum hitpoint each level, this increases by one dependent on how many times you take this feat, up to a maximum of 3 additional hitpoints a level.
 ```
 
 ```
@@ -469,7 +469,7 @@ You walk on four or more legs, giving some benefits and causing some issues. You
 ```
 
 ```
-Name: Hard Hitter
+Name: Critical Attacker
 Cost: 7 points
 Description: 
 On a critical weapon attack you may roll an additional damage die and add that to your total damage.   
@@ -666,47 +666,57 @@ You cannot feel pain. Whenever damage is dealt to you your GM does not tell you 
 Within a fantasy world there are often many different kinds of races, from mundane humans exactly like the world we truly live in, to fantastical giants and dragonfolk. No race is beyond the limits of the bodytype model. The following collections of body presets describe some fantasy races.
 
 ### Human
-Humans are just the same as standard real humans. Humans commonly stand 
-somewhere between 2 and 9 feet tall 
+Humans are humanoids which are just the same as standard, real humans. Humans commonly stand somewhere between 2 and 9 feet tall. Humans can live for around a century, but it is rare that they live that long. 
 
 ```
 Race: Human
+Type: Humanoid
 Size: Tiny/Small/Medium/Large
-Bodily Features: 
+Bodily Features: Feat savant
 OR 
 Bodily Features: None & Take +1 to three stats
 ```
 
 ### High-Elf
-High elves are tall and slender, with slightly elongated facial proportions and 
-long pointy ears. High elves commonly stand somewhere between 6 and 9 feet tall.
+High elves are tall and slender fae, with slightly elongated facial proportions and long pointy ears. High elves commonly stand somewhere between 6 and 9 feet tall. High elves have a natural lifespan of roughly 8000 years, and reach physical maturity at the same rate as humans. 
 
 ```
 Race: High-Elf
+Type: Fae
 Size: Medium/Large
 Bodily Features: Innate Casting, Darkvision (colored), Charm Resistance
 ```
 
 ### Wood-Elf
-Wood elves are generally built similarly to humans. They share ancestry with 
-other elves but the defining feature that sets them apart from the rest is their
-pair of wooden antlers that grow from their forehead. 
+Wood elves are humanoids generally built similarly to humans. They share ancestry with other elves but the defining feature that sets them apart from the rest is their pair of wooden antlers that grow from their forehead. Wood elves have a natural lifespan of roughly 2000 years, and reach physical maturity at the same rate as humans. 
 
 ```
 Race: Wood-Elf
+Type: Humanoid
 Size: Tiny/Small/Medium/Large
 Bodily Features: Nimble, Magic Resistance, Darkvision (colored)
 ```
 
 ### Orc
-Orcs are tall, with the same proportionality as humans. Their most defining 
-feature is their two tusk-like teeth which grow large enough to poke from their
-mouths once they reach adulthood. Orcs range in height from 7 to 10 feet tall
+Orcs are tall humanoids, with the same proportionality as humans. Their most defining feature is their two tusk-like teeth which grow large enough to poke from their mouths once they reach adulthood. Orcs range in height from 7 to 10 feet tall. Orcs have a natural lifespan of roughly 150 years, and reach physical maturity at age 25
 
 ```
 Race: Orc
+Type: Humanoid
 Size: Medium/Large
 Bodily Features: Darkvision (Shades of Red), Strong Build, Toughness
 OR
-Bodily Features: Darkvision (Shades of Red), Nimble, Agile
+Bodily Features: Strong Build, Critical Attacker, 1d6 Natural weapon (tusks) 
+```
+
+### Duergr
+Duergr are humanoids that look like short, stout humans. Duergr range in height from 2 to 5 feet tall, but most are around 4 feet tall. Duergr have a natural lifespan of 800 years, and reach physical maturity around age 40.
+
+```
+Race: Duergr
+Type: Humanoid
+Size: Tiny/Small/Medium
+Bodily Features: Darkvision (colored), Toughness (taken twice)
+OR
+Bodily Features: Strong Build, 
 ```
