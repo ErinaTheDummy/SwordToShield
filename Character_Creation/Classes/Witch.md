@@ -85,7 +85,7 @@ Over the course of a long rest you may prepare a number of talismans equal to yo
 ``` 
 
 ### Hitpoint Increase
-Your hitpoints increase by 1d4 + your constitution modifier.
+Your hitpoints increase by 1d4 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Witching Path
 The path you seek to power splits and forks, choose one witching path from the following:
@@ -94,8 +94,8 @@ The path you seek to power splits and forks, choose one witching path from the f
 - Trinket Maker
 - Hexer
 
-### Hitpoint Re-roll
-Roll 2d4+4 and add 3 times your constitution modifier. If the result is higher than your current maximum that becomes your new hitpoint maximum. You may repeat this every time you level up. 
+### Minor Hitpoint Increase
+At 4th level, and every level after, add your constitution modifier to your maximum hitpoints. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Witch Specialty
 You learn a technique in a special field of witching, allowing you to raise your abilities to new horizons. Choose one Witch specialty. 

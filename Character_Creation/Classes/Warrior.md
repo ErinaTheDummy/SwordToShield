@@ -65,10 +65,10 @@ When you drop to or below 0 hitpoints you may use a reaction to expend a hit die
 You have been trained in the art of war and know a tricks in order to sway combat in your favor. You learn one warrior maneuver. Refer to the warrior maneuvers column of the level chart to know how many you currently have.
 
 ### Hitpoint Increase
-Your hitpoints increase by 1d10 + your constitution modifier.
+Your hitpoints increase by 1d10 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
-### Hitpoint Re-roll
-Roll 2d10+10 and add 3 times your constitution modifier. If the result is higher than your current maximum that becomes your new hitpoint maximum. You may repeat this every time you level up.
+### Minor Hitpoint Increase
+At 4th level, and every level after, add your constitution modifier to your maximum hitpoints. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may forgo your ability score increase and take a feat instead.

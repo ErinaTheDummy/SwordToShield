@@ -69,13 +69,13 @@ You are either quick on your feet, or strong enough to deflect incoming blows. W
 You have been trained in unarmed strikes. Your unarmed strikes gain the finesse property and your unarmed strike die increases to a d6. If your unarmed strike die is already higher than a d6 it remains the same and gains the finesse property. Your unarmed strike die increases at higher levels, refer to the unarmed strike die column of the level chart to see what your unarmed strike die is at a given level.
 
 ### Hitpoint Increase
-Your hitpoints increase by 1d8 + your constitution modifier.
+Your hitpoints increase by 1d8 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Surmounting Strikes
 Your unarmed strikes ignore damage resistances.
 
-### Hitpoint Re-roll
-Roll 2d8+10 and add 3 times your constitution modifier and your. If the result is higher than your current maximum that becomes your new hitpoint maximum. You may repeat this every time you level up.
+### Minor Hitpoint Increase
+At 4th level, and every level after, add your constitution modifier to your maximum hitpoints. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may forgo your ability score increase and take a feat instead.

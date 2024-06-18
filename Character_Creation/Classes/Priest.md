@@ -126,10 +126,10 @@ You start with 100 grace. Grace is your casting resource, you may lose it or gai
 ```
 
 ### Hitpoint Increase
-Your hitpoints increase by 1d4 + your constitution modifier.
+Your hitpoints increase by 1d4 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
-### Hitpoint Re-roll
-Roll 2d4+4 and add 3 times your constitution modifier. If the result is higher than your current maximum that becomes your new hitpoint maximum. You may repeat this every time you level up.
+### Minor Hitpoint Increase
+At 4th level, and every level after, add your constitution modifier to your maximum hitpoints. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Channel Divinity
 You gain the ability to channel the divine into a special miraculous action or effect. You may expend five stamina dice to use your channel divinity, you may not do so again until you have finished a rest. You gain the following Channel divinity and one from your holy order.

@@ -86,10 +86,10 @@ spellbook at a given level.
 You learn 3 cantrips and 4 first level spells from the wizard spell list. You learn 2 more spells from the wizard spell list of any spell level you are capable of casting each time you level up; this may not be a spell higher than 6th level, if you wish to learn those they must be found within the world your character occupies. Due to the fact that you learn magic through study or by happenstance you may learn new spells by copying their glyphs into your spellbook. 
 
 ### Hitpoint Increase
-Your hitpoints increase by 1d4 + your constitution modifier.
+Your hitpoints increase by 1d4 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
-### Hitpoint Re-roll
-Roll 2d4+4 and add 3 times your constitution modifier. If the result is higher than your current maximum that becomes your new hitpoint maximum. You may repeat this every time you level up. 
+### Minor Hitpoint Increase
+At 4th level, and every level after, add your constitution modifier to your maximum hitpoints. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may forgo your ability score increase and take a feat instead.

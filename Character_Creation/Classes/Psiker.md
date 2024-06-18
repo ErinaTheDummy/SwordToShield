@@ -61,7 +61,13 @@ Psi is the energy of thought, a manifestation of will and mind taking control ov
 Psi is a very feeble and fleeting kind of energy, if you have Psi at the start of your turn, from a previous turn, and you do not decide to expend a hit die and roll your psionic die, then the Psi you have stored up expires and resets to 0.
 
 ### Psionics
-Psionics are the practical applications of Psi energy. Psionics can be a range of things, from abilities to socially influence others, to methods of devastating psychic attack. At first level you know and are capable of utilizing 3 psionics from the list of Psiker psionics, each time you level up you may swap any number of psionics out for different selections. Certain psionics may refer to a "Psionic DC" the formula for this DC is 8 + your proficiency bonus + your intelligence modifier. Refer to the Psionics Known column of the Psiker level chart to know how many psionics you have at a given level. 
+Psionics are the practical applications of Psi energy. Psionics can be a range of things, from abilities to socially influence others, to methods of devastating psychic attack. At first level you know and are capable of utilizing 3 psionics from the list of Psiker psionics, each time you level up you may swap any number of psionics out for different selections. Certain psionics may refer to a "Psionic DC" the formula for this DC is 8 + your proficiency bonus + your intelligence modifier. Refer to the Psionics Known column of the Psiker level chart to know how many psionics you have at a given level.
+
+### Hitpoint Increase
+Your hitpoints increase by 1d4 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
+
+### Minor Hitpoint Increase
+At 4th level, and every level after, add your constitution modifier to your maximum hitpoints. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Empowered Psi 
 Whenever you start your turn and choose to expend a hit die/dice to roll your psionic die, you may choose to expend an additional hit die and roll an additional die, meaning a psionic die of 1d8 would become 2d8; However psionic dice like 2d8 would simply become 3d8.

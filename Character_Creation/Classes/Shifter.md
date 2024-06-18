@@ -79,14 +79,14 @@ At the beginning of an unwilling shift, roll your maximum possible amount of mon
 Your GM takes control of your character for the entire duration of your unwilling shift, otherwise it is identical to a regular shift.
 
 ### Hitpoint Increase
-Your hitpoints increase by 1d4 + your constitution modifier.
+Your hitpoints increase by 1d4 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Partial Shift
 As a bonus action you may partially shift into your monstrous form for 1 minute. During this partial shift you gain 10 temporary hitpoints, the stat increases associated with your form, one natural weapon, and one feature of your choice 
 from your monstrous form. Once you partially shift you may not do so again until you finish a rest. While partially shifted you have disadvantage on saving throws to resist unwilling shifts.
 
-### Hitpoint Re-roll
-Roll 2d4+4 and add 3 times your constitution modifier. If the result is higher than your current maximum that becomes your new hitpoint maximum. You may repeat this every time you level up.
+### Minor Hitpoint Increase
+At 4th level, and every level after, add your constitution modifier to your maximum hitpoints. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may forgo your ability score increase and take a feat instead.

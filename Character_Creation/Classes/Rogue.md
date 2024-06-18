@@ -67,13 +67,13 @@ When attacking a creature that you have advantage to hit you deal an additional 
 You know a thing or two about your trade of choice. You learn 2 rogue techniques and learn another one each time you level up after 2nd. Refer to the rogue techniques column of the chart to know how many you currently have.
 
 ### Hitpoint increase
-Your hitpoints increase by 1d8 + your constitution modifier.
+Your hitpoints increase by 1d8 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Expertise
 You gain expertise in one skill you are proficient in, meaning your proficiency bonus is doubled when making checks with that skill.
 
-### Hitpoint Re-roll
-Roll 2d8+8 and add 3 times your constitution modifier. If the result is higher than your current maximum that becomes your new hitpoint maximum. You may repeat this every time you level up.
+### Minor Hitpoint Increase
+At 4th level, and every level after, add your constitution modifier to your maximum hitpoints. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may forgo your ability score increase and take a feat instead.

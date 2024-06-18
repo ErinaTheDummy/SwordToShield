@@ -88,10 +88,10 @@ against the difficulty class of the spell level specified on the chart below. On
 If your sanity (outlined in [CoreRules.md](https://github.com/ErinaTheDummy/SwordToShield/blob/main/CoreRules.md#sanity)) ever drops to 0 you become possessed by your patron for 1 hour, who uses your body as a vessel to exert their will, after which time you regain control of your body with 1 sanity.  
 
 ### Hitpoint Increase
-Your hitpoints increase by 1d6 + your constitution modifier.
+Your hitpoints increase by 1d6 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
-### Hitpoint Re-roll
-Roll 2d6+6 and add 3 times your constitution modifier. If the result is higher than your current maximum that becomes your new hitpoint maximum. You may repeat this every time you level up.
+### Minor Hitpoint Increase
+At 4th level, and every level after, add your constitution modifier to your maximum hitpoints. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may forgo your ability score increase and take a feat instead.

@@ -91,14 +91,14 @@ You may cast a spell without using mana, but you must roll a mana check against 
 At level 1 You learn 2 cantrips and 3 first level spells from the sorcerer spell list. Each time you level up you learn a spell of a level you are capable of casting using mana, no more than 5th level, from the sorcerer spell list. A sorcerer who knows a spell that you do not may teach you that spell over the course of one week.
 
 ### Hitpoint Increase
-Your hitpoints increase by 1d4 + your constitution modifier.
+Your hitpoints increase by 1d4 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Sorcery Techniques
 You have gained an intermediate level of skill with spellcasting, and begin to find ways to mix up your spells or cast them differently. You learn two sorcery techniques. Refer to the sorcery techniques column of the sorcerer level chart
 to determine how many sorcery techniques you know at a given level. You may learn one additional sorcery technique from a sorcerer who spends 14 days training you on how to do it.
 
-### Hitpoint Re-roll
-Roll 2d4+4 and add 3 times your constitution modifier. If the result is higher than your current maximum that becomes your new hitpoint maximum. You may repeat this every time you level up.
+### Minor Hitpoint Increase
+At 4th level, and every level after, add your constitution modifier to your maximum hitpoints. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may forgo your ability score increase and take a feat instead.

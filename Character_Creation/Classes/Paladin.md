@@ -114,7 +114,7 @@ You start with 100 grace. Grace is your casting resource, you may lose it or gai
 ```
 
 ### Hitpoint Increase
-Your hitpoints increase by 1d10 + your constitution modifier.
+Your hitpoints increase by 1d10 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Divine Smite
 You gain the ability to channel the divine fury of the heavens into your blows. When you make an attack and hit you may choose to expend grace equal to the cost for a level 1-3 spell, dealing additional radiant damage on that attack. This damage is increased if your target is an undead or fiend. Refer to the following chart for the amount of radiant damage per spell level.
@@ -130,8 +130,8 @@ You gain the ability to channel the divine fury of the heavens into your blows. 
 
 ```    
 
-### Hitpoint Re-roll
-Roll 2d10+10 and add 3 times your constitution modifier. If the result is higher than your current maximum that becomes your new hitpoint maximum. You may repeat this every time you level up.
+### Minor Hitpoint Increase
+At 4th level, and every level after, add your constitution modifier to your maximum hitpoints. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may forgo your ability score increase and take a feat instead.

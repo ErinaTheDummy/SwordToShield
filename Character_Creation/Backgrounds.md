@@ -20,7 +20,7 @@ Some GMs may not allow you to take a social standing above gentry.
 You are an average working man of the commonwealth. You begin with the following materials and features: 
 
 ### Lead belly
-From years and years of consuming questionable sources of food, you have advantage on saving throws against being poisoned.
+From years and years of consuming questionable sources of food, you have advantage on saving throws against spoiled food.
 
 - 5 days of rations
 - A Waterskin

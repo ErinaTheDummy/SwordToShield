@@ -73,10 +73,10 @@ You are capable of applying modifications to your firearms, increasing their eff
 You have practiced and honed your ability, becoming adept enough to perform feats of prowess. You learn one gunslinger Maneuver. Refer to the gunslinger maneuvers column of the level chart to know how many you currently have.
 
 ### Hitpoint Increase
-Your hitpoints increase by 1d6 + your constitution modifier.
+Your hitpoints increase by 1d6 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
-### Hitpoint Re-roll
-Roll 2d6+6 and add 3 times your constitution modifier. If the result is higher than your current maximum that becomes your new hitpoint maximum. You may repeat this every time you level up.
+### Minor Hitpoint Increase
+At 4th level, and every level after, add your constitution modifier to your maximum hitpoints. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may forgo your ability score increase and take a feat instead.
