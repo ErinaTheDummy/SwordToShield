@@ -49,7 +49,7 @@ GM = Gunslinger Maneuvers Known
 |   1 |     0 | 2  | +1  |  0    | Gunsmith, Scrap, Modify               |
 |   2 |   300 | 4  | +1  |  1    | Gunslinger Maneuvers,Hitpoint Increase|
 |   3 |   900 | 6  | +2  |  2    | Hitpoint Increase                     |
-|   4 |  1800 | 8  | +2  |  3    | Hitpoint Re-roll                      |
+|   4 |  1800 | 8  | +2  |  3    | Minor Hitpoint Increase               |
 |   5 |  3600 |10  | +2  |  4    | Ability Score Increase                |
 |   6 |  6100 |12  | +2  |  4    | Heavy Weaponry                        |
 |   7 |  9100 |14  | +3  |  5    |                                       |

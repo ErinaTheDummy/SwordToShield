@@ -46,7 +46,7 @@ PK = Psionics Known
 |   1 |     0 | 2  | +1  |  1d4     | 3   | Psi, Psionics                            |
 |   2 |   300 | 4  | +1  |  1d6     | 4   | Hitpoint Increase                        |
 |   3 |   900 | 6  | +2  |  1d8     | 5   | Hitpoint Increase                        |
-|   4 |  1800 | 8  | +2  |  1d8     | 7   | Empowered Psi, Hitpoint Re-roll          |
+|   4 |  1800 | 8  | +2  |  1d8     | 7   | Empowered Psi, Minor Hitpoint Increase   |
 |   5 |  3600 |10  | +2  |  1d10    | 8   | Ability Score Increase                   |
 |   6 |  6100 |12  | +2  |  1d12    | 9   |                                          |
 |   7 |  9100 |14  | +3  |  2d8     | 11  | Psionic Enhancement                      |

@@ -50,7 +50,7 @@ MM = Maximum Magica
 |   1 |     0 | 2  | +1  |  2       | Familiar, Magica, Talismans              |
 |   2 |   300 | 4  | +1  |  4       | Hitpoint Increase                        |
 |   3 |   900 | 6  | +2  |  6       | Witching path, Hitpoint Increase         |
-|   4 |  1800 | 8  | +2  |  8       | Hitpoint Re-roll                         |
+|   4 |  1800 | 8  | +2  |  8       | Minor Hitpoint Increase                  |
 |   5 |  3600 |10  | +2  |  10      | Ability Score Increase                   |
 |   6 |  6100 |12  | +2  |  11      | Witching Path Feature                    |
 |   7 |  9100 |14  | +3  |  12      | Witch Specialty                          |

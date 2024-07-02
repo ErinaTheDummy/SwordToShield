@@ -47,7 +47,7 @@ MSG = Maximum Spell Glyphs
 |   1 |     0 | 2  | +1  |  8       | Glyph Casting, Learned Spells            |
 |   2 |   300 | 4  | +1  |  16      | Hitpoint Increase                        |
 |   3 |   900 | 6  | +2  |  28      | Hitpoint Increase                        |
-|   4 |  1800 | 8  | +2  |  36      | Hitpoint Re-roll                         |
+|   4 |  1800 | 8  | +2  |  36      | Minor Hitpoint Increase                  |
 |   5 |  3600 |10  | +2  |  44      | Ability Score Increase                   |
 |   6 |  6100 |12  | +2  |  52      | Wizard Specialty                         |
 |   7 |  9100 |14  | +3  |  60      |                                          |

@@ -48,7 +48,7 @@ SL = Maximum spell level
 |   1 |     0 | 2  | +1  |  N/A     | Chivalrous Order                                  |
 |   2 |   300 | 4  | +1  |  Cantrip | Grace Casting, Grace, Hitpoint Increase           |
 |   3 |   900 | 6  | +2  |  1       | Divine Smite, Order Feature, Hitpoint Increase    |
-|   4 |  1800 | 8  | +2  |  1       | Hitpoint Re-roll                                  |
+|   4 |  1800 | 8  | +2  |  1       | Minor Hitpoint Increase                           |
 |   5 |  3600 |10  | +2  |  2       | Order Feature, Ability Score Increase             |
 |   6 |  6100 |12  | +2  |  2       | Extra Attack                                      |
 |   7 |  9100 |14  | +3  |  3       | Improved Divine Smite                             |

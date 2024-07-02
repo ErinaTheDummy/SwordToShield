@@ -46,7 +46,7 @@ Prof = proficiency bonus
 |   1 |     0 | 2  | +1  | Shifting, Monstrous Form, Unwilling Shift |
 |   2 |   300 | 4  | +1  | Form Feature, Hitpoint Increase           |
 |   3 |   900 | 6  | +2  | Partial Shift, Hitpoint Increase          |
-|   4 |  1800 | 8  | +2  | Form Feature, Hitpoint Re-roll            |
+|   4 |  1800 | 8  | +2  | Form Feature, Minor Hitpoint Increase     |
 |   5 |  3600 |10  | +2  | Form Resistance, Ability Score Increase   |
 |   6 |  6100 |12  | +2  | Extra Attack                              |
 |   7 |  9100 |14  | +3  |                                           |

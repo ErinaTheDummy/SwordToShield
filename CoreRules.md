@@ -328,7 +328,7 @@ When you take an amount of bludgeoning damage in a turn that is greater than or 
 After an amount of time equal to the difference in recovery time between each level of severity your wound moves down one level. Meaning that after 15 days a compound fracture would simply be a broken limb and after 8 more days the broken limb would simply be a sever fracture and so on. Rather than wait the recovery time you may quickly heal a fracture or break by regaining an amount of hitpoints, equal to the recovery time in days, over the course of 1 minute. A lesser restoration or similar spell would also heal the wound instantly. 
 
 ### Battle Injury Disclaimer
-These injuries apply to all creatures except for Undead, Leviathans, Plants and Constructs. They are worded in the second person to make them more easily understandable for players but the effects can be applied to most creatures.
+These injuries apply to all creatures except for Undead, Leviathans, Plants, Fungi, and Constructs. They are worded in the second person to make them more easily understandable for players but the effects can be applied to most creatures.
 
 ## Status Effects
 Certain spells, attacks, or features may inflict status effects, their details can be found here.

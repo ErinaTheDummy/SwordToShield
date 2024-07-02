@@ -48,7 +48,7 @@ USD = Unarmed Strike Dice
 |   1 |     0 | 2  | +1  |  1    | d6  | Martial Arts, Unarmored Defense, Unarmed Strike Die |
 |   2 |   300 | 4  | +1  |  1    | d6  | Hitpoint Increase                                   |
 |   3 |   900 | 6  | +2  |  2    | d8  | Hitpoint Increase                                   |
-|   4 |  1800 | 8  | +2  |  3    | d8  | Surmounting Strikes, Hitpoint Re-roll               |
+|   4 |  1800 | 8  | +2  |  3    | d8  | Surmounting Strikes, Minor Hitpoint Increase        |
 |   5 |  3600 |10  | +2  |  4    | d8  | Ability Score Increase                              |
 |   6 |  6100 |12  | +2  |  5    | d10 | Extra Attack                                        |
 |   7 |  9100 |14  | +3  |  5    | d10 |                                                     |

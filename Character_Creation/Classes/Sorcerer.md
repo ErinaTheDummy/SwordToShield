@@ -42,20 +42,20 @@ HD = Hit Dice
 Prof = Proficiency Bonus
 MMP = Max Mana Points
 ST = Amount of Sorcerer Techniques
-+-----+-------+----+-----+-----+-----+-------------------------------------------------+
-| LVL | XP    | HD |Prof | MMP |  ST | Features                                        |
-+-----+-------+----+-----+-----+-----+-------------------------------------------------+
-|   1 |     0 | 2  | +1  |  2  |  0  | Supernatural Origin, Mana Casting               |
-|   2 |   300 | 4  | +1  |  4  |  0  | Hitpoint Increase                               |
-|   3 |   900 | 6  | +2  |  8  |  2  | Sorcery Techniques, Hitpoint Increase           |
-|   4 |  1800 | 8  | +2  |  12 |  3  | Supernatural Origin Feature, Hitpoint Re-roll   |
-|   5 |  3600 |10  | +2  |  16 |  3  | Ability Score Increase                          |
-|   6 |  6100 |12  | +2  |  20 |  3  | Supernatural Origin Feature                     |
-|   7 |  9100 |14  | +3  |  24 |  4  |                                                 |
-|   8 | 13100 |16  | +3  |  32 |  4  | Ability Score Increase                          |
-|   9 | 22600 |18  | +4  |  40 |  4  |                                                 |
-|  10 | 44600 |20  | +4  |  48 |  5  | Epic Spells                                     |
-+-----+-------+----+-----+-----+-----+-------------------------------------------------+
++-----+-------+----+-----+-----+-----+------------------------------------------------------+
+| LVL | XP    | HD |Prof | MMP |  ST | Features                                             |
++-----+-------+----+-----+-----+-----+------------------------------------------------------+
+|   1 |     0 | 2  | +1  |  2  |  0  | Supernatural Origin, Mana Casting                    |
+|   2 |   300 | 4  | +1  |  4  |  0  | Hitpoint Increase                                    |
+|   3 |   900 | 6  | +2  |  8  |  2  | Sorcery Techniques, Hitpoint Increase                |
+|   4 |  1800 | 8  | +2  |  12 |  3  | Supernatural Origin Feature, Minor Hitpoint Increase |
+|   5 |  3600 |10  | +2  |  16 |  3  | Ability Score Increase                               |
+|   6 |  6100 |12  | +2  |  20 |  3  | Supernatural Origin Feature                          |
+|   7 |  9100 |14  | +3  |  24 |  4  |                                                      |
+|   8 | 13100 |16  | +3  |  32 |  4  | Ability Score Increase                               |
+|   9 | 22600 |18  | +4  |  40 |  4  |                                                      |
+|  10 | 44600 |20  | +4  |  48 |  5  | Epic Spells                                          |
++-----+-------+----+-----+-----+-----+------------------------------------------------------+
 
 ```
 
