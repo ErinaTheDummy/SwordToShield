@@ -100,6 +100,7 @@ Adventuring necessitates equipment.
 | Clothes, costume            | 5   gp   | 4 lb.  |
 | Clothes, fine               | 15  gp   | 6 lb.  |
 | Clothes, traveler’s         | 2   gp   | 4 lb.  |
+| Coal (1 pound bag)          | 1   sp   | 1 lb.  |
 | Vestments                   | 5   sp   | 3 lb.  |
 | Crowbar                     | 2   gp   | 5 lb.  |
 | Fishing tackle              | 1   gp   | 4 lb.  |
@@ -133,7 +134,7 @@ Adventuring necessitates equipment.
 | Magnifying glass            | 100 gp   | —      |
 | Manacles                    | 2   gp   | 6 lb.  |
 | Mirror, steel               | 5   gp   | 1/2 lb.|
-| Oil (1 pint flask)          | 1   sp   | 1 lb.  |
+| Oil (1 liter flask)         | 2   sp   | 1 lb.  |
 | Paper (one sheet)           | 2   sp   | —      |
 | Parchment (one sheet)       | 1   sp   | —      |
 | Pick, miner’s               | 2   gp   | 10 lb. |
@@ -149,6 +150,7 @@ Adventuring necessitates equipment.
 | Robes                       | 1   gp   | 4 lb.  |
 | Rope, hempen (50 feet)      | 1   gp   | 10 lb. |
 | Rope, silk (50 feet)        | 10  gp   | 5 lb.  |
+| Sand (Bag)                  | 1   sp   | 10 lb. |
 | Scrap Metal                 | 1   gp   | 1 lb.  |
 | Sack                        | 1   cp   | 1/2 lb.|
 | Scale, merchant’s           | 5   gp   | 3 lb.  |

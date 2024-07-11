@@ -48,8 +48,8 @@ Prof = proficiency bonus
 |   3 |   900 | 6  | +2  | Inventive Legacy. Hitpoint Increase   |
 |   4 |  1800 | 8  | +2  | Minor Hitpoint Increase               |
 |   5 |  3600 |10  | +2  | Ability Score Increase                |
-|   6 |  6100 |12  | +2  |                                       |
-|   7 |  9100 |14  | +3  |                                       |
+|   6 |  6100 |12  | +2  | Inventive Legacy Features             |
+|   7 |  9100 |14  | +3  | Advanced inventions                   |
 |   8 | 13100 |16  | +3  | Ability Score Increase                |
 |   9 | 22600 |18  | +4  |                                       |
 |  10 | 44600 |20  | +4  | Ability Score Increase                |
@@ -58,13 +58,16 @@ Prof = proficiency bonus
 ```
 
 ### Invent
-You are capable of crafting items known as inventions over the course of a rest using scrap and a set of tools you are proficient with. Inventions are useful tools, weapons, and gear that help you in battle or over an adventure. Inventions are delicate and often times potent items, so you are only capable of upkeeping a number of inventions equal to your intelligence modifier plus half your inventor level at one time. Additionally you only take half as long and half as many resources to craft items during a downtime. You have proficiency in your inventions. You may find a list of all the inventions available to you at the end of this document. 
+You are capable of crafting items known as inventions over the course of a rest using scrap and a set of tools you are proficient with. Inventions are useful tools, weapons, and gear that help you in battle or over an adventure. Inventions are delicate and often times potent items, so you are only capable of upkeeping a number of inventions equal to your intelligence modifier plus your inventor level at one time. Additionally you only take half as long and half as many resources to craft items during a downtime. You have proficiency in your inventions. You may find a list of all the inventions available to you at the end of this document. 
+
+#### Upkeeping inventions addendum
+While you are only able to upkeep a certain number of inventions, the number of inventions you can create is only limited by the resources at your disposal. If you have an invention on standby which is not being upkept and another item is used to the point of interoperability which is not due to running out of charges, such as a single use item like the stim injector, you may spend a minute to get the invention that has not been upkept back into working order. 
 
 ### Scrap
 You are capable of scrapping 2 lbs of metal material, turning it into a usable unit of scrap.
 
 ### Augment
-During a rest you are capable of applying augmentations to your Inventions, during their creation or as an addition to an already made invention. Augmentations change how an invention functions, subtly and drastically depending on context. Certain augmentations are required to utilize an invention, in such cases those augmentations should be listed in the requirements for the item. Augmentations come in three forms: Modifiers; which simply change the statistics of an item, Power sources; which change the requirements to use an item and how often an item can be used before needing to be "refueled" if applicable as well as the fuel source, and  Special; which add a new or interesting twist but require special components rather than standard scrap. You may apply a number of augmentations to an invention equal to your intelligence modifier, if this is not high enough to apply all the required augmentations for an invention you may apply the required augmentations anyway but are unable to apply any further augmentations. 
+During a rest you are capable of applying augmentations to your Inventions, during their creation or as an addition to an already made invention. Augmentations change how an invention functions, subtly and drastically depending on context. Certain augmentations are required to utilize an invention, in such cases those augmentations should be listed in the requirements for the item. Augmentations come in two forms: Modifiers; which simply change the statistics of an item and Power sources; which change the requirements to use an item and how often an item can be used before needing to be "refueled" if applicable as well as the fuel source. You may apply as many non-contradictory modifier augments to a single invention as you'd like, only one power source augment may be applied to an invention at one time. Augments must be applied over a rest using smith's tools.
 
 ### Hitpoint Increase
 Your hitpoints increase by 1d4 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
@@ -110,6 +113,16 @@ As an action you may expend one charge from this weapon and expel a 5 foot wide 
 ```
 
 ```
+Flame-caster
+Wondrous Weapon
+Requires: Oil Cell
+Crafting Cost: 100 Scrap
+Properties: two-handed
+Description:
+As an action you may expend one charge from this weapon and expel a 30 foot cone of fire from this invention. All creatures within the area must make a dexterity saving throw against the inventor's gadget save DC or take 3d8 fire damage, taking half as much on a success, any flammable items in the area catch fire. 
+```
+
+```
 Black-powder Bomb
 Mundane Weapon
 Requires: N/A
@@ -130,28 +143,28 @@ Firearm that holds a single grenade shell, which can be fired for different effe
 ```
 
 ```
-Laser Rifle (3d6+dex fire)
-Science Weapon
+Hard-light Rifle (3d6+dex fire)
+Wondrous Weapon
 Requires: Power Source
 Crafting Cost: 350 Scrap
 Properties: Ranged (240), Two-Handed
 Description:
-Rifle that fires condensed energy capable of burning targets. Consumes one charge from its power source each time it is fired.
+Rifle that fires condensed light energy capable of burning targets. Consumes one charge from its power source each time it is fired.
 ```
 
 ```
-Laser Pistol (2d6+dex fire)
-Science Weapon
+Hard-light Pistol (2d6+dex fire)
+Wondrous Weapon
 Requires: Power Source
 Crafting Cost: 200 Scrap
 Properties: Ranged (240), One-Handed
 Description:
-Pistol that fires condensed energy capable of burning targets. Consumes one charge from its power source each time it is fired.
+Pistol that fires condensed light energy capable of burning targets. Consumes one charge from its power source each time it is fired.
 ```
 
 ```
 Force Rifle (3d6+dex force)
-Science Weapon
+Wondrous Weapon
 Requires: Power Source
 Crafting Cost: 500 Scrap
 Properties: Ranged (120), Two-Handed
@@ -161,12 +174,32 @@ Rifle that fires condensed energy capable of causing concussive damage. Consumes
 
 ```
 Force Pistol (2d6+dex force)
-Science Weapon
+Wondrous Weapon
 Requires: Power Source
 Crafting Cost: 300 Scrap
 Properties: Ranged (120)
 Description:
 Pistol that fires condensed energy capable of causing concussive damage. Consumes one charge from its power source each time it is fired.
+```
+
+```
+Hypersonic rifle (4d6 thunder)
+Wondrous Weapon
+Requires: Power Source
+Crafting Cost: 300 Scrap
+Properties: Ranged (60)
+Description:
+This rifle produces a booming hypersonic frequency capable of shaking structures and liquefying living material. This weapon deals double damage to constructs, objects, and structures. Consumes two charges from its power source each time it is fired.
+```
+
+```
+Decay Rifle (2d6+dex necrotic)
+Wondrous Weapon
+Requires: Power Source
+Crafting Cost: 300 Scrap
+Properties: Ranged (120/240), Two-Handed
+Description:
+Rifle that emits corruptive energy capable of rotting materials. Consumes one charge from its power source when fired. 
 ```
 
 ```
@@ -180,13 +213,13 @@ Fires a single propelled missile at a target within range. All creatures within 
 ```
 
 ```
-Decay Rifle (2d6+dex necrotic)
-Science Weapon
+Graviton Repulsor
+Wondrous Weapon
 Requires: Power Source
-Crafting Cost: 300 Scrap
-Properties: Ranged (120/240), Two-Handed
+Crafting Cost: 400 Scrap
+Properties: 
 Description:
-Rifle that emits corruptive energy capable of rotting materials. Consumes one charge from its power source when fired 
+Utilizes a reversal of gravity to fire a wave of repulsive energy. As an action you may expend one charge from this weapon and expel a 10 foot by 10 foot cube of force in a space directly in front of you. All creatures within the area must make a strength saving throw against the inventor's gadget save DC or be thrown 30 feet backwards, or only 5 on a success. If a creature in the area is thrown into a surface the creature and the surface takes 1d6 bludgeoning damage for every 5 feet of travel that the creature did not move due to the impact.  
 ```
 
 ```
@@ -363,6 +396,14 @@ Description:
 This underarmor can be worn at the same time as another armor and grants the wearer resistance to one damage type of the inventor's choice.
 ```
 
+```
+Personal Flying Machine
+Requires: Power Source (other than hand crank)
+Crafting Cost: 500 scrap
+Description:
+This flying machine may be worn over armor or clothing and activated as a bonus action, consuming one charge. While activated the user gains 60 feet of flying speed. Consumes 1 charge every 10 minutes after activation. 
+```
+
 ## Tools
 
 ```
@@ -427,6 +468,37 @@ Augmentations come in three forms: Modifiers, Power sources, and  Special Augmen
 
 ### Modifiers
 
+```
+Size up
+Crafting Cost: (Original scrap cost) * (3 * amount of sizes above medium)
+Requirements: N/A
+Description:
+You size up the invention you apply this augmentation to, doubling it's size for every time you apply this augment up to a maximum limit of 4 times. This has the same effects on damage die calculations that body size does on other types of items. Creatures of the size matching the augmented one are capable of using your inventions that have been sized up with ease.
+```
+
+```
+Integrated Invention
+Crafting Cost: 50 scrap
+Requirements: N/A
+Description:
+You integrate this invention into another one, allowing you to use both at the same time without utilizing a free action to swap between them. You may use this integration to connect a weapon or tool to a set of armor, a vehicle, or a piece of equipment. This integrated invention still consumes its original cost to create, and still counts twords your maximum inventions you can maintain at once.
+```
+
+```
+Reinforced
+Crafting Cost: 250 scrap
+Requirements: N/A
+Description:
+You reinforce an invention that has an AC and HP stat, increasing its AC to 16 and its HP by 25 points.
+```
+
+```
+Stationary
+Crafting Cost: 500 scrap
+Requirements: Invention not already a building or structure
+Description:
+You turn the augmented invention into a building with an AC of 10 and 20 HP. You may still operate the invention as normal, but it provides full cover while being used. If the invention drops to 0 hitpoints it falls into disrepair and cannot be used. If the invention is a weapon you gain a +3 to hit with it in this state, and it automatically rolls maximum damage. If you apply this augmentation to an invention that typically only provides an effect to one creature it instead has a range of 10 feet from the building point while stationary. The stationary invention takes up a space of 5x5 feet by default.
+```
 
 ### Power Sources
 
@@ -441,7 +513,7 @@ A simple, single use battery
 
 ```
 Mid Cap Battery
-Crafting Cost: 50 scrap
+Crafting Cost: 10 scrap, acid vial
 Charges: 3
 Rechargeable?: No
 Description:
@@ -450,7 +522,7 @@ A simple, multi-use battery
 
 ```
 High cap battery
-Crafting Cost: 100 scrap
+Crafting Cost: 50 scrap, 2 vials of acid
 Charges: 7
 Rechargeable?: No
 Description:
@@ -459,7 +531,7 @@ A simple, multi-use battery
 
 ```
 Hand crank battery
-Crafting Cost: 25 scrap
+Crafting Cost: 25 scrap, ball bearings
 Charges: 1
 Rechargeable?: Yes
 Description:
@@ -468,29 +540,60 @@ A simple battery, capable of being hand cranked as an action to recharge
 
 ```
 Coal Cell
-Crafting Cost: 100 scrap
+Crafting Cost: 100 scrap, 10 pounds of coal
 Charges: 5
 Rechargeable?: Yes
 Description:
-A battery powered by a small coal generator, may be refueled with 1 pound of coal
+A battery powered by a small coal generator, may be refueled with 10 pounds of coal
 ```
 
 ```
 Oil Cell
-Crafting Cost: 150 scrap
+Crafting Cost: 150 scrap, 50 liters of oil
 Charges: 10
 Rechargeable?: Yes
 Description:
-An battery powered by a small engine, may be refueled with 5 liters of oil
+An battery powered by a small engine, may be refueled with 50 liters of oil
+```
+
+```
+Solar Cell
+Crafting Cost: 250 scrap, mirror, 1 lb. of sand
+Charges: 10
+Rechargeable?: Yes
+Description:
+An battery powered by the unlimited radiant energy of the sun! Creates heat that powers a small steam engine by melting sand with a mirror. Regains 1 charge for every 2 hours in sunlight. 
 ```
 
 ```
 Radotonium Cell
 Crafting Cost: 250 scrap, 1 lb of radotonium
-Charges: 20
+Charges: 30
 Rechargeable?: No
 Description:
 An advanced battery powered by radotonium decay. May be ejected as an action causing an explosion with a radius of 200 feet after 1 minute, forcing all creatures within the effected area to make a DC 16 dexterity saving throw or take 8d6 force damage, or half as much on a successful save. 
 ```
 
-### Special Augments
+## Auto-Augmentor
+
+
+## Artificer
+
+### Artificer Augments
+Due to your mystical mixture of magic and the mundane you gain the following special augments:
+
+```
+Copilot
+Crafting Cost: 50 scrap, Moontear crystal (Thinking crystal)
+Requirements: Must be applied to a vehicle, or armor set
+Description:
+This augment gives the invention a mind and will of its own while activated, allowing you to give it complex commands that it will obey if it so chooses. If you are operating the invention it cannot take control from you, but it may operate autonomously if you are not controlling it (such as not wearing the armor, or not driving the vehicle). If the copilot is cooperating with you it grants you a +5 to perception checks, pointing out things you may have missed
+```
+
+```
+Aether net
+Crafting cost: 100 scrap, aether spider silk
+Requirements: Must be applied to an invention that consumes charges over time
+Description:
+This augment catches the natural aether energy flowing through the ambient environment and converts it to a small amount of usable energy, causing inventions that consume charges to consume a charge over a much longer period of operation. Multiplies the time between charge consumptions by 4.
+```
