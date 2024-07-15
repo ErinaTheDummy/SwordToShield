@@ -114,6 +114,20 @@ You are a plant, your lifeblood is the sun and soil. You have immunity to radian
 - 4 hours of sunlight
 - 8 hours of sunlight
 
+### Fungus
+You are a fungus, your lifeblood is rot and carrion. You have immunity to poison damage, but are vulnerable to fire damage. When forced to make death saving throws you do not have to expend hit dice to do so unless you were damaged by fire within the past minute. You do not need to eat or sleep, but during a rest you must enter a trance where you dig your mycelium  into at least 1 cubic foot of enriched soil or rotten wood. If you do not consume nutrients through your mycelium at least once every week you begin to decay, which is your equivalent of starving. Your amenities are as follows:
+
+- A cubic foot of enriched soil or rotten wood
+- A liter of water
+- An extra cubic foot of enriched soil or rotten wood
+- An extra liter of water
+- An extra liter of water
+- A pound of decomposing material
+- The decomposing remains of a magical beast
+- An hour resting in a wet, warm environment
+- 4 hours resting in a wet, warm environment
+- 8 hours resting in a wet, warm environment
+
 
 # Body Size
 Choose one size from the following, this will determine your base melee damage, some features, and what your ASI will look like. 
