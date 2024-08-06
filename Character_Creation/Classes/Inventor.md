@@ -47,12 +47,12 @@ Prof = proficiency bonus
 |   2 |   300 | 4  | +1  | Hitpoint Increase                     |
 |   3 |   900 | 6  | +2  | Inventive Legacy. Hitpoint Increase   |
 |   4 |  1800 | 8  | +2  | Minor Hitpoint Increase               |
-|   5 |  3600 |10  | +2  | Ability Score Increase                |
-|   6 |  6100 |12  | +2  | Inventive Legacy Features             |
+|   5 |  3600 |10  | +2  | Expertise, Ability Score Increase     |
+|   6 |  6100 |12  | +2  | Inventive Legacy Feature              |
 |   7 |  9100 |14  | +3  | Advanced inventions                   |
-|   8 | 13100 |16  | +3  | Ability Score Increase                |
-|   9 | 22600 |18  | +4  |                                       |
-|  10 | 44600 |20  | +4  | Ability Score Increase                |
+|   8 | 13100 |16  | +3  | Expertise, Ability Score Increase     |
+|   9 | 22600 |18  | +4  | Inventive Legacy Feature              |
+|  10 | 44600 |20  | +4  | Expertise, Ability Score Increase     |
 +-----+-------+----+-----+---------------------------------------+
 
 ```
@@ -462,9 +462,17 @@ Description:
 This recorder may be activated as an action, consuming one charge and allowing the recorder to record up to 2 minutes of audio. Consumes 1 charge for every 2 minutes after first 2 minutes of activation. 
 ```
 
+```
+Farswitch
+Requires: Power Source
+Crafting Cost: 100 scrap
+Description:
+This farswitch may be bound to up to 4 inventions. When activated this farswitch consumes a single charge from its power source and activates an invention of your choice which is bound to it. This invention may be activated twice in an action or once in a bonus action. Weapons bound to this remote fire randomly when activated and have disadvantage and a +0 to hit.
+```
+
 # Augments
 
-Augmentations come in three forms: Modifiers, Power sources, and  Special Augments
+Augmentations come in two forms: Modifiers and Power sources
 
 ### Modifiers
 
@@ -498,6 +506,14 @@ Crafting Cost: 500 scrap
 Requirements: Invention not already a building or structure
 Description:
 You turn the augmented invention into a building with an AC of 10 and 20 HP. You may still operate the invention as normal, but it provides full cover while being used. If the invention drops to 0 hitpoints it falls into disrepair and cannot be used. If the invention is a weapon you gain a +3 to hit with it in this state, and it automatically rolls maximum damage. If you apply this augmentation to an invention that typically only provides an effect to one creature it instead has a range of 10 feet from the building point while stationary. The stationary invention takes up a space of 5x5 feet by default.
+```
+
+```
+Selective Trigger
+Crafting Cost: 250 scrap
+Requirements: N/A
+Description:
+You place some kind of logical device on this invention which causes it to trigger autonomously in a specific circumstance. You must define this circumstance when you apply this augment. The trigger may be complex, relying on sound, sight, or a combination of both. When the conditions to trigger are met the invention activates, consuming charges or ammo as normal.  
 ```
 
 ### Power Sources
@@ -579,6 +595,42 @@ An advanced battery powered by radotonium decay. May be ejected as an action cau
 
 ## Artificer
 
+### Magical Tinkering (3rd level)
+You gain the ability to mix magical items into your inventing escapades. You may modify magical items as if they were inventions created by you. This means you may apply any augmentations that require analogous features or item bases. Magical items augmented by you do not count against your maximum inventions. If a magic item says that it regains all charges at a certain point or a charge after a certain amount of time, but you apply a new power source to it, then it no longer regains power in that way and must be refueled as if it were an invention with that specific power source. 
+
+### Vile Homonculus (6th level)
+You learn occult knowledge that allows you to create a being based off of your own basic spiritual esoteric information. This being is a Homonculus, and may be a like-minded individual with a mind of it's own, or a vessel for some spirit or other ethereal being of your choosing. Homonculi are created with one sample of your flesh, 20 liters of alchohol, a pound of gold (20 GP) mixed together in a creation vat made from 200 scrap worth of materials. The creation vat may be re-used, but if your homonculus dies you must re-acquire the other ingredients to make another one. You may have up to 3 homonculi active at one time, they perform any menial task that you instruct them to, and show an undying loyalty to you. Each of your homonculi has the following statistics:
+
+```
+Homonculus
+Tiny Monstrosity (Abomination)
+HP: 7 (3d4)
+AC: 10
+Speed: 30ft, 30ft other speed of your choice
+|STR|DEX|CON|INT|WIS|CHA|
+| 08| 10| 12| **| 10| 03|
+| -1| +0| +1| **| +0| -4|
+
+** your homonculus has the same intelligence score as you
+```
+
+You may instruct your homonculi to upkeep inventions or aid in their creation, with 2 or more homonculi aiding you, you may complete a new invention that is not a structure within 10 minutes rather than over the course of a rest. For each homonculus you have, your maximum invention upkeep is increased by 2. Homonculi are also capable of taking the help and dodge action. Homonculi know all languages that you do and are capable of conversing in those languages. 
+
+### Magic Item Replication (9th level)
+Through extensive studies of the occult and esoteric, you have gained the ability to replicate magical items. Magic items created in this way count against your maximum upkeep of inventions. In order to replicate a magical item you must have at least one original version of the magical item, and spend 1 hour studying it. The scrap cost to replicate a magical item is based on its rarity, and usually requires at least some magical scrap. Refer to the following chart for the creation cost of each rarity of magic item, you may not recreate artifacts in this way.
+
+```
+
+|  Rarity       |  Cost                            |
+| ------------- | -------------------------------- |
+|  Common       |  100 scrap                       |
+|  Uncommon     |  300 scrap,                      |
+|  Rare         |  1000 scrap, 50 Adamantite scrap |
+|  Legendary    |  5000 scrap, 50 mythril scrap    |
+| ------------- | -------------------------------- |
+
+``` 
+
 ### Artificer Augments
 Due to your mystical mixture of magic and the mundane you gain the following special augments:
 
@@ -596,4 +648,21 @@ Crafting cost: 100 scrap, aether spider silk
 Requirements: Must be applied to an invention that consumes charges over time
 Description:
 This augment catches the natural aether energy flowing through the ambient environment and converts it to a small amount of usable energy, causing inventions that consume charges to consume a charge over a much longer period of operation. Multiplies the time between charge consumptions by 4.
+```
+
+```
+Magical Infusion
+Crafting cost: 300 scrap, blue manastone
+Requirements: N/A
+Description:
+Turns one item into a "magical item" with a +1 attribute, allowing previously mundane weapons to overcome resistance to non-magical attacks.
+```
+
+```
+Mana Compactor
+Crafting Cost: 50 scrap, 5 lbs radotonium
+Charges: 5
+Rechargeable?: Yes
+Description:
+This power cell uses the latent mana that floats around everywhere to recharge its power supply! Regains all charges every day at dawn. If you run out of charges on an invention with this power source, you may use it once again, but the battery will crumble to dust
 ```

@@ -128,6 +128,13 @@ You are a fungus, your lifeblood is rot and carrion. You have immunity to poison
 - 4 hours resting in a wet, warm environment
 - 8 hours resting in a wet, warm environment
 
+### Voidal
+You are a demon, or other creature of the void. 
+
+### Infernal
+
+### Draconic
+
 
 # Body Size
 Choose one size from the following, this will determine your base melee damage, some features, and what your ASI will look like. 
