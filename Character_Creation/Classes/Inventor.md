@@ -49,7 +49,7 @@ Prof = proficiency bonus
 |   4 |  1800 | 8  | +2  | Minor Hitpoint Increase               |
 |   5 |  3600 |10  | +2  | Expertise, Ability Score Increase     |
 |   6 |  6100 |12  | +2  | Inventive Legacy Feature              |
-|   7 |  9100 |14  | +3  | Advanced inventions                   |
+|   7 |  9100 |14  | +3  |                                       |
 |   8 | 13100 |16  | +3  | Expertise, Ability Score Increase     |
 |   9 | 22600 |18  | +4  | Inventive Legacy Feature              |
 |  10 | 44600 |20  | +4  | Expertise, Ability Score Increase     |
