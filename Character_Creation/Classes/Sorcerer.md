@@ -45,16 +45,16 @@ ST = Amount of Sorcerer Techniques
 +-----+-------+----+-----+-----+-----+------------------------------------------------------+
 | LVL | XP    | HD |Prof | MMP |  ST | Features                                             |
 +-----+-------+----+-----+-----+-----+------------------------------------------------------+
-|   1 |     0 | 2  | +1  |  2  |  0  | Supernatural Origin, Mana Casting                    |
-|   2 |   300 | 4  | +1  |  4  |  0  | Hitpoint Increase                                    |
-|   3 |   900 | 6  | +2  |  8  |  2  | Sorcery Techniques, Hitpoint Increase                |
-|   4 |  1800 | 8  | +2  |  12 |  3  | Supernatural Origin Feature, Minor Hitpoint Increase |
-|   5 |  3600 |10  | +2  |  16 |  3  | Ability Score Increase                               |
-|   6 |  6100 |12  | +2  |  20 |  3  | Supernatural Origin Feature                          |
-|   7 |  9100 |14  | +3  |  24 |  4  |                                                      |
-|   8 | 13100 |16  | +3  |  32 |  4  | Ability Score Increase                               |
-|   9 | 22600 |18  | +4  |  40 |  4  |                                                      |
-|  10 | 44600 |20  | +4  |  48 |  5  | Epic Spells                                          |
+|   1 |     0 | 2  | +1  |  3  |  0  | Supernatural Origin, Mana Casting                    |
+|   2 |   300 | 4  | +1  |  6  |  0  | Hitpoint Increase                                    |
+|   3 |   900 | 6  | +2  |  12 |  2  | Sorcery Techniques, Hitpoint Increase                |
+|   4 |  1800 | 8  | +2  |  16 |  3  | Supernatural Origin Feature, Minor Hitpoint Increase |
+|   5 |  3600 |10  | +2  |  20 |  3  | Ability Score Increase                               |
+|   6 |  6100 |12  | +2  |  24 |  3  | Supernatural Origin Feature                          |
+|   7 |  9100 |14  | +3  |  32 |  4  |                                                      |
+|   8 | 13100 |16  | +3  |  40 |  4  | Ability Score Increase                               |
+|   9 | 22600 |18  | +4  |  48 |  4  |                                                      |
+|  10 | 44600 |20  | +4  |  52 |  5  | Epic Spells                                          |
 +-----+-------+----+-----+-----+-----+------------------------------------------------------+
 
 ```
@@ -80,10 +80,10 @@ You may cast a spell without using mana, but you must roll a mana check against 
 |  Cantrip      |  1          |  6        |  negligible     |
 |  1            |  2          |  8        |  negligible     |
 |  2            |  4          |  10       |  minor det      |
-|  3            |  8          |  14       |  minor det      |
-|  4            |  16         |  17       |  Bad            |
-|  5            |  32         |  18       |  Bad            |
-|  6            |  48         |  26       |  Instant Death  |
+|  3            |  10         |  14       |  minor det      |
+|  4            |  24         |  17       |  Bad            |
+|  5            |  40         |  18       |  Bad            |
+|  6            |  52         |  26       |  Instant Death  |
 | ------------- | ----------- | --------- | --------------- |
 
 ``` 

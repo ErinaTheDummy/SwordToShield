@@ -85,7 +85,7 @@ against the difficulty class of the spell level specified on the chart below. On
 
 ```
 
-If your sanity (outlined in [CoreRules.md](https://github.com/ErinaTheDummy/SwordToShield/blob/main/CoreRules.md#sanity)) ever drops to 0 you become possessed by your patron for 1 hour, who uses your body as a vessel to exert their will, after which time you regain control of your body with 1 sanity.  
+If your sanity [(outlined in CoreRules.md)](https://github.com/ErinaTheDummy/SwordToShield/blob/main/CoreRules.md#sanity) ever drops to 0 you become possessed by your patron for 1 hour, who uses your body as a vessel to exert their will, after which time you regain control of your body with 1 sanity.  
 
 ### Hitpoint Increase
 Your hitpoints increase by 1d6 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
@@ -104,7 +104,7 @@ Your patron offers you invocations to passively strengthen you or grant you abil
 # Warlock Invocations
 
 ### Devil's Sight
-You see in complete darkness as if it is bright light out to a range of 120 feet. This sight can see through magical darkness.
+You see in complete darkness as if it is bright light out to a range of 120 feet, and also grants you dimvision. This sight can see through magical darkness.
 
 ### Witch's Sight (level 6)
 Your patron teaches you the Detect Magic spell, this spell does not count against your spells known and carries no risk of sanity drain.

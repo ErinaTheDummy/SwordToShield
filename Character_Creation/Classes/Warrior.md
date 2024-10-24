@@ -94,10 +94,13 @@ As a bonus action you sweep the leg of one creature within your reach. The targe
 Before rolling a weapon attack, expend a hit die and roll it. On a hit your weapon attack deals additional damage equal to your roll.
 
 ### Feigning Strike
-As a bonus action you feign injury in order to lower the guard of your enemy. Expend a hit die. The next attack you make has advantage.
+As a bonus action you feign injury or a miss in order to lower the guard of your enemy. Expend a hit die. The next attack you make has advantage.
 
 ### Forceful Parry
-As a reaction to being attacked you may attempt to block and gain a boost to your AC equal to your proficiency bonus. If the attack fails because of this block you may make a melee attack against your attacker.
+As a reaction to being attacked you may attempt to block increasing to your AC by an amount equal to your proficiency bonus for this attack. If the attack fails because of this block you may make a melee attack against your attacker.
+
+### Artful Parry
+as a reaction to being attacked you may attempt to deflect the attack against you, increasing your AC by 1d4 + proficiency bonus for this attack.
 
 ### Poise
 As a bonus action you prepare yourself to continue the fight, regaining your composure. Expend a hit die and roll it. You gain an amount of temporary hitpoints equal to your roll. Your attacks have advantage until the start of 
@@ -119,7 +122,7 @@ The first attack on your turn gains a +5 to its attack roll but all attacks agai
 When forced to make a charisma check you may expend and roll a hit die, adding the result to your roll.
 
 ### Targeted Strike
-You attempt to target a vital area of a creature with an attack. Make your attack with a -5 penalty. On a hit you deal an additional 10 damage.
+You gain a +2 modifier to all called shots.
 
 ### Sentinel
 When a creature enters within your range you may expend a reaction to make an attack against them.
@@ -133,8 +136,11 @@ As a bonus action or as a reaction to being hit by an attack you may enter a fre
 ### Berserk (7th level, Requires Frenzy)
 When you enter frenzy you may expend an three hit dice to gain 1d10 temporary hitpoints and enter a mindless berserker rampage. While berserk you have immunity to the frightened and charmed conditions and add a +2 to your melee damage rolls. Additionally, if you roll a natural 20 on an attack while berserk the damage of that attack is doubled. You exit berserk once your frenzy ends and you gain an additional level of exhaustion.
 
+### Vigilant (7th level)
+You gain a second reaction that you may use each round.
+
 ### Improved Extra Attack (9th Level)
-When you take the attack action, you may make three attacks instead of two.
+When you take the attack action, you may make three attacks instead of two. You may not take this maneuver and surging action, if you already have surging action and wish to take this maneuver you may exchange surging action for another maneuver.
 
 ### Unstoppable (9th Level)
 When you are reduced to or below 0 hitpoints you may expend your remaining hit dice and stand back up with your maximum hitpoints.

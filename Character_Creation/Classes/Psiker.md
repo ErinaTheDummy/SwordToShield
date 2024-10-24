@@ -43,7 +43,7 @@ PK = Psionics Known
 +-----+-------+----+-----+----------+-----+------------------------------------------+
 | LVL | XP    | HD |Prof |  PD      | PK  |        Features                          |
 +-----+-------+----+-----+----------+-----+------------------------------------------+
-|   1 |     0 | 2  | +1  |  1d4     | 3   | Psi, Psionics                            |
+|   1 |     0 | 2  | +1  |  1d4     | 3   | Psi, Psionics, Psionic Recovery          |
 |   2 |   300 | 4  | +1  |  1d6     | 4   | Hitpoint Increase                        |
 |   3 |   900 | 6  | +2  |  1d8     | 5   | Hitpoint Increase                        |
 |   4 |  1800 | 8  | +2  |  1d8     | 7   | Empowered Psi, Minor Hitpoint Increase   |
@@ -52,7 +52,7 @@ PK = Psionics Known
 |   7 |  9100 |14  | +3  |  2d8     | 11  | Psionic Enhancement                      |
 |   8 | 13100 |16  | +3  |  2d10    | 12  | Ability Score Increase                   |
 |   9 | 22600 |18  | +4  |  2d10    | 13  |                                          |
-|  10 | 44600 |20  | +4  |  2d12    | 15  |                                          |
+|  10 | 44600 |20  | +4  |  2d12    | 15  | Psionic Gift                             |
 +-----+-------+----+-----+----------+------------------------------------------------+
 ```
 
@@ -62,6 +62,9 @@ Psi is a very feeble and fleeting kind of energy, if you have Psi at the start o
 
 ### Psionics
 Psionics are the practical applications of Psi energy. Psionics can be a range of things, from abilities to socially influence others, to methods of devastating psychic attack. At first level you know and are capable of utilizing 3 psionics from the list of Psiker psionics, each time you level up you may swap any number of psionics out for different selections. Certain psionics may refer to a "Psionic DC" the formula for this DC is 8 + your proficiency bonus + your intelligence modifier. Refer to the Psionics Known column of the Psiker level chart to know how many psionics you have at a given level.
+
+### Psionic Recovery
+Your budding psionic abilities allow you a small amount of power over the shape of reality around you. As a bonus action on your turn you may catch latent energy around you and reshape it into energy for your body, regaining an amount of hit die equal to your proficiency bonus. Once you use this feature you may not do so again until you rest.
 
 ### Hitpoint Increase
 Your hitpoints increase by 1d4 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
@@ -84,6 +87,18 @@ Whenever you roll your psionic die/dice for the first time after a rest, you gai
 #### Immutable Mind
 You gain immunity to the Frightened and charmed conditions and psychic damage while you have at least 1 active psi. 
 
+### Psionic Gift
+Your psionic abilities have reached their pinnacle, and the realm of the mind offers you one gift to enhance past your ultimate form. Choose one benefit from the following:
+
+#### Gift of the All Seeing
+"The all seeing eye, gazes knowingly across the vast expanses of the Mindplane" You gain truesight with an unlimited range, and ignore the sight component required by many psionics. 
+
+#### Gift of the All Knowing
+"The Mindplane holds within it all the knowledge of before, during, and after, even after itself" You gain expertise in 9 skills of your choice and you become immune to surprise. 
+
+#### Gift of the All Powerful
+"The unbreakable Mindplane, steadfast in it's holding of all things, must always stand unbroken" As an action on your turn you may choose to expend 20 psi and become immune to all forms of damage and all status conditions for 1 minute. Once you use this feature you may not do so again until you take a long rest.
+
 # Psiker Psionics
 
 ### Lesser Telekinesis
@@ -103,10 +118,10 @@ way take and deal bludgeoning damage proportional to their size. Creatures hit m
 ```
 
 ### Lesser Pyrokinesis
-As an action you may expend 2 psi and target 3 creatures within 15 feet of you, causing them to erupt in flames.  The targeted creatures must make a dexterity saving throw against your Psionic DC or take 3d6 fire damage, taking half as much on a success.
+As an action you may expend 4 psi and target 2 creatures within 15 feet of you, causing them to erupt in flames.  The targeted creatures must make a dexterity saving throw against your Psionic DC or take 3d6 fire damage, taking half as much on a success.
 
 ### Psionic Persuasion
-As an action you may expend 2 psi and gain advantage on all charisma checks against 1 creature of your choice within 30 feet of you, as you plant positive perceptions of yourself in their mind. This effect last for 1 minute, after which time the target must make an insight check against your Psionic DC, discerning that you used some form of magic on them on a success.
+As an action you may expend 2 psi and gain advantage on all charisma checks against 1 creature of your choice within 30 feet of you, as you plant positive perceptions of yourself in their mind. This effect last for 1 minute, after which time the target must make an insight check against your Psionic DC, discerning that you used some form of abnormal persuasion on them on a success.
 
 ### Mind Meld
 As a bonus action you may expend 1 psi and meld your mind with 1 creature that you can see. This melding last for 1 hour and during that time you may speak telepathically with the target and they may respond telepathically, so long as you have a shared language.
@@ -124,34 +139,40 @@ For every 2 active Psi points you have, your AC gains a modifier of +1, to a max
 As a reaction to being targeted by an attack you may expend 3 psi to gain a +5 modifier to your AC for this attack, as a shield of psionic energy protects you for an instant against the attack.
 
 ### Crush
-As an action you expend 2 psi and attempt to crush one object or creature within 60 feet. The target must make a constitution saving throw against your Psionic DC or take 3d8 force damage as they are slowly crushed, taking half as much on a success. If the targeted object or creature has 5 hitpoints or less it is automatically crushed and destroyed without making a saving throw.
+As an action you expend 4 psi and attempt to crush one object or creature within 60 feet. The target must make a constitution saving throw against your Psionic DC or take 3d8 force damage as they are slowly crushed, taking half as much on a success. If the targeted object or creature has 5 hitpoints or less it is automatically crushed and destroyed without making a saving throw.
 
 ### Psychic Stun
 As an action you may expend 4 psi and attempt to psychically stun one creature you can see. The target must make an intelligence saving throw against your Psionic DC, or take 2d8 psychic damage and become stunned until the end of your next turn, taking half as much damage and not being stunned on a success.
 
 ### Psychic Compulsion
-As an action you may expend 2 Psi in an attempt to compel a creature you can see to perform a specific action which you describe with 3 words telepathically. The target must make an intelligence saving throw against your Psionic DC or perform the action. The target will not perform an actions which would outright harm them or another creature. If the target fails they spend their next turn performing this action and doing nothing else.
+As an action you may expend 4 Psi in an attempt to compel a creature you can see to perform a specific action which you describe with 3 words telepathically. The target must make an intelligence saving throw against your Psionic DC or perform the action. The target will not perform an actions which would outright harm them or another creature. If the target fails they spend their next turn performing this action and doing nothing else.
 
 ### Reflect Projectiles
 As a reaction to being hit by a ranged attack, you may expend 4 psi and reduce the damage dealt to you by the projectiles by 1d10 plus your intelligence modifier. If the damage dealt to you is reduced to or below 0 you reflect the projectile back, dealing the same damage levied against you to your attacker.
 
+### Psionic Invisibility
+As an action on your turn you may expend 4 psi to touch a creature or object and turn it invisible. This invisibility lasts until you choose for it to end as a free action, or until you or the target make an attack, cast a spell, or use a psionic on another creature.
+
 ### Psionic Awareness (level 3)
 You gain advantage on dexterity saving throws against unseen effects such as traps,  You cannot be surprised, and hidden attackers do not have advantage to hit you while you are not unconscious or incapacitated. 
 
+### Psionic Heal (level 3)
+As an action on your turn you may expend 8 psi and heal one creature by touching them. The target creature heals 2d8 hitpoints. 
+
 ### Pyrokinesis (level 3)
-As an action you may expend 4 psi and attempt to immolate 3 targets you can see. The targets must make a dexterity saving throw against your Psionic DC or take 4d8 fire damage or half as much on a successful save. A creature reduced to 0 hitpoints by this damage explodes, forcing all creatures within 10 feet of it to make a dexterity saving throw or take 2d6 fire damage, or half as much on a successful save.
+As an action you may expend 8 psi and attempt to immolate 3 targets within 60 feet you can see. The targets must make a dexterity saving throw against your Psionic DC or take 4d8 fire damage or half as much on a successful save. A creature reduced to 0 hitpoints by this damage explodes, forcing all creatures within 10 feet of it to make a dexterity saving throw or take 2d6 fire damage, or half as much on a successful save.
 
 ### Mental Bindings (level 3)
-As an action you may expend 4 psi and attempt to paralyze one creature you can see. The target must make an intelligence saving throw against your Psionic DC or become paralyzed for 1 minute. The target may repeat the saving throw at the end of each of its turns for the duration, ending the effect on a success
+As an action you may expend 8 psi and attempt to paralyze one creature you can see. The target must make an intelligence saving throw against your Psionic DC or become paralyzed for 1 minute. The target may repeat the saving throw at the end of each of its turns for the duration, ending the effect on a success
 
 ### Psychic Command (Level 3)
-As an action you may expend 6 psi in an attempt to command one creature you can see to perform an action which you describe with up to 5 words telepathically. The target must make an intelligence saving throw against your Psionic DC or perform the action. If the target fails they spend their next turn performing this action and do nothing else. 
+As an action you may expend 8 psi in an attempt to command one creature you can see to perform an action which you describe with up to 5 words telepathically. The target must make an intelligence saving throw against your Psionic DC or perform the action. If the target fails they spend their next turn performing this action and do nothing else. 
 
 ### Read Mind (Level 3)
 As an action you may expend 6 psi in an attempt to read the mind of another creature within 120 feet of you. The target must make a wisdom saving throw against your Psionic DC or have their mind read, the target has disadvantage on this save if you are touching them. If the target fails, ask your GM one question, and the answer to that question will be pulled from the mind of the target.
 
 ### Psionic Agility (level 3)
-Whenever you make a dexterity check, you may expend a hit die and roll it, adding the result to your total. 
+Whenever you make a dexterity check, you may expend a hit die and roll your psionic die, adding half the result to your total. 
 
 ### Pyrokinetic Fireball (level 6)
 As an action you may expend 10 psi and cause an explosion of flames from one point within 240 feet. All creatures within 30 feet of that point must make a dexterity saving throw against your Psionic DC or take 8d6 fire damage, taking
@@ -170,14 +191,14 @@ As an action you may expend 10 psi to release a torrent of psychic energy agains
 ### Snap (level 6)
 As an action you may expend 12 psi to break the bones of one creature you can see. The target must make a constitution saving throw against your Psionic DC or take 4d6 force damage and have one of their bones broken, taking half as much and not breaking any bones on a success. On a failure the target drops any weapons they are holding and their movement speed is reduced to 0.
 
-### Regeneration (level 6)
-As an action you may expend 12 psi to heal a creature within 10 feet of you for 2d10 hitpoints, as you convince their wounds to close themselves up. 
+### Psionic Regeneration (level 6)
+As an action you may expend 20 psi to heal a creature within 15 feet of you for 3d10+10 hitpoints, as you weave psionic energy into their body, pulling it back together and mending the damage. If the targeted creature has lost a limb and this healing would heal them a greater amount than what would be needed to return them to full health, then the limb is reattached. 
 
 ### Memory Wipe (level 9)
-As an action you may choose to expend 20 Psi and attempt to wipe all the memories of a creature you can see. The target must make an intelligence saving throw against your Psionic DC or forget everything they have ever experienced. A creature affected by this Psionic forgets everything except the languages they speak and their own name. Creatures with resistance or immunity to psychic damage or resistance or immunity to charm are not affected by this psionic.
+As an action you may choose to expend 60 Psi and attempt to wipe all the memories of a creature you can see. The target must make an intelligence saving throw against your Psionic DC or forget everything they have ever experienced. A creature affected by this Psionic forgets everything except the languages they speak and their own name. Creatures with resistance or immunity to psychic damage or resistance or immunity to charm are not affected by this psionic.
 
 ### True Telekinesis (Level 9)
-As an action you may choose to expend 20 psi and move one object or creature within 1000 feet to another place within 1000 feet. If the creature or object collides with another creature or object they both take 6d10+20 bludgeoning damage as the force of your psi unrelentingly smashes them together.
+As an action you may choose to expend 25 psi and move one object or creature within 1000 feet to another place within 1000 feet. If the creature or object collides with another creature or object they both take 4d10+20 bludgeoning damage as the force of your psi unrelentingly smashes them together.
 
 ### Head Pop (level 9)
-As an action you may choose to expend 40 psi in an attempt to explode the head of one creature you can see. The target must make a constitution saving throw against your Psionic DC or take 10d10+20 psychic damage, taking half as much on a success as you place pressure upon their brain. When you target a creature that has 50 hitpoints or less with this psionic their head explodes, killing them instantly.
+As an action you may choose to expend 40 psi in an attempt to explode the head of one creature you can see. The target must make a constitution saving throw against your Psionic DC or take 10d10+20 psychic damage, taking half as much on a success as you place pressure upon their brain. When you target a creature that has 40 hitpoints or less with this psionic their head explodes, killing them instantly.

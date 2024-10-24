@@ -227,6 +227,22 @@ You may wield a one handed light weapon in your off hand and make attacks with i
 ##### Unarmed Strikes
 When attacking without a weapon you deal an amount of damage equal to your damage die count for your size, plus your strength modifier. If you have an innate feature that augments your unarmed strike die size, "1d8 Natural Weapon" for example, you calculate the damage for your unarmed strikes by changing the damage die of your attacks from a d1 to the damage die specified (1d8 in this example). All creatures are proficient in unarmed strikes.
 
+##### Called shots
+Sometimes in combat you may find it more advantageous to focus fire on a specific part of an enemy, but these kind of attacks may be harder to land! refer to the following chart for the effects and attack roll penalties.
+
+```
+|                Target                 | Attack Penalty |                         Effect                         |
+|---------------------------------------|----------------|--------------------------------------------------------|
+| Extremely small weakspot (eyes)       |            -10 | damage is doubled, target is blinded if targeting eyes |
+| Small weakspot (head)                 |             -7 | damage is doubled                                      |
+| Large weakspot (break in armor)       |             -5 | damage is multiplied by 1.5                            |
+| Nonlethal weakspot (weapon of target) |             -4 | Target is disarmed, takes no damage                    |
+| Small extremities (hands)             |             -3 | target drops held item, disadvantage on next attack    |
+| Large extremities (legs)              |             -2 | target's movement speed halved                         |
+```
+
+This chart defines some target locations that certainly exist on most beasts and humanoids, but certain creatures may not have these structures on their morphology, it is up to the discretion on the GM to decide what the analagous structures for these weakpoints would be on a monster to monster basis as well as perhaps requiring a check to discern a weakspot as a free action. 
+
 #### Casting a Spell
 When casting a spell as an action, refer to the spell's listing in the spell compendium and follow the instructions listed. If a spell refers to a spell attack, whether ranged or melee, the modifier for this attack is your spellcasting ability modifier + your proficiency bonus. Spell will reference many parameters as shorthand, the full explanations are as follows:
 
@@ -235,6 +251,9 @@ For a spell to target a creature or object it must be within the spell's range s
 
 ##### Components
 Nearly all spells require either Verbal (the ability to speak) or Somatic (the ability to move your body) components but some higher level spells may require expensive Material components. You cannot cast a spell without the relevant components. 
+
+###### Spell Focuses
+Spell components with no listed GP cost are able to be supplemented by simply using a spell focus! If you have a spell focus equipped and cast a spell that has components with no GP cost then ignore the material components of the spell.
 
 ##### Duration 
 Duration refers to the length of time the spell takes place over. Instantaneous spells have no duration as they happen in a single instant, but concentration spells take effect for a specific amount of time or until you choose to end them(in some cases). Certain spells will have a duration but not require concentration
@@ -476,6 +495,21 @@ For every day you go without either food, drink, or sleep you lose access to 2 o
 
 ## Special Cases
 Certain features will free you from needing food, drink, and sleep. In these cases simply count those amenities as automatically fulfilled, unless stated otherwise.
+
+## Sight
+Generally speaking, most battlefields in a setting will most likely have a light-source, but when delving into dungeons you may enter a dark or even pitch black area. You need to be able to see to do many things, including casting most spells that target a single creature or attacking normally. Attacks made while in a situation where they are outside one of your site ranges are made at disadvantage in darkness or while an illusory effect is over an area, and at an additional -5 in pitch blackness. There are many ways to get around loss of sight due to certain effects!
+
+### Dimvision
+Dimvision allows a creature in simple darkness and dim lighting to act and see as if they were in normal light levels, and also allows them to ignore the additional -5 to attack rolls in pitch blackness.
+
+### Darkvision
+Darkvision allows a creature to see within nonmagical pitch blackness as if it is normal lighting out to a certain range, and also grants the benefits of dimvision.
+
+### Devil's Sight
+Devil's Sight is a warlock invocation that allows a creature to see within any pitch blackness as if it is normal lighting out to a certain range, and also grants the benefits of dimvision.
+
+### Truesight
+Truesight allows a creature to see invisible creatures, see through illusions such as illusory terrain or a disguise spell, and see within any pitch blackness as if it is normal lighting, all out to a certain range, while also granting the benefits of dimvision.
 
 ## Languages
 Within the world there will most definitely be characters from differing cultures with different tongues, a creature cannot converse with another unless they are both capable of speaking and understanding the same language. The same goes for reading, a creature may not read text unless it is in a language they understand.

@@ -66,7 +66,7 @@ bonus + Your intelligence modifier. Refer to the following chart for the amount 
 
 |  Spell Level  |  Glyphs Req  |
 | ------------- | ------------ |
-|  Cantrip      |  1           |
+|  Cantrip      |  2           |
 |  1            |  4           |
 |  2            |  10          |
 |  3            |  18          |
@@ -79,8 +79,7 @@ bonus + Your intelligence modifier. Refer to the following chart for the amount 
 
 In order to prepare a spell you must know the glyphs used in its creation, and you must write exactly the amount noted for the spell level, as well as the spell you intend to cast with those glyphs.
 
-Once you cast a spell using the glyphs you have written in your spellbook they disappear. You may write more glyphs in your spellbook over the course of a minute by expending an amount of hit die, and rolling them, adding your intelligence modifier to each roll, and writing the resulting number of glyphs in your spellbook. Refer to the maximum spell glyphs column of the wizard level chart to determine the maximum amount of glyphs you may have written in your 
-spellbook at a given level.
+Once you cast a spell using the glyphs you have written in your spellbook they disappear, unless the spell is a cantrip in which case it remains prepared. You may write more glyphs in your spellbook over the course of a minute by expending an amount of hit die, and rolling them, adding your intelligence modifier to each roll, and writing the resulting number of glyphs in your spellbook. Refer to the maximum spell glyphs column of the wizard level chart to determine the maximum amount of glyphs you may have written in your spellbook at a given level.
 
 ### Learned Spells
 You learn 3 cantrips and 4 first level spells from the wizard spell list. You learn 2 more spells from the wizard spell list of any spell level you are capable of casting each time you level up; this may not be a spell higher than 6th level, if you wish to learn those they must be found within the world your character occupies. Due to the fact that you learn magic through study or by happenstance you may learn new spells by copying their glyphs into your spellbook. 

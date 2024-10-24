@@ -115,7 +115,7 @@ You are a plant, your lifeblood is the sun and soil. You have immunity to radian
 - 8 hours of sunlight
 
 ### Fungus
-You are a fungus, your lifeblood is rot and carrion. You have immunity to poison damage, but are vulnerable to fire damage. When forced to make death saving throws you do not have to expend hit dice to do so unless you were damaged by fire within the past minute. You do not need to eat or sleep, but during a rest you must enter a trance where you dig your mycelium  into at least 1 cubic foot of enriched soil or rotten wood. If you do not consume nutrients through your mycelium at least once every week you begin to decay, which is your equivalent of starving. Your amenities are as follows:
+You are a fungus, your lifeblood is rot and carrion. You have immunity to poison damage, but are vulnerable to fire damage. When forced to make death saving throws you do not have to expend hit dice to do so unless you were damaged by fire within the past minute. You do not need to eat or sleep, but during a rest you must enter a trance where you dig your mycelium into at least 1 cubic foot of enriched soil or rotten wood. If you do not consume nutrients through your mycelium at least once every week you begin to decay, which is your equivalent of starving. Your amenities are as follows:
 
 - A cubic foot of enriched soil or rotten wood
 - A liter of water
@@ -129,7 +129,7 @@ You are a fungus, your lifeblood is rot and carrion. You have immunity to poison
 - 8 hours resting in a wet, warm environment
 
 ### Voidal
-You are a demon, or other creature of the void. 
+You are a demon, or other creature of the void.
 
 ### Infernal
 
@@ -151,7 +151,7 @@ Carry Weight (LBS): Strength Score * 2
 ```
 
 ### Tiny Build
-You have disadvantage on strength checks and saving throws and you cannot resist a grapple from a creature of Huge size or larger. Any melee attacks you make deal 1 damage on a hit.
+You have disadvantage on strength checks and saving throws and you cannot resist a grapple from a creature of medium size or larger. Any melee attacks you make deal 1 damage on a hit, as well as any additional damage.
 
 ### Nimble Size
 You have a +5 added to dexterity checks and saving throws as well as an additional +5 (total +10) to stealth checks.
@@ -380,7 +380,7 @@ You have advantage on checks that rely on hearing.
 22
 ```
 Name: Darkvision
-Cost: 2 points
+Cost: 4 points
 Description:
 You can see in darkness within 60 feet of you as if it is bright light and darkness past that as dim light. You see in dim light as if it is bright light You may or may not be able to discern colors in complete darkness, as decided between you and your GM.
 ```
@@ -487,7 +487,7 @@ You have tentacles somewhere on your body. As an action you may attempt to grapp
 Name: Duplipedal
 Cost: 3 points
 Description:
-You walk on four or more legs, giving some benefits and causing some issues. You gain advantage on saves against being knocked prone, and your movement speed is doubled. It may be hard or even impossible for you to ascend ladders or slopes not specifically designed with your stature in mind.  
+You walk on four or more legs, giving some benefits and causing some issues. You gain advantage on saves against being knocked prone, and your highest movement speed is doubled. It may be hard or even impossible for you to ascend ladders or slopes not specifically designed with your stature in mind.
 ```
 38
 ```
@@ -506,10 +506,18 @@ You have some form of natural weapon which increases your unarmed damage die to 
 40
 ```
 Name: Blindsight
-Cost: 4 points
+Cost: 4 points for 10 feet, 8 points for 20 feet
 Description:
-You have the ability to sense the presence of creature within 60 feet, even if you cannot see them, nullifying the effects of blindness.
+You have the ability to sense the presence of creature within 10 feet, even if you cannot see them, nullifying the effects of blindness.
 ```
+41
+```
+Name: Dimsight
+Cost: 2 points
+Description:
+You me see in simple darkness and dim lighting as if you are in normal light levels, and also may ignore the additional -5 to attack rolls in pitch blackness.
+```
+
 
 # Optional: Innate Limitations
 Your GM may allow you to take on limitations to your character which give you more character points to buy innate features with! The "points returned" line of each limitation describes how many points you are given back by taking a limitation. You may only take 10 points worth of limitations unless your GM says otherwise. Limitations are numbered for convenience.
