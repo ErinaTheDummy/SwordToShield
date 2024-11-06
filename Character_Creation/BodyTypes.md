@@ -247,9 +247,9 @@ You gain damage type resistance to one type of damage other than bludgeoning, pi
 3
 ```
 Name: Natural Armor
-Cost: 4 points
+Cost: 4 points, 8 points for base 13 AC
 Description: 
-You have a natural armor that grants you a base AC of 13. You may add your dexterity modifier to this AC.
+You have a natural armor that grants you a base AC of 12. You may add your dexterity modifier to this AC.
 ```
 4
 ```
