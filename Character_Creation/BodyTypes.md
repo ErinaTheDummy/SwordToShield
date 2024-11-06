@@ -233,9 +233,9 @@ Your GM will give you a number of "character points" (usually 10) that you may s
 1
 ```
 Name: Protective Shell
-Cost: 3 points
+Cost: 5 points
 Description: 
-Your AC may not fall below 16.
+Your AC may not fall below 16. You are unable to wear armor unless it is specifically crafted for your stature, costing three times the standard gold cost in addition to any other modifiers from size.
 ```
 2
 ```
@@ -247,7 +247,7 @@ You gain damage type resistance to one type of damage other than bludgeoning, pi
 3
 ```
 Name: Natural Armor
-Cost: 2 points
+Cost: 4 points
 Description: 
 You have a natural armor that grants you a base AC of 13. You may add your dexterity modifier to this AC.
 ```
@@ -261,7 +261,7 @@ You have some form of natural weapon which increases your unarmed damage die to 
 5
 ```
 Name: 1d8 Natural Weapon
-Cost: 2 points, 3 if finesse
+Cost: 3 points, 4 if finesse
 Description: 
 You have some form of natural weapon which increases your unarmed damage die to a d8.
 ```
@@ -331,7 +331,7 @@ Your melee range increases by 5 feet.
 15
 ```
 Name: Strong Build
-Cost: 2 points
+Cost: 3 points
 Description:
 Your Pushing, Carrying, and Lifting capacity is multiplied by 3.
 ```
@@ -401,7 +401,7 @@ You may disengage or hide as a bonus action on your turn.
 25
 ```
 Name: Damage Immunity
-Cost: 8 points (Fire, Lightning, Necrotic, Force, Thunder, Psychic) 6 points (Radiant, Acid, Cold) 4 points (Poison)
+Cost: 12 points (Fire, Lightning, Necrotic, Force, Thunder, Psychic) 8 points (Radiant, Acid, Cold) 6 points (Poison)
 Description:
 You have immunity to one type of damage. Ask your GM for permission before taking this feature.
 ```
@@ -422,14 +422,14 @@ You have Advantage on saves made against magical sources.
 28
 ```
 Name: Toughness
-Cost: 4 points if taken once, 8 if taken twice, 16 if taken 3 times
+Cost: 4 points if taken once, 10 if taken twice, 18 if taken 3 times
 Description:
 You gain 1 additional maximum hitpoint each level, this increases by one dependent on how many times you take this feat, up to a maximum of 3 additional hitpoints a level.
 ```
 29
 ```
 Name: Mimicry
-Cost: 1 point
+Cost: 2 point
 Description:
 You are capable of perfectly reproducing any sound which you have heard before. A creature must make an investigation check against your charisma or intelligence + 8 + your prof in order to determine the noise was mimicry.    
 ```
@@ -499,9 +499,9 @@ On a critical weapon attack you may roll an additional damage die and add that t
 39
 ```
 Name: Draining Attack
-Cost: 4 points, 5 if finesse 
+Cost: 4 points, 5 if finesse  
 Description:
-You have some form of natural weapon which increases your unarmed damage die to a d6. When you make an attack with this natural weapon and hit you may expend a hit die and regain hitpoints equal to the damage dealt.
+If you do not already have some form of natural weapon, you gain one which increases your unarmed damage die to a d6. When you make an attack a natural weapon and hit you may expend a hit die and regain hitpoints equal to the damage dealt.
 ```
 40
 ```
@@ -691,6 +691,13 @@ Name: Painless
 Points Returned: 2
 Description:
 You cannot feel pain. Whenever damage is dealt to you your GM does not tell you how much damage was sustained, and the GM will privately keep track of your HP. You may visual assess your wounds and have them described by your GM as a free action.
+```
+24
+```
+Name: Urges
+Points Returned: 10 for daily, 8 for weekly, 6 for monthly
+Description:
+Your mind is racked with urges to consume, to maim, to kill, or some other deplorable disgusting act. If your urges are not sated at least once a month, week, or day (your choice, affects point return) then you may only regain half as many hit dice as usual, and none from consuming food (or your food equivalent for your creature type), although you will still require food to survive if you need it. 
 ```
 
 ## Racial Presets
