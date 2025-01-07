@@ -4,8 +4,8 @@ this document details all of the different types of bodies and their features av
 ### Introduction to Body Type
 A body type is an expression of the size and natural abilities of your character. Body types lack a name for each and instead can be described by a name of your own creation, or a list of all the features of a given body type.
 
-### Ability Score Increase
-An ability score increase is an increase to your rolled (or bought) stats determined by your unique physicality. ASIs are added after you roll your stats, meaning you may choose to allocate them where it would be most helpful to you. 
+### Ability Score Change
+An ability score change is an increase (and sometimes decrease) to your rolled (or bought) stats determined by your unique physicality. ASCs are added after you roll your stats, meaning you may choose to allocate them where it would be most helpful to you. 
 
 ### Important Note
 For the melee damage section of each body size there is a referenced "d1" you do not have to roll a one sided die for this and may simply use 1. The damage is only referred to in this way so that rulings that increase melee damage are
@@ -146,7 +146,7 @@ Reach: 5 feet
 Speed: 20 Feet
 Height: Between 1 inch tall and 2 feet tall.
 Melee Damage: 1
-ASI: +4 to two separate stats, -4 to another. (+4 +4 -4)
+ASC: +4 to two separate stats, -4 to another. (+4 +4 -4)
 Carry Weight (LBS): Strength Score * 2
 ```
 
@@ -166,7 +166,7 @@ Reach: 5 feet
 Speed: 25 Feet
 Height: Between 2 feet tall and 4 feet tall.
 Melee Damage: 1d1 + Strength Modifier
-ASI: +2 to two stats, -2 to another (+2 +2 -2)
+ASC: +2 to two stats, -2 to another (+2 +2 -2)
 Carry Weight: Strength Score * 7
 ```
 
@@ -183,7 +183,7 @@ Reach: 5 feet
 Speed: 30 feet
 Height: Between 4 feet and 9 feet tall.
 Melee Damage: 1d1 + Strength Modifier
-ASI: +2 to one stat, +1 to another (+2 +1) or +1 to three stats (+1 +1 +1) or +3 to one (+3)
+ASC: +2 to one stat, +1 to another (+2 +1) or +1 to three stats (+1 +1 +1) or +3 to one (+3)
 Carry Weight: Strength Score * 7
 ```
 
@@ -197,7 +197,7 @@ Reach: 10 feet
 Speed: 35 feet
 Height: Between 9 feet and 15 feet tall.
 Melee Damage: 2d1 + Strength Modifier
-ASI: +2 to two stats, -2 to another (+2 +2 -2)
+ASC: +2 to two stats, -2 to another (+2 +2 -2)
 Carry Weight: Strength Score * 21
 ```
 
@@ -214,7 +214,7 @@ Reach: 15 feet
 Speed: 40 feet
 Height: Between 15 feet and 25 feet tall.
 Melee Damage: 3d1 + Strength Modifier
-ASI: +4 to two stats, -4 to another (+4 +4 -4)
+ASC: +4 to two stats, -4 to another (+4 +4 -4)
 Carry Weight: Strength Score * 63
 ```
 
@@ -515,7 +515,7 @@ You have the ability to sense the presence of creature within 10 feet, even if y
 Name: Dimsight
 Cost: 2 points
 Description:
-You me see in simple darkness and dim lighting as if you are in normal light levels, and also may ignore the additional -5 to attack rolls in pitch blackness.
+You see in simple darkness and dim lighting as if you are in normal light levels, and also may ignore the additional -5 to attack rolls in pitch blackness.
 ```
 
 

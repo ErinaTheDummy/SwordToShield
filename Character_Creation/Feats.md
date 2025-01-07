@@ -9,7 +9,7 @@
 ################################################################################
 
 ```
-Feats are optional features you may add to your character instead of taking an ability score increase, certain feats may require you already have certain innate features or another feat!
+Feats are optional features you may add to your character instead of taking a class ability score increase, certain feats may require you already have certain innate features or another feat!
 
 ## Knowledge Feats
 Knowledge feats come from learning something new and gaining an advantage from that. 
@@ -68,7 +68,7 @@ You learn 2 languages of your choice.
 You learn 2 techniques from the rogue class.
 
 ### Medic
-You gain proficiency in medicine, if you are already proficient in medicine you instead gain expertise. During a rest you may provide the medical aid amenities to yourself and other characters as well as high quality medical aid amenity if you expend a charge of a medical kit. 
+You gain proficiency in medicine, if you are already proficient in medicine you instead gain expertise. During a rest you may provide the medical aid amenities to yourself and other characters as well as high quality medical aid amenity if you expend a charge of a medical kit. Your medical kits also have twice as many charges when used by you.
 
 ### Battle Arts
 You learn 2 martial arts from the martial artist class.

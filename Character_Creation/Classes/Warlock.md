@@ -67,6 +67,7 @@ or they may consider taking back your magic. Choose one patron from the followin
 - Demonic
 - Celestial
 - Agrestal
+- Deep One
 
 ### Pact Casting
 You are capable of casting spells thanks to your otherworldly pact. Your casting modifier for these spells is charisma. when a spell refers to a saving throw the DC is 8 + Your Proficiency Bonus + Your Charisma Modifier. At level 1 you learn 3 cantrips from the warlock spell list and each level after that you learn one leveled spell of your maximum spell level or lower. 
@@ -292,6 +293,50 @@ The transformation ends after 10 minutes.
 You learn a ritual to return one good hearted creature to life. Over the course of 8 hours you may perform a ritual to cast the Raise Dead spell. The total cost for the material components of this spell is 750 GP for you.  
 
 ---
+
+## Deep One 
+You have struck a deal with some ancient being, or it has infected your mind. This unknowable thing whispers power into your actions.
+
+### Pact Spells
+You are granted additional spells by your patron at different levels, these spells do not count against your total spells known and are considered always prepared.
+
+```
+
+|  Warlock Level  |  Spell                |
+| --------------- | --------------------- | 
+|  1              |  Cut Thoughts         |
+|  2              |  Comprehend Languages |
+|  4              |  Enthrall             |
+|  6              |  Hunger of Horrors    |
+| --------------- | --------------------- |
+
+```
+
+### Pact Feature: Mental Malleability (level 1)
+Your patron has seen all that there was and is, and perhaps even what will be. You are granted a knowledge of casting techniques that allow you to choose a different ability to be used in place of charisma for your casting modifier and spell saving throws. You may choose from Constitution, Intelligence, or Wisdom for this new modifier.
+
+### Pact Feature: Gifts of The Deep (level 5) 
+Your body morphs and shapes to an unsettling form, you gain the following benefits as well as physical changes of your choice that allow you to utilize them:
+
+- You may breath underwater
+- You have a swimming speed equal to twice your walking speed
+- Strong current and waves do not cause difficult terrain for you
+- You gain resistance to cold and psychic damage
+- You may speak underwater and be understood by those who understand whatever language you speak
+
+
+### Pact Boon: Wrath of The Ancients
+As a bonus action on your turn you may expend 10 hit dice and invoke the wrath of your patron, filling your body up with eons of rage. You gain 50 temporary hitpoints and the following benefits for the duration:
+
+- You gain a hovering speed equal to twice your walking speed
+- Tendrils erupt from every part of your body granting you an additional action and up to 8 object interactions
+- You gain truesight out to 360 feet
+- You cannot be surprised, charmed, frightened, grappled, restrained, or stunned
+- If a creature deals psychic damage to you, you take no damage and the attacker takes 4d10 psychic damage
+- If a creature attempts to read your mind or cast divination magic upon you they take 4d10 psychic damage
+- All creatures within 360 feet of you must make a wisdom saving throw or become frightened of you for the duration
+
+On the next turn after taking the bonus action to activate this form, you lose 1 sanity. For each turn after that you lose one more sanity than the last turn (turn 2 after activating you would lose 2 sanity, turn 3 you would lose 3, etc.) You may end this form early as a free action.
 
 # Warlock Spells List
 
