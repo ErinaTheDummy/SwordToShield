@@ -13,7 +13,7 @@
 ## Coinage
 Coins are the most basic form of currency, ranging from platinum to copper their
 value is ensured by their rarity, making them accepted almost anywhere. 50 coins
-is one pound of weight. To find the transfer rate for differnt grades of metal,
+is one pound of weight. To find the transfer rate for different grades of metal,
 refer to the following chart:
 
 ```

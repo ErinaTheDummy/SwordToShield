@@ -388,6 +388,9 @@ A creature is considered surprised when an action is taken in relation to them b
 - An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
 - Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
 
+### Intangible
+- An intangible creature is impossible to touch or damage with nonmagical damage
+
 ### Paralyzed
 - A paralyzed creature is incapacitated and can't move or speak. 
 - A paralyzed creature automatically fails Strength and Dexterity saving throws.

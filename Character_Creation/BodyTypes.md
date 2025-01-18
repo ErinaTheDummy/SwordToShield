@@ -44,7 +44,7 @@ You are a Fae creature, or descendant from one. A being of rules and innate law,
 
 
 ## Constructed
-You are an automaton a or some other kind of abiotic life, which requires upkeep in different ways compared to biotic life. You do not need to breath or eat and are unaffected by extreme temperature weather conditions. You are also immune to poison damage and the poisoned effect as well as disease. Rather than being the same as those listed in the core rules, your amenities are as follows:
+You are an automaton a or some other kind of abiotic life, which requires upkeep in different ways compared to biotic life. You do not need to breath or eat, or sleep, cannot be put to sleep by magical means, cannot have your mind read and are unaffected by extreme temperature weather conditions. You are also immune to poison damage and the poisoned effect as well as disease. Rather than being the same as those listed in the core rules, your amenities are as follows:
 
 - Pound of scrap material
 - Liter of oil
@@ -59,7 +59,7 @@ You are an automaton a or some other kind of abiotic life, which requires upkeep
 
 
 ## Undead
-You are an undead creature. Created by magic, science, or otherwise, you require different things to survive compared to your living counterparts. You do not need to breathe or eat standard foods and you are unaffected by extreme temperature weather conditions. You are also immune to poison damage and the poisoned effect as well as disease. Your amenities are as follows:
+You are an undead creature. Created by magic, science, or otherwise, you require different things to survive compared to your living counterparts. You do not need to breathe or eat standard foods, or sleep, cannot be put to sleep by magical means and you are unaffected by extreme temperature weather conditions. You are also immune to poison damage and the poisoned effect as well as disease. Your amenities are as follows:
 
 - A pound of raw meat
 - A liter of blood
@@ -87,7 +87,7 @@ You are an aberration or some other alien being, giving you certain benefits but
 - High quality medical aid
 
 ## Monstrous
-You are a monstrosity. You have advantage against corruption saving throws and gain one good corruption with a value of 10 or less. Your amenities are as follows:
+You are a monstrosity. You have advantage against corruption saving throws and gain one good corruption. When you have to roll on the corruption table you may roll twice and choose the one you like more. Your amenities are as follows:
 
 - A pound of fresh or cooked meat
 - A liter of water
@@ -115,7 +115,7 @@ You are a plant, your lifeblood is the sun and soil. You have immunity to radian
 - 8 hours of sunlight
 
 ### Fungus
-You are a fungus, your lifeblood is rot and carrion. You have immunity to poison damage, but are vulnerable to fire damage. When forced to make death saving throws you do not have to expend hit dice to do so unless you were damaged by fire within the past minute. You do not need to eat or sleep, but during a rest you must enter a trance where you dig your mycelium into at least 1 cubic foot of enriched soil or rotten wood. If you do not consume nutrients through your mycelium at least once every week you begin to decay, which is your equivalent of starving. Your amenities are as follows:
+You are a fungus, your lifeblood is rot and carrion. You have immunity to poison damage, but are vulnerable to fire damage. When forced to make death saving throws you do not have to expend hit dice to do so unless you were damaged by fire within the past minute. You do not need to eat or sleep, and cannot be put to sleep by magical means, but during a rest you must enter a trance where you dig your mycelium into at least 1 cubic foot of enriched soil or rotten wood. If you do not consume nutrients through your mycelium at least once every week you begin to decay, which is your equivalent of starving. Your amenities are as follows:
 
 - A cubic foot of enriched soil or rotten wood
 - A liter of water
@@ -128,12 +128,11 @@ You are a fungus, your lifeblood is rot and carrion. You have immunity to poison
 - 4 hours resting in a wet, warm environment
 - 8 hours resting in a wet, warm environment
 
-### Voidal
-You are a demon, or other creature of the void.
+### VARIANT BODY TYPE: Fiend (DO NOT USE THIS UNLESS YOUR GM APPROVES OF IT)
+You are a demon, devil, or other creature of the void or hells. You are immune to or resist damage types from poison, acid, necrotic, fire, psychic, or cold damage (choose two to be immune to, and resist other two) and are immune to being charmed or put to sleep by magical means. Decide a true name and any number of fake names you will go by, If a creature ever cites your true name to you then you lose all resistances and immunities you have to damage dealt to you by the speaker of your true name, your movement speed is reduced to 0 unless ordered to move, and you must obey any commands they give you that start and end with your true name. A creature may obtain your true name a variety of ways. You have no amenities and regain up to 6 hit dice every time you rest. 
 
-### Infernal
-
-### Draconic
+### VARIANT BODY RULE: Infection
+You are a sentient infection that may spread from person to person, perhaps a demon possessing a humanoid? or a Fungal Brain parasite infecting a monstrosity? Choose one creature type, this is your primary creature type and you will forever retain it, all its amenities, benefits, and detriments. Choose another creature type, this is your secondary creature type, representing the body you temporarily inhabit. You gain all of your secondary creature type amenities, benefits, and detriments, but if this body perishes, you return to your primary creature type and may find and take the body of a different creature. You do cannot regain hit dice by any means without a host body, and die if you are reduced to 0 hit dice or 0 hitpoints in the form of your primary creature type. Each day you spend without a host body you lose 1 hit die. 
 
 
 # Body Size
@@ -517,7 +516,14 @@ Cost: 2 points
 Description:
 You see in simple darkness and dim lighting as if you are in normal light levels, and also may ignore the additional -5 to attack rolls in pitch blackness.
 ```
-
+42
+```
+Name: Spectral
+Cost: 6 points
+Description:
+As a bonus action you may expend a hit die and become invisible or intangible or both for two hit dice. This lasts until you use a bonus action to return to your normal state, attempt to pass through a material you cannot, make an attack, or cast a spell.
+```
+[Invisible](https://github.com/ErinaTheDummy/SwordToShield/blob/main/CoreRules.md#invisible) and [Intangible](https://github.com/ErinaTheDummy/SwordToShield/blob/main/CoreRules.md#intangible) as defined by the core rules
 
 # Optional: Innate Limitations
 Your GM may allow you to take on limitations to your character which give you more character points to buy innate features with! The "points returned" line of each limitation describes how many points you are given back by taking a limitation. You may only take 10 points worth of limitations unless your GM says otherwise. Limitations are numbered for convenience.
