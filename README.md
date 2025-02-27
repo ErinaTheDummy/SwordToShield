@@ -45,6 +45,6 @@ If you're a player having trouble navigating, use these helpful links.
 
 ### [Magic Items](https://github.com/ErinaTheDummy/SwordToShield/blob/main/TomeOfMagicalCreation.md)
 
-### [AccursedJournal.md](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md)
+### [AccursedJournal](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md)
 
 ### [Lore](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/Lore.md)
