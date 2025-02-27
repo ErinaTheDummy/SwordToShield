@@ -130,6 +130,15 @@ When a creature enters within your range you may expend a reaction to make an at
 ### Charge
 When you move 20 feet in a straight line towards a creature and make an attack against them you deal an additional 1d8 damage. 
 
+### Mounted Combatant
+
+
+### Split Shot
+When you make an attack with a short or longbow you may choose to knock back up to 3 arrows instead of the standard 1, for each additionally arrow take a -5 penalty to hit (max -10). You may target one creature with each arrow, or target the arrows at different creatures in any combination. Roll one attack roll regardless of how many creatures you are targeting and roll a separate damage die for each arrow and don't forget that different targets may have different Armor Classes. 
+
+### Quickshot (level 3)
+Whenever you are wielding a short or longbow you may make an additional attack with it as a bonus action. This attack does not have any ability modifiers added to its damage.
+
 ### Frenzy
 As a bonus action or as a reaction to being hit by an attack you may enter a frenzied state of mind. While frenzied you have resistance to bludgeoning, piercing, and slashing damage and gain advantage on strength checks and saving throws. The frenzy ends after 1 minute and you suffer a state of exhaustion. You are not effected by exhaustion while frenzied.
 

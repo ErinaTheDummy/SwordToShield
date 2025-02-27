@@ -515,52 +515,104 @@ Devil's Sight is a warlock invocation that allows a creature to see within any p
 Truesight allows a creature to see invisible creatures, see through illusions such as illusory terrain or a disguise spell, and see within any pitch blackness as if it is normal lighting, all out to a certain range, while also granting the benefits of dimvision.
 
 ## Languages
-Within the world there will most definitely be characters from differing cultures with different tongues, a creature cannot converse with another unless they are both capable of speaking and understanding the same language. The same goes for reading, a creature may not read text unless it is in a language they understand.
+Within the world there will most definitely be characters from differing cultures with different tongues, a creature cannot converse with another unless they are both capable of speaking and understanding the same language. The same goes for reading, a creature may not read text unless it is in a language they understand. The following table displays available languages as well as the type of rarity/context you might expect to see them in.
+
+```
+| Language Type |                          languages                          |
+|---------------|-------------------------------------------------------------|
+| Common        | Ulfen, Ebrannan, Valari, Handspeak, Solari                  |
+| Exotic        | Machine Language, Deonic, Chitterspeak, Primean, Anirandrus |
+| Mystic        | Arcanium, Nixian, Voidspeak, Deepspeech                     |
+| Ancient       | Varanian, Brogian, Celestial, Infernal, Abyssal             |
+|---------------|-------------------------------------------------------------|
+```
 
 ### Common Languages
-The following are some common languages and their very brief descriptions
+Common languages are regional or country-wide languages, if you speak one of these you'll probably be able to communicate freely with anyone in the region where they are considered common.
 
-#### Common
-Common is the most... well... common language in a setting!
+#### Ulfen
+Common language of Ulfos, created due to societal isolation from the northern half of the world. Spoken most commonly by traders in the area north of Arourea, spoken by common people in Ulfos.
+
+#### Ebrannan 
+Ebranan is spoken in North and South Ebrana. In North Ebrana, speaking Ebranan is considered to be a sign of belonging to the lower class. 
+
+#### Valari
+Valari is spoken in the six tribes of eastern Valarus. There are six dialects, one for each tribe. When you learn Valari, pick which dialect you speak from the following: 
+- Sudryal
+- Khiiral
+- Qimari
+- Bimaer
+- Caizer
+- Talanashta
+A speaker of one dialect can understand basic concepts of another, but must learn the other dialect in order to understand details. There is no written form of Valari.
 
 #### Handspeak
-Handspeak is a language that is conveyed with signs of ones hands rather than through vocal speech.
+Handspeak is a language which relies on visual cues made through hand-signs. A person who does not know hand speak but knows at least one other common language can discern the basic meaning of a person speaking in hand speak, but they cannot understand specific details unless they speak the same dialect of handspeak. There are four dialects of handspeak, when you learn handspeak choose one or take the dialect of your teacher.
+- Ulfen
+- Ebrannan
+- Aniran
+- Maldrite
 
-#### Brogdingnagian
-The language of the giants
+#### Solari
+Solari is the national language of Solaris, Solaris was formerly under oppressive dragon rule and there has been a cultural renaissance in the years since then, meaning that languages other than Solari are less likely to get a response in Solaris.
 
-#### Varanus
-The language of the dragons
+### Exotic languages
+Exotic languages are languages which are less commonly spoken, usually used in a very specific context or requiring a specific special physiology to speak it.
 
-#### Infernal
-The language of devils
+#### Machine Language
+Machine language is spoken by constructs to other constructs. Machine language may not be understood by non-construct creatures unless they have magic, tools, or implants to help them. If a specific passage or recording of machine language were studied by non-constructs they could crack its encryption and understand it by working over the course of a rest and passing an intelligence check. Machine language comes in three dialects, all speakers and readers of any dialect can understand, read, and write all other dialects, but they differ in difficulty of encryption.
+```
+|  Dialect   | Difficulty (Intelligence check) |
+|------------|---------------------------------|
+| Morse      |                              12 |
+| Gittercode |                              18 |
+| 13375p34k  |                              24 |
+```
 
-#### Voidspeak
-The language of demons
+#### Deonic
+Deonic is spoken in Deona. Only Deon possess the vocal anatomy to speak Deonic, but anyone can learn the written form.
 
-#### Abyssal
-The language of leviathan
+#### Chitterspeak
+Chitterspeak is similar to Deonic, originating from insectoids and other races with special anatomy in Ulfos, but due to its much less harsh pronunciations it can be spoken by any creature. The written form of Chitterspeak simply uses Ulfen writing formalities and can be read by anyone who knows Ulfen.
 
-#### Celestial
-The language of the gods and angels
-
-#### Deep speech
-The language of abberations and other creatures from the depths of the planes
-
-#### Arcanium
-The language of magic, glyphs of arcanium are used by wizards to cast spells
-
-#### Beast tongue
-Universal language of beasts
-
-#### Primordium
-The language of elements and elementals, often used alongside arcanium in spells
-
-#### Nixian
-Language of fae and fairies 
+#### Primean
+Primean is a language made of animalistic grunts, roars, trills, Purrs, hisses, barks, coos, chirps, ribbits, squeaks and growls. Primean is a natural language that formed over thousands of years through the interactions of beastfolks and it is ever growing and changing. Chances are, if you meet a beast folk, this is their first language.
 
 #### Anirandrus
-Language spoken amongst worshipers of An'ire
+Anirandrus is a language spoken by those who are deep in the Anirite faith, usually those who only engage with others of the faith. It is a language made of social isolation descendant from celestial, speakers of celestial may extract basic words from passages and speech in Anirandrus and vice versa. 
+
+### Mystic Languages
+These are languages inherently tied to magic and the mystical, tread lightly when speaking in them as even reactive words can be a small magic in their own way.
+
+#### Arcanium
+Language of glyphs used by wizards to make spells. If you know Arcanium you can understand what spells a wizard has prepared or what an incantation inscribed into an ancient ruin might mean.
+
+#### Nixian
+Language spoken by citizens of wonderland, the home of the fae, also commonly spoken by high elves.
+
+#### Voidspeak
+Langauge of demons.
+
+#### Deepspeech
+Language of Abberations and all the creatures from the far edges of the universe. Spoken in guttural deep hums and tongue clicks.
+
+### Ancient Languages
+Languages that pre-date all recorded history.
+
+#### Varanian
+Language of Dragons.
+
+#### Brogian
+Language of Giants.
+
+#### Celestial
+Language of The Heavens.
+
+#### Infernal
+Language of The Hells.
+
+#### Abyssal
+Language of leviathans, beings older than the universe. 
 
 ## Corruption
 While adventuring you may encounter many harmful environmental effects, the most notable and visceral of these effects is corruption. Corruptions arise from interactions with corruptants, and they cause potent and often detrimental effects on your body. A list of all corruption tables may be found in the [Accursed Journal.md](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#corruptions) document

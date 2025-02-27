@@ -147,6 +147,12 @@ You have a +2 to attack rolls with thrown weapon attacks.
 Your lies precede you, by the time your lies have traveled around the world, the truth has barely gotten out of bed. When you succeed on a deception check against a creature you may encourage them to spread the lie, they feel compelled
 to share the 'truth' you've told them and they will begin to inject it into conversations of gossip amongst their peers.
 
+### Split Shot
+When you make an attack with a short or longbow you may choose to knock back up to 3 arrows instead of the standard 1, for each additionally arrow take a -5 penalty to hit (max -10). You may target one creature with each arrow, or target the arrows at different creatures in any combination. Roll one attack roll regardless of how many creatures you are targeting and roll a separate damage die for each arrow and don't forget that different targets may have different Armor Classes. 
+
+### Quickshot (level 3)
+Whenever you are wielding a short or longbow you may make an additional attack with it as a bonus action. This attack does not have any ability modifiers added to its damage.
+
 ### One-man ambush (level 3)
 Whenever attacking a creature within 5 feet of you, when there are no other hostile creatures within 5 feet of you, you may deal sneak attack damage. 
 

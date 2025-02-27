@@ -378,3 +378,9 @@ You have a +2 to attack rolls made with one handed weapons when one of your hand
 
 ### Confidence
 You gain a bonus to your initiative rolls equal to your charisma modifier.
+
+### Trained Sights
+As an action on your turn you may expend a hit die and focus your firearm's sights on one 10 foot by 10 foot area within your effective range, reducing your movement speed to 0 and consuming your reaction for this turn. Until the start of your next turn, you may make an attack attack against any creature who enters that area without using a reaction.
+
+### Covering fire
+As a reaction to a creature making an attack, you may fire in their direction with the intent to distract or scare them from their assault. The target must make a wisdom saving throw against your maneuver DC or miss their attack and lose the ability to take the attack action until the end of their turn

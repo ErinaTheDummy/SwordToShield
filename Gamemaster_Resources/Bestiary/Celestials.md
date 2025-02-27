@@ -24,7 +24,7 @@ granular humanoid matters.
 
 ### Lesser Angels
 The most standard and first choir of angels, lesser angels are personal 
-protectors, assigned to a specific person as a gaurdian spirit.
+protectors, assigned to a specific person as a guardian spirit.
 
 ### Archangels
 The second choir of angels, Archangels are intended to lead lesser angels about

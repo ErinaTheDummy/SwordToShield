@@ -165,12 +165,12 @@ gemstone or crystal, its true form, or a leviathan shard
 ```
 
 ## Slimes
-Slimes are globs of corrosive gel, they consume prey by englufing them entirely
+Slimes are globs of corrosive gel, they consume prey by engulfing them entirely
 and slowly dissolving them
 
 ### Green slime
 Green slimes are the weakest and softest of the slimes, capable of being 
-disbatched by most, they usually survive on a diet of small animals.
+dispatched by most, they usually survive on a diet of small animals.
 
 ```
 Green Slime
@@ -189,7 +189,7 @@ Proficiency Bonus: +1
 
 - Slimy: The slime has resistance to non-magical slashing, bludgeoning, and 
 piercing.
-- Flamable: The green slime has vulnerability to fire damage.
+- Flammable: The green slime has vulnerability to fire damage.
 
 # Attacks:
 
@@ -198,7 +198,7 @@ piercing.
 
 # Actions
 
-- Englulf: The green slime enters the space of a creature size small or smaller,
+- Engulf: The green slime enters the space of a creature size small or smaller,
 and attempts to engulf it. The target must make a DC 11 strength saving throw or
 become restrained and take 3d6 acid damage. The engulfed creature takes acid 
 damage at the beginning of its turn until it is no longer retrained and may 

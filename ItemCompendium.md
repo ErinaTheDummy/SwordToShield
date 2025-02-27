@@ -398,7 +398,7 @@ good for that!
 
 ### Weapon Sizing
 Many characters may have more extreme sizes, meaning they cannot utilize weapons 
-unless they are specificially designed for them, requiring a different amount of 
+unless they are specifically designed for them, requiring a different amount of 
 materials. For each size above medium multiply the cost and damage die of these 
 weapons by X + 1 where "X" is the number of sizes above medium. For each size 
 below small, multiply the cost by 1/(X+1) where "X" is the number of sizes lower 
@@ -408,8 +408,8 @@ than medium.
 
 ### Ammunition
 Weapons with the ammunition property require ammunition to make ranged attacks. 
-Each attack expends one piece of ammunication. Retrieving the ammunition is part
-of the attack. You can recover half your expended ammunication by spending one 
+Each attack expends one piece of ammunition. Retrieving the ammunition is part
+of the attack. You can recover half your expended ammunition by spending one 
 minute to search the battlefield. When you use a weapon with the ammunition 
 property to make a melee attack, it's treated as an improvised weapon.
 
@@ -427,7 +427,7 @@ damage does not benefit from your ability modifier.
 
 ### Loading
 Each time you use an action, bonus action, or reaction to make an attack with a 
-weapon posessing the loading property, you can only fire once, regardless of how 
+weapon possessing the loading property, you can only fire once, regardless of how 
 many attacks you have.
 
 ### Range
@@ -449,7 +449,7 @@ You can throw thrown weapons to make a ranged Attack. You use the same modifier
 for the thrown attack as you would make for the melee attack.
 
 ### Two-handed
-This weapon requirees both hands to make attacks unless you have a strength 
+This weapon requires both hands to make attacks unless you have a strength 
 score of 22 or higher.
 
 ### Versatile
@@ -457,7 +457,7 @@ This weapon can be used with one hand, or with two hands. The two-handed damage
 value appears in parentheses after the property.
 
 ### Improvised Weapons
-At the keeper's discretion, a an improvised weapon may be used to inflict more 
+At the Gamemaster's discretion, a an improvised weapon may be used to inflict more 
 damage than an unarmed attack. If it resembles a weapon, such as a club, it may 
 be used as such with the same damage, proficiency, and ability modifier. If it 
 doesn't resemble a weapon, it deals at most 1d4 damage, has a normal range of 20 
@@ -482,6 +482,6 @@ when you're not mounted.
 #### Net: 
 Creatures large or smaller are restrained when hit by a net until freed. 
 Breaking out requires a DC 11 strength check. Dealing 5 slashing damage to the 
-net (AC 10) destroyes the net, ending the restrained effect. When you use an 
+net (AC 10) destroys the net, ending the restrained effect. When you use an 
 action, bonus action, or reaction to attack with a net, you can make only one 
 attack regardless of how many attacks you otherwise have.

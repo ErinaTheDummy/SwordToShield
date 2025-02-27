@@ -43,7 +43,7 @@ Prof = proficiency bonus
 +-----+-------+----+-----+---------------------------------------+
 | LVL | XP    | HD |Prof | Features                              |
 +-----+-------+----+-----+---------------------------------------+
-|   1 |     0 | 2  | +1  | Invent, Scrap, Augment                |
+|   1 |     0 | 2  | +1  | Invent, Scrap, Modify                 |
 |   2 |   300 | 4  | +1  | Hitpoint Increase                     |
 |   3 |   900 | 6  | +2  | Inventive Legacy. Hitpoint Increase   |
 |   4 |  1800 | 8  | +2  | Minor Hitpoint Increase               |
@@ -66,19 +66,14 @@ While you are only able to upkeep a certain number of inventions, the number of 
 ### Scrap
 You are capable of scrapping 2 lbs of metal material, turning it into a usable unit of scrap.
 
-### Augment
-During a rest you are capable of applying augmentations to your Inventions, during their creation or as an addition to an already made invention. Augmentations change how an invention functions, subtly and drastically depending on context. Certain augmentations are required to utilize an invention, in such cases those augmentations should be listed in the requirements for the item. Augmentations come in two forms: Modifiers; which simply change the statistics of an item and Power sources; which change the requirements to use an item and how often an item can be used before needing to be "refueled" if applicable as well as the fuel source. You may apply as many non-contradictory modifier augments to a single invention as you'd like, only one power source augment may be applied to an invention at one time. Augments must be applied over a rest using smith's tools.
+### Modify
+During a rest you are capable of applying modifications to your Inventions, during their creation or as an addition to an already made invention. modifications change how an invention functions, subtly and drastically depending on context. Certain modifications are required to utilize an invention, in such cases those modifications should be listed in the requirements for the item. modifications come in two forms: Modifiers; which simply change the statistics of an item and Power sources; which change the requirements to use an item and how often an item can be used before needing to be "refueled" if applicable as well as the fuel source. You may apply as many non-contradictory modifier modifications to a single invention as you'd like, only one power source modification may be applied to an invention at one time. Modifications must be applied over a rest using smith's tools.
 
 ### Hitpoint Increase
 Your hitpoints increase by 1d4 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Inventive Legacy
-Decide how to define your career as an inventor. Your inventive Legacy gives you access to new inventions and augmentations, as well as new modes of expression for both. You may choose one legacy from the following:
-
-- Auto-augmenter: Augment yourself, overcome the inherent weaknesses of your flesh
-- Artificer: Mix magic into the brew of creation, play both sides and reap the benefits
-
-If none of these options seem appealing, you may instead take a passive buff, doubling the amount of inventions you can maintain at one time.
+You may choose to gain the benefits of the artificer subclass or simply double the amount of inventions you can maintain at one time.
 
 ### Minor Hitpoint Increase
 At 4th level, and every level after, add your constitution modifier to your maximum hitpoints. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
@@ -470,9 +465,9 @@ Description:
 This farswitch may be bound to up to 4 inventions. When activated this farswitch consumes a single charge from its power source and activates an invention of your choice which is bound to it. This invention may be activated twice in an action or once in a bonus action. Weapons bound to this remote fire randomly when activated and have disadvantage and a +0 to hit.
 ```
 
-# Augments
+# Modificiations
 
-Augmentations come in two forms: Modifiers and Power sources
+modifications come in two forms: Modifiers and Power sources
 
 ### Modifiers
 
@@ -481,7 +476,7 @@ Size up
 Crafting Cost: (Original scrap cost) * (3 * amount of sizes above medium)
 Requirements: N/A
 Description:
-You size up the invention you apply this augmentation to, doubling it's size for every time you apply this augment up to a maximum limit of 4 times. This has the same effects on damage die calculations that body size does on other types of items. Creatures of the size matching the augmented one are capable of using your inventions that have been sized up with ease.
+You size up the invention you apply this modification to, doubling it's size for every time you apply this mod up to a maximum limit of 4 times. This has the same effects on damage die calculations that body size does on other types of items. Creatures of the size matching the modified one are capable of using your inventions that have been sized up with ease.
 ```
 
 ```
@@ -505,7 +500,7 @@ Stationary
 Crafting Cost: 500 scrap
 Requirements: Invention not already a building or structure
 Description:
-You turn the augmented invention into a building with an AC of 10 and 20 HP. You may still operate the invention as normal, but it provides full cover while being used. If the invention drops to 0 hitpoints it falls into disrepair and cannot be used. If the invention is a weapon you gain a +3 to hit with it in this state, and it automatically rolls maximum damage. If you apply this augmentation to an invention that typically only provides an effect to one creature it instead has a range of 10 feet from the building point while stationary. The stationary invention takes up a space of 5x5 feet by default.
+You turn the modificed invention into a building with an AC of 10 and 20 HP. You may still operate the invention as normal, but it provides full cover while being used. If the invention drops to 0 hitpoints it falls into disrepair and cannot be used. If the invention is a weapon you gain a +3 to hit with it in this state, and it automatically rolls maximum damage. If you apply this modification to an invention that typically only provides an effect to one creature it instead has a range of 10 feet from the building point while stationary. The stationary invention takes up a space of 5x5 feet by default.
 ```
 
 ```
@@ -513,7 +508,7 @@ Selective Trigger
 Crafting Cost: 250 scrap
 Requirements: N/A
 Description:
-You place some kind of logical device on this invention which causes it to trigger autonomously in a specific circumstance. You must define this circumstance when you apply this augment. The trigger may be complex, relying on sound, sight, or a combination of both. When the conditions to trigger are met the invention activates, consuming charges or ammo as normal.  
+You place some kind of logical device on this invention which causes it to trigger autonomously in a specific circumstance. You must define this circumstance when you apply this modific. The trigger may be complex, relying on sound, sight, or a combination of both. When the conditions to trigger are met the invention activates, consuming charges or ammo as normal.  
 ```
 
 ### Power Sources
@@ -590,13 +585,10 @@ Description:
 An advanced battery powered by radotonium decay. May be ejected as an action causing an explosion with a radius of 200 feet after 1 minute, forcing all creatures within the effected area to make a DC 16 dexterity saving throw or take 8d6 force damage, or half as much on a successful save. 
 ```
 
-## Auto-Augmentor
-
-
 ## Artificer
 
 ### Magical Tinkering (3rd level)
-You gain the ability to mix magical items into your inventing escapades. You may modify magical items as if they were inventions created by you. This means you may apply any augmentations that require analogous features or item bases. Magical items augmented by you do not count against your maximum inventions. If a magic item says that it regains all charges at a certain point or a charge after a certain amount of time, but you apply a new power source to it, then it no longer regains power in that way and must be refueled as if it were an invention with that specific power source. 
+You gain the ability to mix magical items into your inventing escapades. You may modify magical items as if they were inventions created by you. This means you may apply any modifications that require analogous features or item bases. Magical items modified by you do not count against your maximum inventions. If a magic item says that it regains all charges at a certain point or a charge after a certain amount of time, but you apply a new power source to it, then it no longer regains power in that way and must be refueled as if it were an invention with that specific power source. 
 
 ### Vile Homonculus (6th level)
 You learn occult knowledge that allows you to create a being based off of your own basic spiritual esoteric information. This being is a Homonculus, and may be a like-minded individual with a mind of it's own, or a vessel for some spirit or other ethereal being of your choosing. Homonculi are created with one sample of your flesh, 20 liters of alchohol, a pound of gold (20 GP) mixed together in a creation vat made from 200 scrap worth of materials. The creation vat may be re-used, but if your homonculus dies you must re-acquire the other ingredients to make another one. You may have up to 3 homonculi active at one time, they perform any menial task that you instruct them to, and show an undying loyalty to you. Each of your homonculi has the following statistics:
@@ -631,15 +623,15 @@ Through extensive studies of the occult and esoteric, you have gained the abilit
 
 ``` 
 
-### Artificer Augments
-Due to your mystical mixture of magic and the mundane you gain the following special augments:
+### Artificer modifications
+Due to your mystical mixture of magic and the mundane you gain the following special modifications:
 
 ```
 Copilot
 Crafting Cost: 50 scrap, Moontear crystal (Thinking crystal)
 Requirements: Must be applied to a vehicle, or armor set
 Description:
-This augment gives the invention a mind and will of its own while activated, allowing you to give it complex commands that it will obey if it so chooses. If you are operating the invention it cannot take control from you, but it may operate autonomously if you are not controlling it (such as not wearing the armor, or not driving the vehicle). If the copilot is cooperating with you it grants you a +5 to perception checks, pointing out things you may have missed
+This modific gives the invention a mind and will of its own while activated, allowing you to give it complex commands that it will obey if it so chooses. If you are operating the invention it cannot take control from you, but it may operate autonomously if you are not controlling it (such as not wearing the armor, or not driving the vehicle). If the copilot is cooperating with you it grants you a +5 to perception checks, pointing out things you may have missed
 ```
 
 ```
@@ -647,7 +639,7 @@ Aether net
 Crafting cost: 100 scrap, aether spider silk
 Requirements: Must be applied to an invention that consumes charges over time
 Description:
-This augment catches the natural aether energy flowing through the ambient environment and converts it to a small amount of usable energy, causing inventions that consume charges to consume a charge over a much longer period of operation. Multiplies the time between charge consumptions by 4.
+This modific catches the natural aether energy flowing through the ambient environment and converts it to a small amount of usable energy, causing inventions that consume charges to consume a charge over a much longer period of operation. Multiplies the time between charge consumptions by 4.
 ```
 
 ```

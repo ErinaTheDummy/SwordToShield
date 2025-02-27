@@ -339,7 +339,8 @@ Casting Time: 1 action
 Description:
 You instantaneously repair a tear or break in an object with magical energy. 
 As long as the break is no larger than 1 feet in any dimension this spell fixes
-it as if it was never broken.
+it as if it was never broken. When this spell is cast on a construct the construct
+regains 1d8 hitpoints.
 
 ```
 
@@ -1026,7 +1027,7 @@ Casting Time: 1 action
 Description:
 For the duration of this spell you are capable of understanding all written and
 spoken languages. It takes you 1 minute to read a page of text with this spell.
-This spell has limitations decided by your keeper, but it is always capable of
+This spell has limitations decided by your Gamemaster, but it is always capable of
 discerning mundane languages.
 
 ```
@@ -1507,7 +1508,7 @@ Components: V/S
 Duration: concentration up to 1 minute
 Casting Time: 1 action
 Description:
-You magically gaurd one creature within range against attack, they must remain
+You magically guard one creature within range against attack, they must remain
 within 30 feet of you or the spell ends. When a creature attempts to harm the
 target they must make a wisdom saving throw, with the harmful effect targeting a 
 different creature within range on a failure. If there are no other creatures
@@ -2347,7 +2348,7 @@ all the curable ailments they may have.
 
 Acid Armor (2nd) (45)
 
-Range: Touch
+Range: Self
 Components: V/S
 Duration: concentration up to 10 minutes
 Casting Time: 1 action
@@ -2672,10 +2673,12 @@ Components: V/S
 Duration: 1 hour
 Casting Time: 1 action
 Description:
-You touch one creature and they are rendered blind and incapacitated with their
-speed becoming zero. In this state the target cannot be destinguished as alive.
+You touch one willing creature and they are rendered blind and incapacitated with their
+speed becoming zero. In this state the target cannot be distinguished as alive.
 You may end this spell early by touching the target as an action and dispelling 
-it.
+it, the spell also ends if the target takes damage. If you target an unwilling creature 
+with this spell they must make a charisma saving throw or fall under the spells effects, 
+with nothing occurring on a success.
 
 ```
 
@@ -3064,19 +3067,19 @@ performing other tasks for you, this is entirely up to your GM.
 
 ```
 
-Gaurdians (3rd) (37)
+guardians (3rd) (37)
 
 Range: self/15 foot radius
 Components: V/S
 Duration: concentration up to 10 minutes
 Casting Time: 1 action
 Description:
-You conjure gaurdian spirits in a 15 foot radius circle centered around you.
-Choose a damage type from Necrotic, Radiant, or Force. Your gaurdians take an
+You conjure guardian spirits in a 15 foot radius circle centered around you.
+Choose a damage type from Necrotic, Radiant, or Force. Your guardians take an
 appearance that reflects your own personal values. When you cast this spell you
 may choose any amount of creatures that are not effected by it.
 
-When you move the radius of gaurdians moves with you. When a creature enters the
+When you move the radius of guardians moves with you. When a creature enters the
 area affected by this spell or starts their turn there they must make a wisdom
 saving throw or take 3d8 of the damage type you chose, taking half as much on a 
 success. 
@@ -3559,20 +3562,20 @@ target is carrying or wearing is also invisible.
 
 ```
 
-Gaurdian of Faith (4th) (15)
+guardian of Faith (4th) (15)
 
 Range: 60 feet
 Components: V
 Duration: 8 hours
 Casting Time: 1 action
 Description:
-You summon the avatar of a gaurdian important to your faith, such as the avatar 
-of Gabriel if you worship An'Ire or simply an angel. This gaurdian appears as
+You summon the avatar of a guardian important to your faith, such as the avatar 
+of Gabriel if you worship An'Ire or simply an angel. This guardian appears as
 a spectral projection at a point within range. When you cast this spell you may
-designate the purpose of this gaurdian and when they should attack. When a 
-creature enters within 10 feet of the gaurdian and meets the conditions set by 
+designate the purpose of this guardian and when they should attack. When a 
+creature enters within 10 feet of the guardian and meets the conditions set by 
 you they must make a dexterity saving throw or take 20 radiant damage, taking
-half as much on a success. The gaurdian vanishes after dealing a total of 80
+half as much on a success. The guardian vanishes after dealing a total of 80
 damage. 
 
 ```

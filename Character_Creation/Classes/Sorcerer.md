@@ -17,7 +17,7 @@ Your hit die is a d4
 Your starting hitpoints are 4 + your constitution modifier
 
 ## Skills
-You gain proficiency in 2 skills of your choice. You also gain proficiency in Will and Mana.
+You gain proficiency in 2 skills of your choice. You also gain proficiency in will and Mana.
 
 ```
 | --------------- | -------------------------------------------------- |
@@ -40,21 +40,21 @@ LVL = Level
 XP = Total Experience For Level              
 HD = Hit Dice
 Prof = Proficiency Bonus
-MMP = Max Mana Points
+DML = Dark Magic Limit
 ST = Amount of Sorcerer Techniques
 +-----+-------+----+-----+-----+-----+------------------------------------------------------+
-| LVL | XP    | HD |Prof | MMP |  ST | Features                                             |
+| LVL | XP    | HD |Prof | DML |  ST | Features                                             |
 +-----+-------+----+-----+-----+-----+------------------------------------------------------+
-|   1 |     0 | 2  | +1  |  3  |  0  | Supernatural Origin, Mana Casting                    |
-|   2 |   300 | 4  | +1  |  6  |  0  | Hitpoint Increase                                    |
-|   3 |   900 | 6  | +2  |  12 |  2  | Sorcery Techniques, Hitpoint Increase                |
-|   4 |  1800 | 8  | +2  |  16 |  3  | Supernatural Origin Feature, Minor Hitpoint Increase |
-|   5 |  3600 |10  | +2  |  20 |  3  | Ability Score Increase                               |
-|   6 |  6100 |12  | +2  |  24 |  3  | Supernatural Origin Feature                          |
-|   7 |  9100 |14  | +3  |  32 |  4  |                                                      |
-|   8 | 13100 |16  | +3  |  40 |  4  | Ability Score Increase                               |
-|   9 | 22600 |18  | +4  |  48 |  4  |                                                      |
-|  10 | 44600 |20  | +4  |  52 |  5  | Epic Spells                                          |
+|   1 |     0 | 2  | +1  |  1  |  0  | Supernatural Origin, Mana Casting                    |
+|   2 |   300 | 4  | +1  |  3  |  0  | Hitpoint Increase, Dark Magic Release                |
+|   3 |   900 | 6  | +2  |  5  |  2  | Sorcery Techniques, Hitpoint Increase                |
+|   4 |  1800 | 8  | +2  |  7  |  3  | Supernatural Origin Feature, Minor Hitpoint Increase |
+|   5 |  3600 |10  | +2  |  8  |  3  | Ability Score Increase                               |
+|   6 |  6100 |12  | +2  | 10  |  3  | Supernatural Origin Feature                          |
+|   7 |  9100 |14  | +3  | 14  |  4  | Dark Magic Techniques                                |
+|   8 | 13100 |16  | +3  | 18  |  4  | Ability Score Increase                               |
+|   9 | 22600 |18  | +4  | 24  |  4  |                                                      |
+|  10 | 44600 |20  | +4  | 32  |  5  | Epic Spells                                          |
 +-----+-------+----+-----+-----+-----+------------------------------------------------------+
 
 ```
@@ -65,33 +65,34 @@ Your sorcerous powers originate from somewhere, be it through being touched by a
 - Corrupt Soul
 - Eldritch Heart
 - Fireblood
+- Rotmind 
 
 the specific features of each supernatural origin may be found at the end of this document.
 
 ### Mana Casting
-You have the ability to alter reality using magic at its most basic level, energy that flows through all of creation creating magical effects: Mana. You have a pool of mana which refills every time you rest, and you may expend amounts of mana in order to cast spells. Your casting modifier for these spells is constitution. when a spell refers to a saving throw the DC is 8 + Your Proficiency Bonus + Your Constitution Modifier. Refer to the max mana points column of the sorcerer level chart to determine how much mana is at your disposal at a given level. 
+You have the ability to alter reality at its most basic level, energy that flows through all of creation, the essence of all magic: Mana. You may move mana around you to shape magic into being, but doing so builds up dark magic capable of consuming you entirely. Your casting modifier for these spells is constitution. when a spell refers to a saving throw the DC is 8 + Your Proficiency Bonus + Your Constitution Modifier. Refer to the dark magic limit column of the sorcerer level chart to determine how much dark magic you can withstand before facing consequences. 
 
-You may cast a spell without using mana, but you must roll a mana check against the save DC of the level of spell you are casting to attempt to avoid corruption. If you roll a mana check lower than the DC of the spell level you must roll a on the corruptions chart listed for that spell level. Refer to the following chart for the mana cost and manaless casting DC of different spell levels:
+You may cast a spell while your magic buildup is full, but you will become corrupted. If you cast a spell that puts your dark magic accumulated over your limit then you will take necrotic damage equal to the amount of points you are placed over your limit and roll a mana check against 12 + the limit overage or else gain a corruption according to the rules of the [Accursed Journal](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md). The specific table you will roll on is dependent on the level of the last spell you cast, meaning that casting lesser spells will cause less detriment. Refer to the following chart:
 
 ```
-
-|  Spell Level  |  Mana Cost  |  Save DC  |  Chart Type     |
-| ------------- | ----------- | --------- | --------------- |
-|  Cantrip      |  1          |  6        |  negligible     |
-|  1            |  2          |  8        |  negligible     |
-|  2            |  4          |  10       |  minor det      |
-|  3            |  10         |  14       |  minor det      |
-|  4            |  24         |  17       |  Bad            |
-|  5            |  40         |  18       |  Bad            |
-|  6            |  52         |  26       |  Instant Death  |
-| ------------- | ----------- | --------- | --------------- |
-
+| Spell level | Dark Magic Buildup |    Roll Table     |
+|-------------|--------------------|-------------------|
+| cantrip     |                  0 | N/A               |
+| 1st         |                  1 | Neutral           |
+| 2nd         |                  3 | Minor Detrimental |
+| 3rd         |                  4 | Minor Detrimental |
+| 4th         |                  8 | Bad               |
+| 5th         |                 16 | VERY BAD          |
+| 6th         |                999 | VERY BAD          |
 ``` 
 
-At level 1 You learn 2 cantrips and 3 first level spells from the sorcerer spell list. Each time you level up you learn a spell of a level you are capable of casting using mana, no more than 5th level, from the sorcerer spell list. A sorcerer who knows a spell that you do not may teach you that spell over the course of one week.
+At level 1 You learn 2 cantrips and 3 first level spells from the sorcerer spell list. Each time you level up you learn a spell of a level you are capable of casting without surpassing your dark magic limit, no more than 5th level, from the sorcerer spell list. A sorcerer who knows a spell that you do not may teach you that spell over the course of one week. You lose all dark magic buildup after a rest.
 
 ### Hitpoint Increase
 Your hitpoints increase by 1d4 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
+
+### Dark Magic Release
+As a bonus action you may release your build up dark magic. All creatures within 10 feet of you must make a dexterity save against your dark magic accumulated or take necrotic damage equal to five times your proficiency modifier. After performing this release your dark magic resets to 0 and you lose the ability to cast your maximum spell level available, which is the highest level of spell you can cast without going over your dark magic limit. This effect compounds until you are left only with cantrips and is removed when you rest.
 
 ### Sorcery Techniques
 You have gained an intermediate level of skill with spellcasting, and begin to find ways to mix up your spells or cast them differently. You learn two sorcery techniques. Refer to the sorcery techniques column of the sorcerer level chart
@@ -103,8 +104,17 @@ At 4th level, and every level after, add your constitution modifier to your maxi
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may forgo your ability score increase and take a feat instead.
 
+### Dark Magic Techniques
+At 7th level you may either succumb to the temptations of dark magic and gain power or resist its whispers and gain a greater amount of control over it. Choose one option from the following:
+
+- **Darkness Consume Me:** Your Darkness limit doubles, and you become immune to bad corruptions (but not VERY BAD ones), but each time you cast a spell you gain a neutral corruption, and you lose the Dark Magic Release feature. If your dark magic accumulated reaches 500 or greater you explode into a massive ball of necrotic energy, dealing 12d6 necrotic damage to all creatures within 360 feet.
+- **Leave Me Darkness:** Your Dark Magic Release feature may be activated as a free action and its radius and damage is doubled. 
+- **Darkness Needs Light:** Your Dark Magic Release feature changes to require your entire turn (action, bonus action, and movement), but does not reduce your maximum spell level at all.
+
+Alternatively you may reject dabbling in the dark arts entirely and learn 7 spells.
+
 ### Epic Spells
-You are capable of casting 6th level spells, Spells which are so strong that they incur great physical toll. When you cast a 6th level spell, you lose the ability to cast spells for 1d4 * 7 days. You may not cast a 6th level spell more than once in a year.
+You are capable of casting 6th level spells, Spells which are so strong that they incur great physical toll. When you cast a 6th level spell, you lose the ability to cast spells for 1d4 * 7 days (unless you have the **Darkness Consume Me** technique). You may not cast a 6th level spell more than once in a year.
 
 ---
 
@@ -156,8 +166,7 @@ You gain the following spells thanks to your supernatural origin. These spells d
 You have an innate ability to control the corruption your magic has upon your body. When you wake up after a rest you may grant yourself two beneficial corruptions of your choice which are dispelled next time you rest.
 
 ### Battle Corruption (level 4)
-Whenever you target a creature with a spell, you may expend 2 mana and 2 hit dice to force them to make a constitution saving throw against your spellcasting DC. on a failure they are inflicted with one of the following corruptions of 
-your choice for the next minute, after which time their body returns to normal.
+Whenever you target a creature with a spell, you may gain 1 dark magic and expend 2 hit dice to force them to make a constitution saving throw against your spellcasting DC. on a failure they are inflicted with one of the following corruptions of your choice for the next minute, after which time their body returns to normal.
 
 - Eye Flaps
 Flaps of skin grow over the targets eyes, blinding them for the duration
@@ -220,8 +229,7 @@ You gain the following spells thanks to your supernatural origin. These spells d
 As an action you may choose to create a psychic link between you and up to 3 creatures, this mindlink lasts for 1 hour. For the duration you and the other mind linked creatures may communicate psychically with each other over any distance as long as you are on the same plane.
 
 ### Esoteric Static (level 4)
-As a reaction to being targeted by an attack you may expend 2 mana and 2 hit dice to create a field of esoteric energy to fog the minds of those around you. All hostile creatures within 30 feet of you and the creature that targeted you
-must make a charisma saving throw against your spell save DC or be paralyzed until your next turn.  
+As a reaction to being targeted by an attack you may gain 1 dark magic and expend 2 hit dice to create a field of esoteric energy to fog the minds of those around you. All hostile creatures within 30 feet of you and the creature that targeted you must make a charisma saving throw against your spell save DC or be paralyzed until your next turn.  
 
 ### Eldritch Form (6th Level)
 You power grows and festers beneath the surface, allowing you to unleash it fully in short bursts through massive energy expenditure. You may expend a bonus action and 5 hit dice on your turn to gain the following benefits for 10 minutes:
@@ -285,8 +293,7 @@ You gain the following spells thanks to your supernatural origin. These spells d
 Whenever you cast a spell that deals fire damage, roll an addition damage die and substitute the lowest roll with the result. Whenever you take fire damage from an enemy, regain 3 hitpoints. 
 
 ### Wings of Flame (4th Level)
-As a bonus action you may expend 2 hit dice and 2 mana to envelope yourself in roaring flames. You gain 4d6 temporary hitpoints and for the duration any melee attacks against you take fire damage equal to the damage dealt. You also gain
-60 feet of flying speed. This envelop of flames dissipates when you have no remaining temporary hitpoints. 
+As a bonus action you may expend 2 hit dice and gain 1 dark magic to envelope yourself in roaring flames. You gain 4d6 temporary hitpoints and for the duration any melee attacks against you take fire damage equal to the damage dealt. You also gain 60 feet of flying speed. This envelop of flames dissipates when you have no remaining temporary hitpoints. 
 
 ### Supernova Accustomed (6th Level)
 Due to the boiling blood pumping through your veins, you have become accustomed to the heat. You become immune to fire damage and excessively hot weather has no effect on you. Additionally, When you cast a spell that deals fire damage it burns exceptionally hot, making it ignore fire resistance and treating immunity as resistance.
@@ -296,37 +303,37 @@ Due to the boiling blood pumping through your veins, you have become accustomed 
 # Sorcerer Techniques
 
 ### Quickened Casting
-You expend a hit die and 2 mana and change the casting time of a spell that takes 1 action to cast to 1 bonus action
+You expend a hit die and change the casting time of a spell that takes 1 action to cast to 1 bonus action
 
 ### Dual Spell
 You attempt to double the casting of a spell that targets a single creature. Expend a hit die and a number of mana points equal to the level of the spell cast  (1 for cantrips). You cast the spell twice instead of once. You may only use Dual spell once in a turn.
 
 ### Subtle Casting
-You expend a hit die and 2 mana points and cast a spell without any vocal or somatic components. 
+You expend a hit die and cast a spell without any vocal or somatic components. 
 
 ### Curved Spell
-You expend a hit die and 1 mana point and make a spell that targets one creature appear as if it is going to miss and then curve it back at them during the last moment. The spell gains a +2 to its attack roll.
+You expend a hit die and make a spell that targets one creature appear as if it is going to miss and then curve it back at them during the last moment. The spell gains a +2 to its attack roll.
 
 ### Heightened Casting
-When you cast a spell you may expend a hit die and 1 mana point as you attempt to heighten the damage of a spell. You may reroll one die of your choice for the damage of the spell.
+When you cast a spell you may expend a hit die as you attempt to heighten the damage of a spell. You may reroll one die of your choice for the damage of the spell.
 
 ### Defensive Spell
-When you cast a spell with a target of self you may expend a hit die and 2 mana points to grant yourself temporary hitpoints equal to your casting modifier.
+When you cast a spell with a target of self you may expend a hit die to grant yourself temporary hitpoints equal to your casting modifier.
 
 ### Distant Casting
-When you cast a ranged spell you may expend a hit die and 1 mana point to double the range of the spell. If you use this technique on a touch spell the range becomes 30 feet.
+When you cast a ranged spell you may expend a hit die to double the range of the spell. If you use this technique on a touch spell the range becomes 30 feet.
 
 ### Difficult Spell
-You cause the save for a spell to become extremely difficult. You may expend a hit die and 4 mana points, giving the target disadvantage on the saving throw of the spell. 
+You cause the save for a spell to become extremely difficult. You may expend a hit die, giving the target disadvantage on the saving throw of the spell. 
 
 ### Safe Spell
-You protect your allies by bending a spell that affects an area around them. Expend 2 hit dice and 4 mana points, 4 creatures of your choice within the area of the spell are unaffected until the start of your next turn.
+You protect your allies by bending a spell that affects an area around them. Expend 2 hit dice and 4 creatures of your choice within the area of the spell are unaffected until the start of your next turn.
 
 ### Raw Spell
-You cast a damaging spell without changing the form of the mana used in it. when you cast a spell that deals damage you may expend 1 mana point to change the damage type to force. 
+You cast a damaging spell without changing the form of the mana used in it. when you cast a spell that deals damage you may expend 1 hit die to change the damage type to force. 
 
 ### Mana Boost
-You are capable of using latent magic to guide your ability checks. When you fail an ability or skill check you may expend 1 hit die and 1 mana point and reroll.
+You are capable of using latent magic to guide your ability checks. When you fail an ability or skill check you may expend 1 hit die and reroll it.
 
 ---
 

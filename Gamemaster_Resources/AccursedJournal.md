@@ -544,6 +544,35 @@ When you die you get a second chance at life. Upon dying roll 1d4 for the method
 | ------------ | ------------------------------------------------------------------- |
 ```
 
+### VERY BAD corruptions
+Sometimes life doesn't go your way. Roll 1d6 to determine your VERY BAD corruption.
+
+#### Instant Death (1)
+You instantly die, roll a 1d4 for your method of death. 
+
+```
+| roll |                                     cause of death                                      |
+|------|-----------------------------------------------------------------------------------------|
+|    1 | Your head explodes, sending brain matter, skull fragments, and bodily fluids everywhere |
+|    2 | All of your vital functions simultaneously stop.                                        |
+|    3 | Your body turns inside out, you suffer terrible pain for a few seconds before dying     |
+|    4 | You turn into a pile of the last element you commanded with a spell                     |
+```
+
+#### Eternal Sleep (2)
+You become immortal and fall into an eternal slumber from which you will only wake when the universe draws its final breath. You cannot die while in this sleep. There is a cure, somewhere, but it is too far from here and too long from now for you to ever hear the voice of anyone you know or love again.
+
+#### Eternal Torment (3)
+You are dragged to hell. You cannot be resurrected and may only be saved by divine favor or an expedition from a party of extremely skilled adventurers meaning your friends may save you one day. Unfortunately for you a second in the material world is 1000 years in hell. 
+
+#### Time loop (4)
+You find yourself trapped in a time loop, beginning one minute before you gain this corruption and ending right as your body begins to erupt into pure energy, at which point the time loop restarts. The rest of the world simply watches you vanish in a bright explosion of light as you are [obliterated](https://github.com/ErinaTheDummy/SwordToShield/blob/main/CoreRules.md#obliterated). You find yourself trapped in a time loo-
+
+#### Never-ending Nightmare (5)
+You become immortal and fall asleep the same as eternal sleep, but rather than seeing nothing for near eternity, you are trapped in your worst nightmare, and it repeats for the rest of time.
+
+#### Erasure (6)
+You are erased, no magic, no matter how powerful, may ever make you again. Every memory of you remains as a haunting reminder of something that never may be again.
 
 ## Madness
 Madness is the ill effect of losing sanity. Madness can severely hamper your capabilities in battle and adventuring, so it is best to lose it as quickly as possible. Whenever you gain a madness effect, your gm will secretly roll from the 20 madness effects:

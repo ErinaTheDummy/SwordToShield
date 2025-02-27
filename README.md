@@ -6,6 +6,11 @@ Hello dear reader! You may be wondering what this project is well, this github
 repo serves as an area for me to collect some tabletop RPG mechanics for a
 larger system I have dubbed "Sword To Shield" or S2S for short.
 
+## A Resounding "THANK YOU"
+Of course thank you reader for taking the time out of your day to be here, but also I'd like to say thanks to the following people for their contributions:
+
+[Marisa (Chelan506)](https://github.com/Chelan506) - Your contributions by the creation of Valarus and all its cultures will not go unnoticed, your dedication to diversifying the cultures in the region and making each faction interesting is admirable and deserving of high praise!
+
 ## Disclaimer
 This system is by no means balanced, and often is completely broken at times.
 if you notice something working in a weird way or something that seems 
