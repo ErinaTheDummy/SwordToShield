@@ -523,7 +523,7 @@ Within the world there will most definitely be characters from differing culture
 | Common        | Ulfen, Ebrannan, Valari, Handspeak, Solari                  |
 | Exotic        | Machine Language, Deonic, Chitterspeak, Primean, Anirandrus |
 | Mystic        | Arcanium, Nixian, Voidspeak, Deepspeech                     |
-| Ancient       | Varanian, Brogian, Celestial, Infernal, Abyssal             |
+| Ancient       | Varanus, Brogian, Celestial, Infernal, Abyssal              |
 |---------------|-------------------------------------------------------------|
 ```
 
@@ -599,7 +599,7 @@ Language of Abberations and all the creatures from the far edges of the universe
 ### Ancient Languages
 Languages that pre-date all recorded history.
 
-#### Varanian
+#### Varanus
 Language of Dragons.
 
 #### Brogian
