@@ -4250,22 +4250,22 @@ take 4d10+10 psychic damage.
 # 6th Level Spells
 
 ## 6th level spells Disclaimer
-6th level spells are not intended to be balanced 
+6th level spells are not intended to be balanced, and their material components cannot be ignored by using a spellcasting focus
 
 ```
 
 Black Hole (6th) (1)
 
 Range: 300 feet
-Components: V/S/M (a vial of antimatter)
+Components: V/S/M (a priceless vial of antimatter)
 Duration: 10 minutes
 Casting Time: 1 action
 Description:
 You open a gateway to a black hole in a distant place among the farlands. A 100
 foot radius sphere appears at a point within range, light cannot exist in the
-area and all creatures in the area take 20 force damage. The effect pulls 
+area and all creatures in the area take 40 force damage. The effect pulls 
 anything within 10 miles 60 feet closer each round. When a creature enters the 
-area of the black hole or starts their turn there, they take 20 force damage. A 
+area of the black hole or starts their turn there, they take 40 force damage. A 
 creature reduced to or below 0 hitpoints is obliterated. Once a creature moves 
 closer to the black hole they may not return to or past the distance that 
 they were previously at. A creature being pulled by the black hole may use
@@ -4286,7 +4286,7 @@ Casting Time: 1 action
 Description:
 You sing praise to your god, with the intent to evoke their wrath upon your
 enemies. You explode into light becoming a seraphim for a mere moment and then 
-dying instantly, causing all creatures within 120 feet of you to take 1000 
+dying instantly, causing all creatures within 120 feet of you to take 3000 
 radiant damage. A creature reduced to or below 0 hitpoints by this spell is 
 obliterated. You may designate any amount of creatures to be spared by this 
 spell, only being reduced to 1 hitpoint if it would kill them.  
@@ -4371,8 +4371,7 @@ this spell is the soul of An'Ire the spell automatically summons The Nothing.
 |   6  |  The Ambassador   |   
 |   7  |  The Nameless One |
 |   8  |  The Emperor      |  
-| ---- | ----------------- |  
-
+| ---- | ----------------- |
 
 ```
 
@@ -4385,7 +4384,7 @@ Components: V/M (A living soul which is obliterated during casting)
 Duration: instantaneous
 Casting Time: 10 minutes
 Description:
-You obliterate a soul within your posession and return one creature whos name
+You obliterate a soul within your possession and return one creature who's name
 you speak aloud for the entire duration of casting this spell. The target 
 returns to life in perfect health and free of any curses in an area within 100
 feet of you.

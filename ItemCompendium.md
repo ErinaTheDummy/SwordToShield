@@ -468,7 +468,7 @@ One silvered weapon or ten pieces of silvered ammunition generally costs 100gp.
 They perform identically to their normal counterparts, with the exception that 
 some enemies are weak to silver.
 
-### Stagger
+### (Optional) Stagger
 This weapon is capable of staggering opponents, when you hit a creature no more
 than one size larger than you they must make a stagger check as outlined in the
 core rules.

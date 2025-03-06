@@ -237,8 +237,7 @@ You power grows and festers beneath the surface, allowing you to unleash it full
 - You gain a hovering flying speed of 60 feet
 - You gain a swimming speed equal to twice your walking speed.
 - You gain truesight
-- You become slimy and squishy, being able to fit through a hole as small as 1
-square inch.
+- You become slimy and squishy, being able to fit through a hole as small as 1 square inch.
 - You gain 5d8 temporary hitpoints
 - Your appearance may alter drastically or stay exactly the same
 
@@ -297,6 +296,49 @@ As a bonus action you may expend 2 hit dice and gain 1 dark magic to envelope yo
 
 ### Supernova Accustomed (6th Level)
 Due to the boiling blood pumping through your veins, you have become accustomed to the heat. You become immune to fire damage and excessively hot weather has no effect on you. Additionally, When you cast a spell that deals fire damage it burns exceptionally hot, making it ignore fire resistance and treating immunity as resistance.
+
+## Rotmind
+The occult influence of undeath has sickened your mind with its oozing presence, your magic tends twords all that which is grotesque and rotten. Your brain has gone sour within its skull.
+
+```
+
+| Roll(1d8) |                                         Quirk                                                           |
+|-----------|---------------------------------------------------------------------------------------------------------|
+| 1         | You have a crack on your head, some brain is leaking out.                                               |
+| 2         | One of your eyes sometimes falls out, its no worry though, it pops right back into place!               |
+| 3         | Despite having no recollection of a recent operation, you are constantly covered in stitches            |
+| 4         | You could eat a brain                                                                                   |
+| 5         | Your speech is slurred and resembles the moaning of raised dead.                                        |
+| 6         | One of your joints is broken and tends to flop backwards from time to time.                             |
+| 7         | Your dreams are haunted by visions of a life you once had                                               |
+| 8         | You have a weapon, fragment of metal, or other foreign object lodged in your body that you can't remove.|
+|-----------|---------------------------------------------------------------------------------------------------------|
+
+```
+
+### Origin Spells
+You gain the following spells thanks to your supernatural origin. These spells do not count against your spells known.
+
+```
+
+|  Spell level   |  Spell                                             |
+| -------------- | -------------------------------------------------- |
+|  1st           |  Sickening Ray, False Life                         |
+|  2nd           |  Ray of Enfeeblement, Crown of Madness             |
+|  3rd           |  Stinking Cloud, Animate Dead                      |
+|  4th           |  Blight, Cardiac Arrest                            |
+| -------------- | -------------------------------------------------- |
+
+```
+
+### Special Undeath (1st Level)
+You are capable of using the magic which turned you undead to raise and control the bodies of dead creatures. As an action you may touch a dead creature expend a number of hit dice equal to the hit dice of that dead creature, your body dies and the creature which you touched is raised from the dead with all of its hitpoints. You command this creature as you were it, seeing through its eyes and using all of its stats except for mental ones in the place of yours. While commanding this creature it cannot regain hitpoints in any way and if it is reduced to 0 hitpoints or you dispel it as a bonus action it dies once again and your body is returned to undeath as you regain control over it. This effect ends after 10 minutes, any creature which you raise from the dead in this way disintegrates into dust after the effect ends. Additionally if you are not already undead you gain the benefits of the undead creature type. 
+
+### Healing Shroud (4th Level)
+You channel the darkness of undeath to regain health from lost life. As an action you may expend 5 hit dice and gain 4 dark magic buildup to enter a half spectral state for 10 minutes. While in this state necrotic damage you deal heals you for half the damage sustained by your target(s).
+
+### Undead Army (6th Level)
+You are capable of turning fellow undead creatures against their creators. As an action you may expend a number of hit die equal to half (at least one) the combined amount of hit die of all undead you wish to charm within 120 feet of you. Each target must roll a charisma saving throw against your spell save DC, or be charmed by you and fall under your command as in the animate dead spell.
 
 ---
 
