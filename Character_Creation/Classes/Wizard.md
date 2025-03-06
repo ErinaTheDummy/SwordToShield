@@ -46,40 +46,40 @@ MSG = Maximum Spell Glyphs
 +-----+-------+----+-----+----------+------------------------------------------+
 |   1 |     0 | 2  | +1  |  8       | Glyph Casting, Learned Spells            |
 |   2 |   300 | 4  | +1  |  16      | Hitpoint Increase                        |
-|   3 |   900 | 6  | +2  |  28      | Hitpoint Increase                        |
-|   4 |  1800 | 8  | +2  |  36      | Minor Hitpoint Increase                  |
-|   5 |  3600 |10  | +2  |  44      | Ability Score Increase                   |
-|   6 |  6100 |12  | +2  |  52      | Wizard Specialty                         |
-|   7 |  9100 |14  | +3  |  60      |                                          |
-|   8 | 13100 |16  | +3  |  68      | Ability Score Increase                   |
-|   9 | 22600 |18  | +4  |  80      |                                          |
-|  10 | 44600 |20  | +4  |  90      | Epic Spells                              |
+|   3 |   900 | 6  | +2  |  30      | Hitpoint Increase                        |
+|   4 |  1800 | 8  | +2  |  44      | Minor Hitpoint Increase                  |
+|   5 |  3600 |10  | +2  |  52      | Ability Score Increase                   |
+|   6 |  6100 |12  | +2  |  68      | Wizard Specialty                         |
+|   7 |  9100 |14  | +3  |  80      |                                          |
+|   8 | 13100 |16  | +3  |  90      | Ability Score Increase                   |
+|   9 | 22600 |18  | +4  |  100     |                                          |
+|  10 | 44600 |20  | +4  |  120     | Epic Spells                              |
 +-----+-------+----+-----+----------+------------------------------------------+
 
 ```
 
 ### Glyph Casting
 You are capable of casting spells using magical glyphs that correspond to different forms of mana. Your casting modifier for casting is intelligence, when a spell refers to a saving throw the DC is equal to 8 + Your proficiency 
-bonus + Your intelligence modifier. Refer to the following chart for the amount of glyphs you must write for each spell:
+bonus + Your intelligence modifier. Refer to the following chart for the amount of glyphs you must write for each spell: 
 
 ```
 
 |  Spell Level  |  Glyphs Req  |
 | ------------- | ------------ |
-|  Cantrip      |  2           |
+|  Cantrip      |  1           |
 |  1            |  4           |
-|  2            |  10          |
-|  3            |  18          |
-|  4            |  34          |
-|  5            |  66          |
-|  6            |  66 (Special)|
+|  2            |  8           |
+|  3            |  16          |
+|  4            |  28          |
+|  5            |  40          |
+|  6            |  120(Special)|
 | ------------- | ------------ |
 
 ``` 
 
 In order to prepare a spell you must know the glyphs used in its creation, and you must write exactly the amount noted for the spell level, as well as the spell you intend to cast with those glyphs.
 
-Once you cast a spell using the glyphs you have written in your spellbook they disappear, unless the spell is a cantrip in which case it remains prepared. You may write more glyphs in your spellbook over the course of a minute by expending an amount of hit die, and rolling them, adding your intelligence modifier to each roll, and writing the resulting number of glyphs in your spellbook. Refer to the maximum spell glyphs column of the wizard level chart to determine the maximum amount of glyphs you may have written in your spellbook at a given level.
+Once you cast a spell using the glyphs you have written in your spellbook they disappear, unless the spell is a cantrip in which case it remains prepared. You may write more glyphs in your spellbook as an action by expending an amount of hit die, rolling them, adding your intelligence modifier to each roll, and writing the resulting number of glyphs in your spellbook. Refer to the maximum spell glyphs column of the wizard level chart to determine the maximum amount of glyphs you may have written in your spellbook at a given level.
 
 ### Learned Spells
 You learn 3 cantrips and 4 first level spells from the wizard spell list. You learn 2 more spells from the wizard spell list of any spell level you are capable of casting each time you level up; this may not be a spell higher than 6th level, if you wish to learn those they must be found within the world your character occupies. Due to the fact that you learn magic through study or by happenstance you may learn new spells by copying their glyphs into your spellbook. 
@@ -97,13 +97,13 @@ You may increase one of your ability scores by 2 or two of them by 1. You may fo
 You learn a technique in a special field of wizardry, allowing you to raise your abilities to new horizons. Choose one wizard specialty. 
 
 #### Wizard Specialty: Cantrip Master
-You learn 2 cantrips from the wizard spell list. Rather than using one glyph to inscribe one cantrip, you may now inscribe two of the same cantrip using only one glyph. You also roll an additional damage die when rolling damage for your cantrips.
+You learn 4 cantrips from the wizard spell list and no longer need to prepare glyphs to cast cantrips. You also roll an additional damage die when rolling damage for your cantrips. 
 
 #### Wizard Specialty: Battlecaster
-You have hardened yourself for battle. Your hitpoint maximum increases by 14. You may inscribe special glyphs into a weapon or set of armor in order to grant yourself proficiency with them, These glyphs occupy 4 of your maximum glyphs per set of armor or weapon.
+You have hardened yourself for battle. Your hitpoint maximum increases by 15. You may inscribe special glyphs into a weapon or set of armor in order to grant yourself proficiency with them, These glyphs occupy 4 of your maximum glyphs per set of armor or weapon.
 
 #### Wizard Specialty: Adept Scribe
-When writing glyphs in your spellbook you may use a d10 in place of your d4 hit die for the purpose of rolling how many glyphs you write. You also learn 5 wizard spells.
+When writing glyphs in your spellbook you may use a d8 in place of your d4 hit die for the purpose of rolling how many glyphs you write. You also learn 5 wizard spells.
 
 #### Wizard Specialty: Spellmaker
 You create three special new spells of any spell level 4 or below and learn them. You are capable of preparing them as any other spell. Alternatively you may create one spell of level 5. Your GM must approve these spell(s) before you use them; if they do not then your head explodes the first time you attempt to cast one of the special spells, killing you instantly. 

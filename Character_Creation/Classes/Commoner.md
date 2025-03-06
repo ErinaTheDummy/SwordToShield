@@ -49,5 +49,4 @@ Prof = proficiency bonus
 ```
 
 ### Training
-You are trained in one class of your choice which is available to you. Your XP
-returns to 0 and you gain 1 level in that class and lose all levels in commoner.
+You are trained in one class of your choice which is available to you. Your XP returns to 0 and you gain 1 level in that class and lose all levels in commoner.

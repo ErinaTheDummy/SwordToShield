@@ -92,7 +92,7 @@ At level 1 You learn 2 cantrips and 3 first level spells from the sorcerer spell
 Your hitpoints increase by 1d4 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
 
 ### Dark Magic Release
-As a bonus action you may release your build up dark magic. All creatures within 10 feet of you must make a dexterity save against your dark magic accumulated or take necrotic damage equal to five times your proficiency modifier. After performing this release your dark magic resets to 0 and you lose the ability to cast your maximum spell level available, which is the highest level of spell you can cast without going over your dark magic limit. This effect compounds until you are left only with cantrips and is removed when you rest.
+As an action you may release your built up dark magic. All creatures within 10 feet of you including yourself must make a constitution save against your spell save DC or take necrotic damage equal to the amount of dark magic you released, you are resistant to this damage. After performing this release your dark magic resets to 0 and you lose the ability to cast your maximum spell level available, which is the highest level of spell you can cast without going over your dark magic limit. This effect compounds until you are left only with cantrips and is removed when you rest.
 
 ### Sorcery Techniques
 You have gained an intermediate level of skill with spellcasting, and begin to find ways to mix up your spells or cast them differently. You learn two sorcery techniques. Refer to the sorcery techniques column of the sorcerer level chart
