@@ -11,6 +11,4 @@
 ################################################################################
 
 ```
-Wise leaders and scholars of old, or greedy tyrants whom lord over the land? 
-Dragons are a very mixed bag, but some are intelligent enough to tell you which
-of those listed that they are.
+Wise leaders and scholars of old, or greedy tyrants whom lord over the land? Dragons are a very mixed bag, but some are intelligent enough to tell you where their allegiances lie.

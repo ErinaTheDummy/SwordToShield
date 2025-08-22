@@ -43,8 +43,8 @@ PK = Psionics Known
 +-----+-------+----+-----+----------+-----+------------------------------------------+
 | LVL | XP    | HD |Prof |  PD      | PK  |        Features                          |
 +-----+-------+----+-----+----------+-----+------------------------------------------+
-|   1 |     0 | 2  | +1  |  1d4     | 3   | Psi, Psionics, Psionic Recovery          |
-|   2 |   300 | 4  | +1  |  1d6     | 4   | Hitpoint Increase                        |
+|   1 |     0 | 2  | +1  |  1d4     | 3   | Psi, Psionics                            |
+|   2 |   300 | 4  | +1  |  1d6     | 4   | Psionic Recovery, Hitpoint Increase      |
 |   3 |   900 | 6  | +2  |  1d8     | 5   | Hitpoint Increase                        |
 |   4 |  1800 | 8  | +2  |  1d8     | 7   | Empowered Psi, Minor Hitpoint Increase   |
 |   5 |  3600 |10  | +2  |  1d10    | 8   | Ability Score Increase                   |
@@ -58,16 +58,16 @@ PK = Psionics Known
 
 ### Psi
 Psi is the energy of thought, a manifestation of will and mind taking control over matter. At the start of each of your turns you may expend a hit die and roll your psionic die/dice. The result of this roll is how much Psi you gain. 
-Psi is a very feeble and fleeting kind of energy, if you have Psi at the start of your turn, from a previous turn, and you do not decide to expend a hit die and roll your psionic die, then the Psi you have stored up expires and resets to 0.
+Psi is a very feeble and fleeting kind of energy, if you have Psi at the start of your turn from a previous turn, and you do not gain more before the end of your turn, then your psi may begin to decay and de-manifest. Any excess psi greater than your intelligence modifier + your proficiency bonus will disappear, leaving you with an amount of psi equal to your intelligence modifier + your proficiency bonus unless you already had a lower amount. 
 
 ### Psionics
 Psionics are the practical applications of Psi energy. Psionics can be a range of things, from abilities to socially influence others, to methods of devastating psychic attack. At first level you know and are capable of utilizing 3 psionics from the list of Psiker psionics, each time you level up you may swap any number of psionics out for different selections. Certain psionics may refer to a "Psionic DC" the formula for this DC is 8 + your proficiency bonus + your intelligence modifier. Refer to the Psionics Known column of the Psiker level chart to know how many psionics you have at a given level.
 
-### Psionic Recovery
-Your budding psionic abilities allow you a small amount of power over the shape of reality around you. As a bonus action on your turn you may catch latent energy around you and reshape it into energy for your body, regaining an amount of hit die equal to your proficiency bonus. Once you use this feature you may not do so again until you rest.
-
 ### Hitpoint Increase
 Your hitpoints increase by 1d4 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
+
+### Psionic Recovery
+Your budding psionic abilities allow you a small amount of power over the shape of reality around you. As a bonus action on your turn you may catch latent energy around you and reshape it into energy for your body, regaining an amount of hit die equal to your proficiency bonus. Once you use this feature you may not do so again until you rest.
 
 ### Minor Hitpoint Increase
 At 4th level, and every level after, add your constitution modifier to your maximum hitpoints. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.

@@ -109,6 +109,9 @@ Adventuring necessitates equipment.
 | Hammer, sledge              | 2   gp   | 10 lb. |
 | Holy Symbol                 | 1   gp   | 1 Lb.  |
 | Silver Holy Symbol          | 15  gp   | 2 lb.  |
+| Gameset, Deck Of Cards      | 2   gp   | _      | 
+| Gameset, Chess              | 10  gp   | 2 lb.  |
+| Gameset, Dice               | 1   gp   | -      |
 | Golden Holy Symbol          | 30  gp   | 2 lb.  |
 | Amulet                      | 5   gp   | 1 lb.  |
 | Emblem                      | 5   gp   | —      |
@@ -135,7 +138,7 @@ Adventuring necessitates equipment.
 | Manacles                    | 2   gp   | 6 lb.  |
 | Mirror, steel               | 5   gp   | 1/2 lb.|
 | Oil (1 liter flask)         | 2   sp   | 1 lb.  |
-| Paper (one sheet)           | 2   sp   | —      |
+| Paper (one sheet)           | 2   sp   | _      |
 | Parchment (one sheet)       | 1   sp   | —      |
 | Pick, miner’s               | 2   gp   | 10 lb. |
 | Piton                       | 5   cp   | 1/4 lb.|
@@ -269,27 +272,31 @@ disadvantage.
 Adventuring is a dangerous job, remember to wear a helmet!
 
 ```
-|  Armor          |  Cost     |  Armor Class (AC)         | DR Score  | Strength |  Stealth     | Weight |
-| --------------- | --------- | ------------------------- | --------- | -------- | ------------ | ------ |
-| LIGHT ARMOR     |           |                           |           |          |              |        |
-| Padded          | 5   gp    | 11 + Dex modifier         | 1         | —        | Disadvantage | 8  lb. |
-| Leather         | 10  gp    | 11 + Dex modifier         |           | —        | —            | 10 lb. |
-| Studded leather | 45  gp    | 12 + Dex modifier         |           | —        | —            | 13 lb. |
-| --------------- | --------- | ------------------------- | --------- | -------- | ------------ | ------ |
-| MEDIUM ARMOR    |           |                           |           |          |              |        |
-| Hide            | 10  gp    | 12 + Dex modifier (max 2) | 1         | —        | —            | 12 lb. |
-| Chain shirt     | 50  gp    | 13 + Dex modifier (max 2) | 1         | —        | —            | 20 lb. |
-| Scale mail      | 50  gp    | 14 + Dex modifier (max 2) | 2         | —        | Disadvantage | 45 lb. |
-| Breastplate     | 175 gp    | 14 + Dex modifier (max 2) | 2         | —        | —            | 20 lb. |
-| Half plate      | 375 gp    | 15 + Dex modifier (max 2) | 3         | —        | Disadvantage | 40 lb. |
-| --------------- | --------- | ------------------------- | --------- | -------- | ------------ | ------ |
-| HEAVY ARMOR     |           |                           |           |          |              |        |
-| Ring mail       | 30  gp    | 13                        | 2         | —        | Disadvantage | 40 lb. |
-| Chain mail      | 75  gp    | 15                        | 3         | Str 13   | Disadvantage | 55 lb. |
-| Splint          | 200 gp    | 16                        | 3         | Str 15   | Disadvantage | 60 lb. |
-| Plate           | 750 gp    | 17                        | 4         | Str 15   | Disadvantage | 65 lb. |
-| Shield          | 10  gp    | +2                        | 1         | —        | —            | 6  lb. |
-| --------------- | --------- | ------------------------- | --------- | -------- | ------------ | ------ |
+|  Armor             |  Cost     |  Armor Class (AC)         | DR Score  | Strength |  Stealth     | Weight |
+| ------------------ | --------- | ------------------------- | --------- | -------- | ------------ | ------ |
+| LIGHT ARMOR        |           |                           |           |          |              |        |
+| Padded             | 5   gp    | 11 + Dex modifier         | 1         | —        | Disadvantage | 8  lb. |
+| Leather            | 10  gp    | 11 + Dex modifier         |           | —        | —            | 10 lb. |
+| Studded leather    | 45  gp    | 12 + Dex modifier         |           | —        | —            | 13 lb. |
+| ------------------ | --------- | ------------------------- | --------- | -------- | ------------ | ------ |
+| MEDIUM ARMOR       |           |                           |           |          |              |        |
+| Hide               | 10  gp    | 12 + Dex modifier (max 2) | 1         | —        | —            | 12 lb. |
+| Chain shirt        | 50  gp    | 13 + Dex modifier (max 2) | 1         | —        | —            | 20 lb. |
+| Scale mail         | 50  gp    | 14 + Dex modifier (max 2) | 2         | —        | Disadvantage | 45 lb. |
+| Breastplate        | 175 gp    | 14 + Dex modifier (max 2) | 2         | —        | —            | 20 lb. |
+| Half plate         | 375 gp    | 15 + Dex modifier (max 2) | 3         | —        | Disadvantage | 40 lb. |
+| ----------------   | --------- | ------------------------- | --------- | -------- | ------------ | ------ |
+| HEAVY ARMOR        |           |                           |           |          |              |        |
+| Ring mail          | 30  gp    | 13                        | 2         | —        | Disadvantage | 40 lb. |
+| Chain mail         | 75  gp    | 15                        | 3         | Str 13   | Disadvantage | 55 lb. |
+| Splint             | 200 gp    | 16                        | 3         | Str 15   | Disadvantage | 60 lb. |
+| Plate              | 750 gp    | 17                        | 4         | Str 15   | Disadvantage | 65 lb. |
+| ----------------   | --------- | ------------------------- | --------- | -------- | ------------ | ------ |
+| SHIELDS            |           |                           |           |          |              |        |
+| Wooden Shield      | 10  gp    | +1                        | 1         | —        | —            | 6  lb. |
+| Reinforced Shield  | 50  gp    | +2                        | 2         | —        | _            | 12 lb. |
+| Steel Greatshield  | 500 gp    | +3                        | 3         | Str 15   | Disadvantage | 25 lb. |
+| ------------------ | --------- | ------------------------- | --------- | -------- | ------------ | ------ |
 ```
 
 ### Armor Sizing

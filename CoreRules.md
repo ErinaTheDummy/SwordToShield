@@ -256,10 +256,10 @@ Nearly all spells require either Verbal (the ability to speak) or Somatic (the a
 Spell components with no listed GP cost are able to be supplemented by simply using a spell focus! If you have a spell focus equipped and cast a spell that has components with no GP cost then ignore the material components of the spell.
 
 ##### Duration 
-Duration refers to the length of time the spell takes place over. Instantaneous spells have no duration as they happen in a single instant, but concentration spells take effect for a specific amount of time or until you choose to end them(in some cases). Certain spells will have a duration but not require concentration
+Duration refers to the length of time the spell takes place over. Instantaneous spells have no duration as they happen in a single instant, but concentration spells take effect for a specific amount of time or until you choose to end them (in some cases). Certain spells will have a duration but not require concentration
 
 ###### Breaking Concentration
-You may break concentration to end a concentration spell at any time as a free action. Concentration also ends if you fall unconscious or are incapacitated or killed. If you take damage while concentrating on a spell make a will roll to maintain concentration with the DC being 8 + the damage sustained or half the damage sustained, whichever is higher, On a failure your concentration ends.
+You may break concentration to end a concentration spell at any time as a free action. Concentration also ends if you fall unconscious or are incapacitated or killed. If you take damage while concentrating on a spell make a will roll to maintain concentration with the DC being 8 + half the damage sustained or equal to the damage sustained, whichever is higher, On a failure your concentration ends.
 
 ##### Targets
 Targets describe who you may make the spell take effect on, often specifying a creature, object, or area of effect.
@@ -302,7 +302,7 @@ You attempt to hide, making a stealth check against the passive perception of ev
 Hitpoints are a measure of your physical wellbeing and consciousness. When your hitpoints drop to 0 or lower you fall unconscious. If you have 0 or fewer hitpoints on your turn you must expend a hit dice and roll a d20, an 11 or higher is considered a success. On 3 Cumulative successes you survive, On 3 cumulative failures you die. if you are at 0 hitpoints and have no hit dice on the start of your turn you die. If you sustain damage greater than 2 times your maximum hitpoints you die instantly.
 
 ### VARIANT RULE: Conscious At No Health
-Rather than passing out immediately at 0 or fewer hitpoints you may make a health roll against half the damage you sustained or 8 + the damage sustained (whichever is higher) on a success you remain standing. Repeat this roll at the start of each of your turns, you fall unconscious and begin dying on a failure.
+Rather than passing out immediately when reduced to 0 or fewer hitpoints you may make a health roll against the damage you sustained or 6 + half the damage sustained (whichever is higher) on a success you remain standing. Repeat this roll at the start of each of your turns, you fall unconscious and begin dying on a failure. Each time you take additional damage, increase the DC by half that damage value and roll again.
 
 ### Damage
 When you sustain damage remove the amount of damage you took from your current hitpoints
@@ -680,8 +680,6 @@ saving throw or fall under one of the following effects:
 | 1          | You begin to harbor an intense greed and hatred for generosity                 |
 | 2-4        | Detrorphius possesses you at random, granting the GM control of your character |
 +------------+--------------------------------------------------------------------------------+
-
-* do not that this is not a real or balanced magic item, and it is not intended to be given to players, it is simply an example 
 ```
 
 

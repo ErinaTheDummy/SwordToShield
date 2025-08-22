@@ -49,7 +49,7 @@ You are an automaton a or some other kind of abiotic life, which requires upkeep
 - Pound of scrap material
 - Liter of oil
 - Tinker's Tools
-- Smithing Tools
+- Smith's Tools
 - Fire
 - Extra pound of scrap material
 - Extra liter of oil

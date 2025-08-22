@@ -285,6 +285,15 @@ Description:
 As an action you may consume this powder, granting you the euphoric effect for 1d4 minutes. When the effect ends make a DC 18 constitution saving throw, on a failure you are inflicted with a random corruption. 
 ```
 
+```
+Underpants of Flight
+Type: Magical Trinket
+Rarity: Uncommon
+Attunement: Y
+Description:
+These magical underpants are embroidered with wings and lightning bolts. Stitched in white fabric with red embroidery and seems. While attuned to and wearing these underpants over your pants you gain a hovering flying speed of 50 feet. If you walk more than 10 feet in a turn while wearing these underpants they rip and lose all magical powers.
+```
+
 # Rare Magic Items
 ```
 
@@ -566,4 +575,19 @@ Attunement Time: 1 week (spent counting grains inside the glass for at least 16 
 Description:
 The Sands of Time are contained within an hour glass and are closely guarded by the god of time Eos in the heavens. If someone were to manage to steal the sands of time, they could turn the hour glass upside down and reverse time around them as far back as they want. While attuned to this item you innately know which way is right side up for the hour glass and you become immortal. As an action you may turn the glass, causing time to reverse around you at the same rate it moves forward  
 
+```
+
+```
+The Dark Scepter of Detrorphius the Mad
+Type: Magical Weapon (Quarterstaff)
+Attunement Time: 1 week (whispering silently to the spirit housed within in total darkness)
+Description: 
+This black metal staff adorned with a massive purple gem at the top once belonged to Detrorphius the Mad, an evil wizard long destroyed by the forces of good. As an action a creature attuned to this weapon may instantly kill one creature within 120 feet with a blast of dark energy. This object is cursed, attuning to it grants you 2 bad corruptions and you must make a DC 18 wisdom saving throw or fall under one of the following effects:
+
++------------+--------------------------------------------------------------------------------+
+| Roll (1d4) |                                     Effect                                     |
++------------+--------------------------------------------------------------------------------+
+| 1          | You begin to harbor an intense greed and hatred for generosity                 |
+| 2-4        | Detrorphius possesses you at random, granting the GM control of your character |
++------------+--------------------------------------------------------------------------------+
 ```

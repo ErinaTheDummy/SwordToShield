@@ -1,11 +1,8 @@
 # Backgrounds
-Backgrounds determine your upbringing and social background, they may include special cultural practices or beliefs or they may be general broad strokes of societal position. You will choose at least two things to determine your background. You are proficient with any usable items or weapons you gain due to the sum of your occupation.
+Backgrounds describe the origin of your character, your character has many things what make them who they are, to include the culture they came from, the social class they were raised in, and the more broad aspects that encompass backgrounds (simply named: background) which may be a job, or a more broad description of a way of life.
 
 ## Social Standing
 Social standing determines your place within society and the kind of wealth you survived or thrived upon before receiving the call the adventure.
-
-## Occupation
-Your occupation describes the job or lack thereof that you take on within your social class. 
 
 ## Optional: Culture
 Your culture determines the atmosphere of the social climate you were raised in. Your culture often reflects values that you deny or hold dear, such as a religion or social stigmas. You may add a culture onto your character, but this grants you little more than roleplay quirks as no one culture is greater than any other in regards to statistical power.
@@ -58,7 +55,7 @@ You know someone within the capitol of your country whom has connections close t
 - 50 GP 
 
 ## Nobility Standing
-You are a noble, born into a long line of wealth and a recognized house of nobility. You may not take an occupation other than nitwit, artist, or actor. You begin with the following materials and features:
+You are a noble, born into a long line of wealth and a recognized house of nobility. You may not take any background other than nitwit, artist, or actor. You begin with the following materials and features:
 
 ### Wealthy
 You bank with the national reserve in the capitol of your country. You are capable of taking out loans up to 1000 GP from the bank and you have a starting account balance of 1000 GP.
@@ -70,71 +67,71 @@ You bank with the national reserve in the capitol of your country. You are capab
 - 50 GP (A day's pay)
 
 
-# Occupations
-You are automatically proficient in your tools of trade.
+# Background
+You are automatically proficient in your starting items.
 
 ## Farmer
-Your tools of trade are a scythe and a shovel
+Your starting items are a scythe and a shovel
 
 ### Farm Knowledge
 You gain proficiency in nature and survival and have advantage on checks to identify plants and animals.
 
 ## Rancher
-Your tools of trade are a trident, 10 rations of animal feed, and a net.
+Your starting items are a trident, 10 rations of animal feed, and a net.
 
 #### Herder
 You regularly shepard animals, guiding them gently. You gain proficiency in animal handling and persuasion. You may also gain the trust of wildlife by granting them a piece of food not usual to their diet.
 
 ## Fisherman
-Your tools of trade are a fishing pole, 10 pieces of bait, and a tacklebox.
+Your starting items are a fishing pole, 10 pieces of bait, and a tacklebox.
 
 #### Aquatic Adept
 You have advantage on checks to locate bodies of water in the wilderness and you have advantage on checks to fish in naturally occurring bodies of water. You also gain 15 feet of swimming speed.
 
 ## Miner
-Your tools of trade are a pickaxe, 10 pitons, and a miner's cap.
+Your starting items are a pickaxe, 10 pitons, and a miner's cap.
 
 #### Dimvision
 You have acclimated to the darkness of the mines. You see in dim light as if it is bright light.
 
 ## Lumberjack
-Your tools of trade are a handaxe, a handsaw, and 50 feet of chains.
+Your starting items are a handaxe, a handsaw, and 50 feet of chains.
 
 #### Weakpoints
 As an action you may examine an object or structure to determine it's most structurally weak point. You deal double damage to objects or constructs when you determine their weakpoint.
 
 ## Unfortunate
-You do not have a job, and thus do not have tools of trade.
+You do not have a job, and thus do not have starting items.
 
 #### Learned Beggar
 You rely on the generosity of others to get by. You have advantage on persuasion checks to convince others to give you an object or a simple favor.  
 
 ## Clergyman
-Your tools of trade are a holy symbol, a vial of holy water, and vestments
+Your starting items are a holy symbol, a vial of holy water, and vestments
 
 #### Holy Authority
 You gain proficiency in religion checks. You also gain proficiency in one other skill of your choice.
 
 ## Hunter
-Your tools of trade are a beartrap, caltrops, and a longbow with 30 arrows.
+Your starting items are a beartrap, caltrops, and a longbow with 30 arrows.
 
 #### Forrester
 You have advantage on checks to track animals in the wilderness and proficiency in survival. You also gain 15 feet of climbing speed.
 
 ## Thief
-Your tools of trade are lockpicking tools and a dagger. 
+Your starting items are lockpicking tools and a dagger. 
 
 #### Thieve's Nimbleness
 You gain proficiency in acrobatics and sleight of hand.
 
 ## Grunt
-Your tools of trade are a shortsword and lockpicking tools
+Your starting items are a shortsword and lockpicking tools
 
 #### Gang Protection
 You are part of an illegal gang, this gang may offer protection to you from outside forces if they are not extremely formidable. In return you must obey the commands of your boss.
 
 ## Cook
-Your tools of trade are cooking utensils and a dagger
+Your starting items are cooking utensils and a dagger
 
 #### Butcher
 You are capable of harvesting double the amount of meat from a game creature, to be used in cooking. You also may turn a ration into a meal that can feed two, which expires if not eaten within an hour.
@@ -152,47 +149,52 @@ Your tool of trade is a painters kit.
 You may spend 10 GP to buy materials to make a painting over the course of as little as one hour, or as long as 1 year. You may attempt to sell this painting, and you decide it's final look.
 
 ## Sage
-You do not have tools of trade, you instead gain proficiency in arcana.
+You do not have starting items, you instead gain proficiency in arcana.
 
 #### Bookworm
 You are capable of gathering relevant information from scouring a library, so long as the information would be public knowledge, or contained within the library. You also gain proficiency in two skills of your choice, which you learned through reading books. 
 
-## Martial Occupation
-Your tools of trade are a longsword, a set of medium armor.
+## Martial Background
+Your starting items are a longsword, a set of medium armor.
 
 #### Training
 You have been trained formally in some sort of weapon-based martial art. You gain proficiency in athletics and 2 weapons of your choice.
 
-## Veteran
-You do not have tools of trade, you instead gain proficiency in athletics and three weapons of your choice.
+## Military Veteran
+You do not have starting items, you instead gain proficiency in athletics and three weapons of your choice.
 
 #### Pension
-You were once an active service member of your country's military but have since retired. You receive a check in the mail every week relinquishing 5 gp to you. You are recognized as some as a common hero and you may be offered discounts at certain businesses. 
+You were once an active service member of your country's military but have since retired. You receive a check in the mail every week relinquishing 5 gp to you. You are recognized by some as a common hero and you may be offered discounts at certain businesses. 
 
 ## Doctor
-Your tools of trade are a medical kit, 5 bandages, and soap.
+Your starting items are a medical kit, 5 bandages, and soap.
 
 #### Operation 
 You have learned fundamental surgery techniques. You gain proficiency in medicine and you may make a medicine check to perform on a dying creature over the course of an hour. The creature is stabilized for the duration, entering the dying state again if the operation is interrupted. The results of the operation are decided by your GM, but regardless of the finer details the creature wakes with full hitpoint after the operation is complete. 
 
 ## Tinkerer
-Your tools of trade are tinker's tools and 5 flasks of oil.
+Your starting items are tinker's tools and 5 flasks of oil.
 
 #### Tinkering
 During a rest you may create a simple melee weapon from nothing more than your surroundings, using tinker's tools. You are proficient with this weapon and it deals 1d8 damage of bludgeoning, piercing, or slashing damage (your choice). You may also fix mundane items over one hour using units of scrap, tinker's tools, and a flame. The amount of scrap needed for this is decided by your GM.
 
 ### Smith
-Your tools of trade are smith's tools, 2 flasks of oil, and leather working tools.
+Your starting items are smith's tools, 2 flasks of oil, and leather working tools.
 
 #### Do It Yourself
 During a rest, you may replicate mundane weaponry both simple and martial using an amount of scrap metal equal to the cost of an item in in gold pieces, and a set of smith's tools. This weapon counts as a non magical +1 variant of the base weapon.
 
 ## Missionary
-Your tools of trade are a holy symbol made from precious metal, 2 flasks of holy water, and vestments.
+Your starting items are a holy symbol made from precious metal, 2 flasks of holy water, and vestments.
 
 #### Messenger of Faith
 Over your years of travel and spreading the words and values of your god you embody a great messenger. You gain proficiency in persuasion. You also gain the unique ability to persuade non-believers, if given 1 hour with an NPC to discuss your faith you may attempt a persuasion check with a DC decided by your GM in an attempt to sway them to your world view, some NPCs may react negatively to this.
 
+## Outcast
+Your starting items are a family herloom, a dagger, a piece of jewelry and heavily worn clothing
+
+#### Disgraced
+You have been cast out from your family, town, village or other community, other-ed and shunned. You cannot go home, you don't have one anymore. When you enter a new town you have an eerie and instant understanding of the streets and the locations of any shops or establishments, provided they aren't secret as decided by your GM. 
 
 # Cultures (Optional)
 
@@ -207,6 +209,9 @@ Groundfolk are those who live in underground societies. They often consist mostl
 
 ### Freelanders
 Freelanders are a culture of naturalists. Freelanders live in unity with nature, often enlisting the aid of undomesticated creatures and worshiping Wildrea. Their civilizations often do not have many man made structures, with homes often being built in hollowed out trees cultivated over centuries and all members of society living modestly an within their means; without excess.
+
+### Maldrite
+Worshipers of the defiled god Maldrin, The Dead King of Gods. Their doctrine opposes that of An'Irites, finding the act of making for the sake of creation vile and cancerous. Maldrites believe in superiority of their people over the rest of the world, and that if more people like them existed, and less people unlike them existed, society would be better off. There is an intrinsic link betwine Maldrites and magic, just the same as the link between rot and stench. Maldrites often exist in insular, cult-like communities and shun those who would oppose true faith and allegiance to Maldrin. If you take this culture you learn Anirandrus at no cost.
 
 ### North Ebranan
 North Ebranans occupy the northwest corner of Valarus. The upper class of North Ebrana speaks Ulfen, while the lower class speaks Ebranan. Almost all North Ebranans are wood elves. North Ebranan society is chaotic and in turmoil; wealthy merchant dynasties hold immense power over the peasantry.

@@ -56,7 +56,7 @@ When you deal slashing damage and cause a bleed the bleed may not be stopped unl
 When a creature sustains a break from one of your bludgeoning attack the break is one level of severity higher, instantly killing them if it would be a compound fracture before the increase.
 
 ### Proficiency Training
-You gain proficiency in one item type of your choice from simple weapons, martial weapons, light armor, medium armor, heavy armor, shields or two sets of tools.
+You gain proficiency in two item types of your choice from simple weapons, martial weapons, light armor, medium armor, heavy armor, shields, one game-set, or one tool-set.
 
 ### Gunner
 You gain proficiency in firearms and learn two gunslinger maneuvers.
